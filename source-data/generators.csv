@@ -1,0 +1,2173 @@
+ID,BUS_ID,CAPACITY,CATEGORY,LONGITUDE,LATITUDE,MB_SYMBOL,NAME_ENG,NAME_NAT,SYMBOL,TSO,VISIBLE
+497,1421,0,0,8.184814,36.90598,fossil_mixed,Koudiet Eddraouch, ,Mixed fuels, ,1
+1,1,-1,,43.681641,36.208823,hydro_ror,Irbil North, ,Hydro run of river & pondage,,1
+2,2,-1,,43.846436,35.469618,hydro_ror,Tamem, ,Hydro run of river & pondage,,1
+498,1434,0,0,6.16333000000001,36.809285,fossil_mixed_cons,Bellara, ,"Mixed fuels, under construction", ,1
+3,3,-1,,44.813232,31.391158,hydro_ror,An Nasirriyah, ,Hydro run of river & pondage,,1
+499,613,0,0,6.108398,35.880149,fossil_mixed,Ain Djasser, ,Mixed fuels, ,1
+4,4,-1,,43.879395,32.166313,other_nl,Karbala, ,Other or not listed,,1
+500,613,0,0,5.932617,35.85344,fossil_mixed_cons,Ain Djasser, ,"Mixed fuels, under construction", ,1
+5,5,-1,,43.934326,32.667125,hydro_ror,Mussaib, ,Hydro run of river & pondage,,1
+549,1616,198,,-5.438232,40.245992,hydro_ror,Azutan, ,Hydro run of river & pondage,,1
+6,28,-1,,43.341064,35.89795,hydro_ror,Mosul, ,Hydro run of river & pondage,,1
+501,660,0,0,4.372559,35.684072,fossil_mixed,M'Sila, ,Mixed fuels, ,1
+7,30,-1,,43.406982,35.209722,hydro_ror,Baji, ,Hydro run of river & pondage,,1
+502,1454,0,0,3.74633799999999,36.870832,fossil_mixed_cons,Ras Djinet, ,"Mixed fuels, under construction", ,1
+8,31,-1,,42.253418,34.307144,hydro_ror,Qaim, ,Hydro run of river & pondage,,1
+503,1447,0,0,5.31738300000001,36.111253,fossil_mixed_cons,Ain Arnat, ,"Mixed fuels, under construction", ,1
+9,39,-1,,34.573975,31.737511,other_nl,Ashkelon, ,Other or not listed,,1
+504,122,1595,1,21.96167,40.538852,fossil_brown_lignite,Ag.Dimitrios, ,Brown coal/Lignite,,-1
+10,41,-1,,34.683838,31.905541,other_nl,Ashdod, ,Other or not listed,,1
+505,124,600,1,21.730957,40.730608,fossil_brown_lignite,Amyndeo, ,Brown coal/Lignite,,-1
+11,42,-1,,34.914551,32.583849,other_nl,Hadera, ,Other or not listed,,1
+506,123,1212,1,21.643066,40.388397,fossil_brown_lignite,Kardia, ,Brown coal/Lignite,,-1
+507,1468,0,0,2.84545900000001,36.377068,fossil_mixed_cons,Boufarik, ,"Mixed fuels, under construction", ,1
+12,43,-1,,34.804688,32.240683,other_nl,Tel-Aviv, ,Other or not listed,,1
+508,6632,672,,38.122559,37.002553,hydro_pure_storage,Birecik, ,Hydro pure storage,,1
+509,1514,990,,-8.536377,41.021355,fossil_coal_gas,T. Outeiro, ,Fossil gas,,1
+13,44,-1,,35.046387,32.907262,other_nl,Haifa, ,Other or not listed,,1
+510,1502,220,,-7.80029300000001,41.689322,hydro_mixed,Salamonde II, ,Hydro mixed pump storage,,1
+511,1536,159,,-8.31665,39.588757,hydro_pure_storage,Castelo de Bode, ,Hydro pure storage,,1
+14,6675,-1,,34.387207,31.512996,other_nl,Gaza, ,Other or not listed,,1
+512,1556,57,,-7.866211,37.300275,wind,Malhanito, ,Wind farm,,1
+15,54,-1,,39.638672,24.686952,other_nl,Al Madina, ,Other or not listed,,1
+16,46,-1,,38.825684,23.513626,other_nl,Rabigh, ,Other or not listed,,1
+513,1535,132,,-7.822266,39.639538,hydro_ror,Fratel, ,Hydro run of river & pondage,,1
+17,51,-1,,39.693604,21.943046,other_nl,Jeddah, ,Other or not listed,,1
+514,1563,108,,-8.23974600000001,39.876019,hydro_pure_storage,Cabril, ,Hydro pure storage,,1
+515,1537,369,,-6.42700200000001,41.5497,hydro_ror,Miranda, ,Hydro run of river & pondage,,1
+18,65,-1,,40.275879,22.014361,other_nl,Makkah, ,Other or not listed,,1
+518,1522,240,,-7.39379900000001,41.286062,hydro_ror,Valeira, ,Hydro run of river & pondage,,1
+19,67,-1,,40.385742,21.667639,other_nl,Taif, ,Other or not listed,,1
+519,1522,58,,-7.53662100000001,41.112469,hydro_pure_storage,Tabuaço, ,Hydro pure storage,,1
+20,59,-1,,39.70459,21.596151,other_nl,Shoaibah, ,Other or not listed,,1
+21,63,-1,,39.671631,22.08564,other_nl,Jeddah, ,Other or not listed,,1
+22,53,-1,,40.341797,27.965295,other_nl,Hail, ,Other or not listed,,1
+520,1519,180,,-7.745361,41.186922,hydro_ror,Régua, ,Hydro run of river & pondage,,1
+23,49,-1,,39.616699,24.467151,other_nl,Al Munwwarah, ,Other or not listed,,1
+521,1502,68,,-7.92114300000001,41.738528,hydro_mixed,A.Rabagão, ,Hydro mixed pump storage,,1
+24,52,-1,,39.25415,22.917923,other_nl_cons,Ipp, ,"Other or not listed, under construction",,1
+522,1753,125,,-8.15185500000001,41.763117,hydro_mixed,V.das Furnas, ,Hydro mixed pump storage,,1
+25,59,-1,,37.133789,20.468189,other_nl_cons,Port Sudan, ,"Other or not listed, under construction",,1
+523,1503,144,,-7.66845700000001,41.754922,hydro_pure_storage,Vila Nova, ,Hydro pure storage,,1
+26,119,90,2,22.038574,38.470794,wind,WF-5,WF-5,Wind farm,,-1
+524,1545,62,,-8.20678699999999,41.557922,hydro_pure_storage,Caniçada, ,Hydro pure storage,,1
+27,77,418,,33.21167,34.732584,fossil_oil,Moni P.S., ,Fossil oil,,1
+525,1503,736,,-7.63549799999999,41.697526,hydro_mixed_cons,Frades II, ,"Hydro mixed pump storage, under construction",,1
+28,78,247,,33.376465,34.759666,fossil_oil,Vasilikos P.S., ,Fossil oil,,1
+526,1517,201,,-8.16284199999999,41.029643,hydro_ror,Carrapatelo, ,Hydro run of river & pondage,,1
+29,80,520,,33.804932,34.966999,fossil_oil,Dhekelia P.S., ,Fossil oil,,1
+527,1517,140,,-8.21777299999999,41.079351,hydro_mixed,Torrão, ,Hydro mixed pump storage,,1
+528,1488,336,,-8.20678699999999,40.405131,hydro_mixed,Aguieira, ,Hydro mixed pump storage,,1
+30,82,160,,24.356689,41.99216,hydro_pure_ps,Orfey,Opфeй,Hydro pure pump storage,,1
+529,1528,576,,-8.20678699999999,39.419221,fossil_coal_hard,Pego, ,Hard coal,,1
+31,83,88,,24.455566,41.746726,hydro_ror,Devin,Девин,Hydro run of river & pondage,,1
+530,1532,117,,-8.51440399999999,40.963308,hydro_ror,Crestuma, ,Hydro run of river & pondage,,1
+32,84,60,,24.32373,41.640078,hydro_ror,Teshel,Тешел,Hydro run of river & pondage,,1
+33,92,24,,20.039062,41.566142,hydro_pure_storage,Ulze, ,Hydro pure storage,,1
+531,1502,780,,-7.89916999999999,41.795888,hydro_mixed,Frades, ,Hydro mixed pump storage,,1
+532,1546,97,,-7.97607400000001,40.019201,wind,Pampilhosa, ,Wind farm,,1
+34,515,100,,19.434814,40.446947,fossil_mixed,Vlore, ,Mixed fuels,,1
+533,1497,124,,-7.05322299999999,40.128491,wind,Penamacor, ,Wind farm,,1
+35,459,23,,20.050049,39.926588,hydro_ror,Bistrice, ,Hydro run of river & pondage,,1
+534,1500,1176,,-9.04174799999999,39.155622,fossil_coal_gas,Ribatejo, ,Fossil gas,,1
+36,511,25,,19.962158,41.640078,hydro_pure_storage,Shkopet, ,Hydro pure storage,,1
+535,1528,837,,-8.10791000000001,39.410733,fossil_coal_gas,Pego 2, ,Fossil gas,,1
+37,102,210,2,21.005859,39.859155,hydro_pure_storage,Piges Aoou, ,Hydro pure storage,,-1
+536,1540,826,,-8.712158,40.12009,fossil_coal_gas,Lares, ,Fossil gas,,1
+38,101,333.600006,2,21.269531,39.257778,hydro_pure_storage,Pournari, ,Hydro pure storage,,-1
+537,1554,254,,-7.54760699999999,38.186387,hydro_mixed,Alqueva II, ,Hydro mixed pump storage,,1
+39,103,81.300003,2,21.335449,38.61687,hydro_pure_storage,Stratos, ,Hydro pure storage,,-1
+538,1610,-1,,-5.09765600000001,39.3173,hydro_ror,Cijara, ,Hydro run of river & pondage,,1
+40,103,437.200012,2,21.643066,38.822591,hydro_pure_storage,Kremasta, ,Hydro pure storage,,-1
+539,1635,881,,-6.185303,41.352072,hydro_ror,Villalcampo, ,Hydro run of river & pondage,,1
+41,103,320,2,21.390381,38.771216,hydro_pure_storage,Kastraki, ,Hydro pure storage,,-1
+541,1627,254,,-6.756592,40.979898,hydro_ror,Saucelle I, ,Hydro run of river & pondage,,1
+42,107,129.899994,2,21.796875,39.283294,hydro_pure_storage,N. Plastiras, ,Hydro pure storage,,-1
+542,1763,276,,-6.756592,40.855371,hydro_ror,Saucelle II, ,Hydro run of river & pondage,,1
+43,119,70,2,21.928711,37.814124,hydro_pure_storage,Ladonas, ,Hydro pure storage,,-1
+543,1629,-1,,-7.41577099999999,41.943149,hydro_ror,Soutelo, ,Hydro run of river & pondage,,1
+44,99,845,1,22.280273,37.422526,fossil_coal_gas_cons,Megalopoli, ,"Fossil gas, under construction",,-1
+544,1673,-1,,-7.40478500000001,39.58029,hydro_ror,Cedillo, ,Hydro run of river & pondage,,1
+45,1379,355.200012,1,23.961182,35.487511,fossil_oil,Chania, ,Fossil oil,,-1
+545,1591,-1,,-6.87744100000001,39.791655,hydro_ror,J.M. de Oriol, ,Hydro run of river & pondage,,1
+46,114,384,2,24.356689,41.244772,hydro_mixed,Thissavros, ,Hydro mixed pump storage,,-1
+546,1614,131,,-6.273193,39.749434,hydro_ror,Torrejón, ,Hydro run of river & pondage,,1
+47,1379,278.799988,1,24.927979,35.371135,fossil_oil,Linoperamata, ,Fossil oil,,-1
+547,1631,-1,,-6.33911100000001,40.086477,hydro_ror,Guijo de G., ,Hydro run of river & pondage,,1
+48,458,250,1,27.949219,36.261992,fossil_oil,Soroni, ,Fossil oil,,-1
+49,124,593,1,21.665039,40.488737,fossil_brown_lignite,Ptolemaida, ,Brown coal/Lignite,,-1
+548,1631,-1,,-6.26220699999999,40.279526,hydro_ror,G. y Galan, ,Hydro run of river & pondage,,1
+550,1689,1957,,-6.141357,39.639538,other_nl,C.N. Almaraz, ,Other or not listed,,1
+50,124,50,2,21.917725,40.663973,hydro_pure_storage,Agras, ,Hydro pure storage,,-1
+551,1612,249,,-5.66894500000001,39.740986,hydro_ror,Valdecañas, ,Hydro run of river & pondage,,1
+51,121,108,2,22.510986,40.396764,hydro_pure_storage,Assomata, ,Hydro pure storage,,-1
+52,122,315,2,22.401123,40.33817,hydro_mixed,Sfikia, ,Hydro mixed pump storage,,-1
+552,1570,-1,,-4.064941,39.300299,other_nl,Aceca, ,Other or not listed,,1
+53,122,375,2,22.324219,40.271144,hydro_pure_storage,Polyphyto, ,Hydro pure storage,,-1
+553,1662,-1,,-2.13134800000001,40.763901,other_nl,Trillo, ,Other or not listed,,1
+54,110,360,1,23.69751,37.926868,fossil_coal_gas,Ag. Georgios, ,Fossil gas,,-1
+554,1623,221,,-4.08691400000001,38.651198,other_nl,Puertollano, ,Other or not listed,,1
+55,114,116,2,24.664307,41.253032,hydro_pure_storage,Platanovrisi, ,Hydro pure storage,,-1
+555,1602,-1,,-4.97680699999999,38.074041,other_nl,Puentenuevo, ,Other or not listed,,1
+56,116,484.600006,1,25.367432,41.120746,fossil_coal_gas,Komotini, ,Fossil gas,,-1
+556,1573,-1,,-7.08618200000001,37.212832,other_nl,C.Colon, ,Other or not listed,,1
+57,115,330,1,21.478271,40.838749,fossil_brown_lignite,Meliti, ,Brown coal/Lignite,,-1
+557,1587,-1,,-6.03149400000001,37.640335,hydro_ror,Guillena, ,Hydro run of river & pondage,,1
+58,102,160,2,21.203613,39.554883,hydro_pure_storage_cons,Messochora, ,"Hydro pure storage, under construction",,-1
+558,1738,-1,,-5.32836900000001,36.217687,other_nl,Bahia de Algeciras, ,Other or not listed,,1
+59,118,579.799988,1,23.203125,38.289937,fossil_coal_gas,Heron, ,Fossil gas,,-1
+559,1990,-1,,-5.53710900000001,36.040216,other_nl,Tarifa, ,Other or not listed,,1
+60,106,448.5,1,22.543945,38.367502,fossil_coal_gas,Ag.Nikolaos, ,Fossil gas,,-1
+560,1597,-1,,-4.735107,36.897194,hydro_ror,Tajo de la Encantada, ,Hydro run of river & pondage,,1
+61,121,395,1,22.609863,40.647304,fossil_coal_gas,Enthes, ,Fossil gas,,-1
+561,1766,-1,,-4.152832,37.291535,hydro_ror,Jauja, ,Hydro run of river & pondage,,1
+62,1379,195.199997,1,26.114502,35.074965,fossil_oil,Atherinolakkos, ,Fossil oil,,-1
+562,1650,1159,,-1.955566,36.958671,other_nl,Litoral de Almería, ,Other or not listed,,1
+63,458,115,1,27.103271,36.809285,fossil_oil,Kos, ,Fossil oil,,-1
+563,6234,-1,,-6.448975,41.845013,hydro_ror,Valparaiso, ,Hydro run of river & pondage,,1
+64,118,421.600006,1,23.126221,38.186387,fossil_coal_gas,Thisvi, ,Fossil gas,,-1
+564,1713,-1,,-1.65893599999999,41.934977,hydro_ror,Tudela, ,Hydro run of river & pondage,,1
+65,129,456,,14.348145,40.813809,fossil_coal_gas,Levante, ,Fossil gas,,1
+565,1630,-1,,-5.89965800000001,41.47566,hydro_ror,Zamora, ,Hydro run of river & pondage,,1
+66,137,369,,9.30541999999999,40.094882,hydro_ror,Taloro, ,Hydro run of river & pondage,,1
+566,1631,-1,,-6.503906,40.472024,hydro_ror,Ciudad Rodrigo, ,Hydro run of river & pondage,,1
+67,169,120,,14.161377,41.516804,hydro_mixed,Capriati, ,Hydro mixed pump storage,,1
+567,1609,-1,,-3.47167999999999,36.75649,hydro_ror,Duque, ,Hydro run of river & pondage,,1
+68,166,1200,,14.106445,41.385052,hydro_ror,Presenzano, ,Hydro run of river & pondage,,1
+568,1989,-1,,-3.54858400000001,36.923548,hydro_ror,Poqueira, ,Hydro run of river & pondage,,1
+69,191,415,,14.468994,41.029643,fossil_oil,Maddaloni, ,Fossil oil,,1
+569,1609,-1,,-3.73535199999999,36.774092,hydro_ror,Izbor, ,Hydro run of river & pondage,,1
+70,135,272,,16.875,41.104191,fossil_oil,Bari, ,Fossil oil,,1
+570,1597,-1,,-4.724121,36.967449,hydro_ror,Nuevo Chorro, ,Hydro run of river & pondage,,1
+71,201,1436,,17.95166,40.638967,fossil_oil,Brindisi /N., ,Fossil oil,,1
+571,1738,-1,,-5.29540999999999,36.27085,hydro_ror,Bahia de Algeciras, ,Hydro run of river & pondage,,1
+72,130,2910,,18.061523,40.513799,fossil_brown_lignite,Brindisi /S., ,Brown coal/Lignite,,1
+572,1675,-1,,-5.75683600000001,36.173357,other_nl,Facinas, ,Other or not listed,,1
+73,170,1979,,16.534424,39.512517,fossil_oil,Rossano, ,Fossil oil,,1
+573,1596,-1,,-5.64697299999999,36.208823,hydro_ror,San Roque, ,Hydro run of river & pondage,,1
+74,182,1455,,15.292969,38.212288,fossil_oil,S. F. Mela, ,Fossil oil,,1
+574,1683,-1,,-5.69091799999999,36.800488,hydro_ror,Arcos de la Frontera (Norte), ,Hydro run of river & pondage,,1
+75,132,611,,8.47045899999999,39.164141,fossil_brown_lignite,Sulcis, ,Brown coal/Lignite,,1
+575,1573,-1,,-7.119141,37.274053,nuclear_cons,C.Colon, ,"Nuclear, under construction",,1
+76,176,660,,14.985352,37.07271,hydro_ror,Anapo, ,Hydro run of river & pondage,,1
+576,1671,-1,,-2.19726599999999,41.71393,wind,Wind farms, ,Wind farm,,1
+577,1694,-1,,-2.72460899999999,41.029643,wind,Wind farms, ,Wind farm,,1
+77,171,679,,15.26001,37.011326,fossil_oil,ISAB, ,Fossil oil,,1
+578,1652,116,,-3.12011699999999,39.172659,wind,Wind farms, ,Wind farm,,1
+78,154,423,,14.0625,40.805494,fossil_oil,Giugliano, ,Fossil oil,,1
+579,1727,-1,,-4.866943,37.028869,wind,Wind farms, ,Wind farm,,1
+79,139,200,,8.843994,39.181175,fossil_oil,Assemini, ,Fossil oil,,1
+580,1682,-1,,-3.14209,37.396346,wind,Wind farms, ,Wind farm,,1
+581,1681,-1,,-1.84570299999999,38.83115,wind,Wind farms, ,Wind farm,,1
+80,216,475,,15.556641,41.162114,fossil_coal_gas,Candela, ,Fossil gas,,1
+582,1659,-1,,-1.97753899999999,39.478606,wind,Olmedilla, ,Wind farm,,1
+81,185,912,,16.138916,38.281313,fossil_coal_gas,Rizziconi, ,Fossil gas,,1
+583,1011,54,,-8.59130900000001,38.453589,biomass,Portucel Setúbal, ,Biomass,,1
+82,147,-1,,12.524414,37.814124,wind,Trapani-Salemi, ,Wind farm,,1
+584,1528,81,,-7.92114300000001,39.436193,hydro_ror,Belver, ,Hydro run of river & pondage,,1
+83,149,48,,13.19458,38.022131,wind,Partinico, ,Wind farm,,1
+585,1538,103,,-8.83300799999999,39.419221,wind,Candeeiros, ,Wind farm,,1
+84,202,136,,17.050781,38.942321,wind,Capo Rizzuto, ,Wind farm,,1
+586,1507,78,,-8.81103500000001,39.554883,wind,Chão Falcão, ,Wind farm,,1
+85,131,474,,8.31665,40.84706,fossil_brown_lignite,Fiume Santo, ,Brown coal/Lignite,,1
+587,1546,130,,-7.866211,39.867588,wind,P. Interior, ,Wind farm,,1
+86,132,388,,8.404541,39.283294,fossil_oil,Portoscuso, ,Fossil oil,,1
+588,1495,114,,-7.62451200000001,39.97712,wind,Gardunha, ,Wind farm,,1
+87,214,690,,9.05273399999999,39.087436,fossil_oil,Sarlux, ,Fossil oil,,1
+589,1546,102,,-7.81127899999999,40.145289,wind,Toutiço, ,Wind farm,,1
+88,153,1691,,13.590088,37.996163,fossil_oil,Termini, ,Fossil oil,,1
+590,1553,50,,-8.21777299999999,40.103286,wind,Lousã II, ,Wind farm,,1
+89,171,1277,,15.314941,37.116526,fossil_oil,Priolo, ,Fossil oil,,1
+591,1530,71,,-8.94287100000001,39.951859,biomass,Celbi, ,Biomass,,1
+90,219,967,,14.919434,41.99216,fossil_coal_gas,Termoli Energia, ,Fossil gas,,1
+592,1530,95,,-8.94287100000001,40.061257,biomass,Soporcel, ,Biomass,,1
+91,202,941,,17.160645,39.019184,fossil_oil,Scandale, ,Fossil oil,,1
+593,1497,110,,-7.03125,40.229218,wind,Raia, ,Wind farm,,1
+92,203,684,,17.105713,40.480381,fossil_oil,Taranto, ,Fossil oil,,1
+594,1517,112,,-8.261719,40.855371,wind,Montemuro, ,Wind farm,,1
+93,223,189,,22.280273,41.590797,fossil_oil,Negotino, ,Fossil oil,,1
+595,1513,75,,-8.29467799999999,40.722283,hydro_pure_storage,Ribeiradio, ,Hydro pure storage,,1
+94,222,150,,20.775146,41.763117,hydro_ror,Vrutok, ,Hydro run of river & pondage,,1
+596,1529,90,,-8.129883,40.680638,wind,Caramulo, ,Wind farm,,1
+95,224,606,,21.588135,41.029643,fossil_brown_lignite,Bitola, ,Brown coal/Lignite,,1
+96,5925,-1,,0.823974999999992,41.853196,hydro_ror,Camarasa, ,Hydro run of river & pondage,,1
+97,241,-1,,0.0439449999999986,40.103286,other_nl,Castello, ,Other or not listed,,1
+98,255,1102,,-0.340575999999992,41.013066,other_nl,Teruel, ,Other or not listed,,1
+99,259,-1,,0.527343999999999,41.19519,other_nl,Asco, ,Other or not listed,,1
+100,263,-1,,0.483397999999997,41.26955,hydro_ror,Riba Roja, ,Hydro run of river & pondage,,1
+598,1523,240,,-6.405029,41.368564,hydro_ror,Bemposta, ,Hydro run of river & pondage,,1
+101,264,-1,,0.307616999999998,41.393294,hydro_ror,Mequinenza, ,Hydro run of river & pondage,,1
+102,227,510,,3.10913100000001,39.850721,other_nl,Murterar, ,Other or not listed,,1
+599,1526,195,,-6.328125,41.426253,hydro_ror,Picote, ,Hydro run of river & pondage,,1
+103,243,-1,,-1.38427700000001,39.138582,other_nl,Confrentes, ,Other or not listed,,1
+104,242,-1,,-1.04370099999999,39.283294,hydro_ror,Confrentes, ,Hydro run of river & pondage,,1
+600,1537,245,,-6.28418000000001,41.483891,hydro_ror,Picote II, ,Hydro run of river & pondage,,1
+105,242,-1,,-0.955810999999992,39.232253,hydro_ror,Cortes II, ,Hydro run of river & pondage,,1
+601,1755,251,,-7.56958000000001,41.343825,hydro_mixed_cons,Foz Tua, ,"Hydro mixed pump storage, under construction",,1
+106,252,-1,,-0.626221000000005,40.855371,other_nl,C.T. Escucha, ,Other or not listed,,1
+602,6315,240,,-8.64624000000001,41.943149,wind,Alto Minho, ,Wind farm,,1
+107,545,326,,1.39526399999999,38.85682,other_nl,Torrent, ,Other or not listed,,1
+603,1807,61,,-8.76709000000001,41.640078,biomass,Viana, ,Biomass,,1
+108,544,-1,,1.53808599999999,38.68551,other_nl,Formentera, ,Other or not listed,,1
+604,1548,142,,-7.84423800000001,41.442726,wind,Alto Coutada, ,Wind farm,,1
+109,308,-1,,1.098633,41.087632,other_nl,Foix, ,Other or not listed,,1
+110,261,-1,,0.593262000000012,40.730608,other_nl_cons,Vandellos, ,"Other or not listed, under construction",,1
+605,796,51,,-9.08569299999999,38.83115,waste_nr,ValorSul, ,Waste,,1
+111,327,1256,,-0.142822000000005,39.88445,nuclear_cons,Sagunto, ,"Nuclear, under construction",,1
+112,316,-1,,-1.16455100000001,38.030786,hydro_ror,Murcia, ,Hydro run of river & pondage,,1
+606,1505,101,,-8.261719,41.43449,wind,T.A. Fafe, ,Wind farm,,1
+113,295,-1,,-0.571288999999998,40.555548,wind,Wind farms, ,Wind farm,,1
+607,1503,87,,-7.71240200000001,41.812267,wind,Terra Fria, ,Wind farm,,1
+114,261,-1,,0.351561999999997,40.763901,wind,Wind farms, ,Wind farm,,1
+115,289,-1,,1.065674,41.557922,wind,Wind farms, ,Wind farm,,1
+608,1501,630,,-8.32763700000001,41.95949,hydro_pure_storage,Alto Lindoso, ,Hydro pure storage,,1
+609,1633,881,,-6.48193399999999,41.253032,hydro_ror,Villarino, ,Hydro run of river & pondage,,1
+116,229,-1,,-0.867919999999991,37.561997,other_nl,Fausita, ,Other or not listed,,1
+117,229,-1,,-0.747069999999996,37.649034,other_nl_cons,Fausita, ,"Other or not listed, under construction",,1
+610,1760,153,,-7.13012700000001,41.26955,hydro_mixed,Baixo Sabor, ,Hydro mixed pump storage,,1
+118,261,-1,,0.527343999999999,40.713956,other_nl,Vandellos, ,Other or not listed,,1
+611,1553,85,,-7.83325200000001,40.212441,wind,Beiras, ,Wind farm,,1
+119,346,990,,27.443848,39.113014,fossil_brown_lignite,Soma B, ,Brown coal/Lignite,,1
+120,467,200,,26.938477,38.642618,fossil_coal_gas,Petkim, ,Fossil gas,,1
+612,1567,215,,-7.63549799999999,41.021355,wind,Alto Douro, ,Wind farm,,1
+121,417,365,,29.300537,39.342794,fossil_brown_lignite,Tutes A, ,Brown coal/Lignite,,1
+122,347,420,,27.861328,37.212832,fossil_brown_lignite,Yenikoy, ,Brown coal/Lignite,,1
+613,1549,60,,-7.075195,41.483891,wind,Bornes, ,Wind farm,,1
+123,348,630,,28.179932,37.274053,fossil_brown_lignite,Yatağan, ,Brown coal/Lignite,,1
+614,1569,820,,-6.80053699999999,41.037931,hydro_ror,Aldeadávila II, ,Hydro run of river & pondage,,1
+124,358,600,,30.311279,38.925229,fossil_brown_lignite,Seyitömer-B, ,Brown coal/Lignite,,1
+615,1758,432,,-6.624756,41.236511,hydro_ror,Aldeadávila II, ,Hydro run of river & pondage,,1
+125,359,504,,27.872314,41.021355,fossil_coal_gas,Unimar, ,Fossil gas,,1
+126,364,118,,31.519775,41.261291,fossil_coal_hard,Ereğli TES, ,Hard coal,,1
+616,1632,120,,-5.789795,41.203456,other_nl,Santiz, ,Other or not listed,,1
+127,365,1432,,29.124756,40.245992,fossil_coal_gas,Bursa, ,Fossil gas,,1
+617,1674,150,,-6.82251000000001,38.736946,other_nl,Alvarado, ,Other or not listed,,1
+128,366,540,,31.212158,36.985003,hydro_pure_storage,Oymapinar, ,Hydro pure storage,,1
+618,1764,50,,-6.91040000000001,38.959409,other_nl,Vaguados, ,Other or not listed,,1
+619,1685,1195,,-6.679688,37.116526,other_nl,Palos, ,Other or not listed,,1
+620,1499,50,,-7.745361,40.797177,wind,Pisco, ,Wind farm,,1
+639,1950,0,0,-6.536865,31.998759,hydro_mixed,Ur 2, ,Hydro mixed pump storage, ,1
+621,1957,0,0,-7.76733399999999,33.578015,other_nl_cons,Mohammedia, ,"Other or not listed, under construction", ,1
+622,1887,0,0,-2.23022499999999,33.970698,other_nl_cons,Ain Beni Mathar, ,"Other or not listed, under construction", ,1
+623,1979,0,0,-12.98584,27.916767,other_nl_cons,Tarfaya, ,"Other or not listed, under construction", ,1
+624,1945,0,0,-6.580811,34.361576,other_nl_cons,Kenitra, ,"Other or not listed, under construction", ,1
+625,1827,0,0,-6.25122100000001,34.948991,other_nl_cons,Dhar Doum, ,"Other or not listed, under construction", ,1
+626,1979,0,0,-12.854004,27.974998,other_nl_cons,Tarfaya, ,"Other or not listed, under construction", ,1
+627,1929,0,0,-9.283447,30.439202,other_nl_cons, , ,"Other or not listed, under construction", ,1
+704,2398,306,,13.688965,50.562304,fossil_brown_lignite,Ledvice, ,Brown coal/Lignite,,1
+628,1863,0,0,-5.99853499999999,35.469618,other_nl_cons,Tahadart, ,"Other or not listed, under construction", ,1
+629,1905,0,0,-5.15258799999999,34.51561,hydro_mixed,Al-Wahda, ,Hydro mixed pump storage, ,1
+630,1957,0,0,-7.88818400000001,33.523079,other_nl,Mohammedia, ,Other or not listed, ,1
+129,374,703,,35.804443,41.418015,hydro_pure_storage,Altinkaya Sant, ,Hydro pure storage,,1
+631,1878,0,0,-7.67944299999999,31.052934,hydro_mixed,My.Youssef, ,Hydro mixed pump storage, ,1
+632,1873,0,0,-6.591797,32.333559,hydro_mixed,Ur 1, ,Hydro mixed pump storage, ,1
+633,1944,0,0,-6.69067400000001,31.802893,hydro_mixed,Hassan 1, ,Hydro mixed pump storage, ,1
+130,370,798,,32.003174,39.249271,fossil_coal_gas,Ankara DGKCS, ,Fossil gas,,1
+634,1952,0,0,-8.77807599999999,32.962586,other_nl,J. Lasfar, ,Other or not listed, ,1
+131,375,1320,,35.69458,36.800488,fossil_coal_hard,Sügozü TES, ,Hard coal,,1
+635,1886,0,0,-4.515381,34.161818,hydro_mixed,A. Fassi, ,Hydro mixed pump storage, ,1
+132,379,2405,,38.419189,37.692514,hydro_pure_storage,Ataturk Sant, ,Hydro pure storage,,1
+133,426,1440,,36.815186,38.479395,fossil_brown_lignite,Elbistan-B, ,Brown coal/Lignite,,1
+636,1881,0,0,-3.81225600000001,34.252676,hydro_mixed,Taza, ,Hydro mixed pump storage, ,1
+134,427,1330,,39.25415,38.942321,hydro_pure_storage,Keban, ,Hydro pure storage,,1
+135,381,1800,,39.429932,38.556757,hydro_pure_storage,Karakaya, ,Hydro pure storage,,1
+637,1880,0,0,-2.076416,34.252676,other_nl,Jerada, ,Other or not listed, ,1
+136,382,-1,,39.902344,39.223743,hydro_ror,Özlüce, ,Hydro run of river & pondage,,1
+638,1904,0,0,-7.558594,32.444885,other_nl,Al-Massira, ,Other or not listed, ,1
+137,439,142,,42.39624,37.26531,other_nrenew,Karkey, ,Fossil fuel,,1
+640,1898,0,0,-5.81176799999999,32.565333,hydro_mixed,A. Hansali, ,Hydro mixed pump storage, ,1
+138,385,457,,37.803955,39.427707,fossil_brown_lignite,Kangal Sant., ,Brown coal/Lignite,,1
+139,388,670,,41.934814,41.228249,hydro_pure_storage,Deriner, ,Hydro pure storage,,1
+641,1943,0,0,-6.240234,31.924193,hydro_mixed,Bin El Ouidane, ,Hydro mixed pump storage, ,1
+140,391,500,,37.023926,40.880295,hydro_pure_storage,H.Ugurlu, ,Hydro pure storage,,1
+141,393,120,,26.51001,38.548165,wind,Lodos RES, ,Wind farm,,1
+642,1951,0,0,-6.811523,32.063956,hydro_mixed, , ,Hydro mixed pump storage, ,1
+142,395,1355,,36.947021,38.642618,fossil_brown_lignite,Elbistan-A, ,Brown coal/Lignite,,1
+643,1916,0,0,-5.76782200000001,35.782171,other_nl,Tanger, ,Other or not listed, ,1
+143,401,320,,27.004395,39.97712,fossil_brown_lignite,Can, ,Brown coal/Lignite,,1
+144,402,279,,31.080322,39.715638,hydro_pure_storage,Gokçekaya, ,Hydro pure storage,,1
+644,1863,0,0,-5.965576,35.532226,other_nl,Tahadart, ,Other or not listed, ,1
+145,404,1595,,30.476074,40.880295,fossil_coal_gas,Adapazari 1 DGKCS, ,Fossil gas,,1
+645,1938,0,0,-6.15234400000001,35.146863,other_nl,Loukkos, ,Other or not listed, ,1
+146,405,798,,30.618896,40.896906,fossil_coal_gas,Adapazari 2 DGKCS, ,Fossil gas,,1
+646,1945,0,0,-6.635742,34.298068,other_nl,Kenitra, ,Other or not listed, ,1
+147,406,620,,31.47583,39.926588,fossil_brown_lignite,Cayirhan, ,Brown coal/Lignite,,1
+148,376,138,,36.243896,37.352693,hydro_pure_storage,Aslantas, ,Hydro pure storage,,1
+647,2004,-1,,46.955566,42.577355,hydro_ror,Irganayskaya HPP,Ирганайская ГЭС,Hydro run of river & pondage,,1
+149,394,84,,34.705811,38.289937,hydro_ror,Çamlıca HES, ,Hydro run of river & pondage,,1
+648,2012,-1,,47.757568,52.05249,hydro_ror,Saratovskaya HPP,Саратовская ГЭС,Hydro run of river & pondage,,1
+150,448,100,,43.417969,38.513788,fossil_coal_gas,Van Aksa, ,Fossil gas,,1
+151,414,51,,39.100342,37.081476,hydro_pure_storage,Ş.Urfa, ,Hydro pure storage,,1
+649,2024,-1,,52.141113,55.435247,fossil_coal_hard,Zainskaya TPP,Заинская ГРЭС,Hard coal,,1
+152,353,405,,27.224121,40.430224,fossil_coal_hard,İçdaş Biga, ,Hard coal,,1
+650,2026,-1,,51.888428,55.776573,hydro_ror,Nizhnekamskaya HPP,Нижнекамская ГЭС,Hydro run of river & pondage,,1
+153,415,240,,27.608643,39.155622,wind,Soma RES, ,Wind farm,,1
+651,2029,-1,,47.054443,56.157788,hydro_ror,Cheboksarskaya HPP,Чебоксарская ГЭС,Hydro run of river & pondage,,1
+154,346,100,,27.509766,39.036253,fossil_brown_lignite,Soma A, ,Brown coal/Lignite,,1
+155,416,1591,,27.279053,38.754083,fossil_coal_gas,Izmir DGKCS, ,Fossil gas,,1
+652,2044,-1,,49.713135,53.448807,hydro_ror,Zhigulevskaya HPP,Жигулевская ГЭС,Hydro run of river & pondage,,1
+156,417,300,,29.344482,39.419221,fossil_brown_lignite,Tutes B, ,Brown coal/Lignite,,1
+157,358,600,,30.256348,39.010648,fossil_brown_lignite,Seyitömer-A, ,Brown coal/Lignite,,1
+653,2072,-1,,54.162598,56.752723,hydro_ror,Votkinskaya HPP,Воткинская ГЭС,Hydro run of river & pondage,,1
+158,425,800,,29.465332,37.796763,fossil_coal_gas_cons,RWE Denizli DGKCS, ,"Fossil gas, under construction",,1
+654,2084,-1,,43.967285,56.383502,hydro_ror,Nizhegorodskaya HPP,Нижегородская ГЭС,Hydro run of river & pondage,,1
+159,356,205,,29.047852,37.692514,fossil_coal_gas_cons,Honaz DGKCS, ,"Fossil gas, under construction",,1
+160,367,194,,30.695801,36.923548,fossil_coal_gas_cons,Varsak, ,"Fossil gas, under construction",,1
+655,2088,-1,,44.868164,48.319734,other_nl,Volgogradskaya CHPP-3,Волгоградская ТЭЦ-3,Other or not listed,,1
+161,380,130,,35.48584,37.186579,fossil_coal_gas,Adana, ,Fossil gas,,1
+656,2113,-1,,46.768799,42.75508,hydro_ror,Chirkeyskaya HPP,Чиркейская ГЭС,Hydro run of river & pondage,,1
+162,448,270,,43.582764,38.779781,fossil_coal_gas,Rasa Enerji, ,Fossil gas,,1
+163,412,100,,34.848633,39.376772,hydro_pure_storage,Yamula, ,Hydro pure storage,,1
+657,2136,-1,,48.922119,55.91843,other_nl,Kazanskaya CHPP-3,Казанская ТЭЦ-3,Other or not listed,,1
+164,369,154,,31.871338,39.512517,fossil_coal_gas,Zorlu, ,Fossil gas,,1
+165,421,513,,34.771729,41.261291,hydro_pure_storage,Boyabat Sant, ,Hydro pure storage,,1
+658,2138,-1,,51.427002,55.776573,fossil_coal_hard,Nizhnekamskaya CHPP-2,Нижнекамская ТЭЦ-2,Hard coal,,1
+166,430,300,,32.058105,41.393294,fossil_coal_hard,Çatalağzı TES, ,Hard coal,,1
+659,2139,-1,,52.437744,55.751849,fossil_coal_hard,Naberezhno-Chelninskaya CHPP,Набережно-Челнинс,Hard coal,,1
+167,430,-1,,32.069092,41.310824,hydro_mixed_cons,Çatalağzı, ,"Hydro mixed pump storage, under construction",,1
+660,2159,-1,,49.317627,53.800651,fossil_coal_hard,VAZ CHPP,ТЭЦ ВАЗа,Hard coal,,1
+168,391,69,,37.111816,40.946714,hydro_pure_storage,S.Ugurlu, ,Hydro pure storage,,1
+169,389,60,,39.364014,40.946714,hydro_pure_storage_cons,Tirebolu N., ,"Hydro pure storage, under construction",,1
+661,2164,-1,,49.273682,54.788017,fossil_coal_hard,Ul'yanovskaya CHPP-2,Ульяновская ТЭЦ-2,Hard coal,,1
+170,454,50,,40.792236,40.963308,hydro_pure_storage_cons,Ikizdere, ,"Hydro pure storage, under construction",,1
+171,410,69,,35.991211,37.701207,hydro_pure_storage,Feke, ,Hydro pure storage,,1
+662,2278,-1,,58.370361,51.275662,other_nl,Orskaya CHPP-1,Орская ТЭЦ-1,Other or not listed,,1
+172,479,-1,,35.749512,37.71859,hydro_ror,Köprü HES, ,Hydro run of river & pondage,,1
+663,2187,-1,,55.513916,56.212814,other_nl,Karmanovskaya TPP,Кармановская ГРЭС,Other or not listed,,1
+173,430,1360,,31.717529,41.418015,fossil_coal_hard,Eren TES, ,Hard coal,,1
+174,431,1100,,32.739258,41.853196,fossil_brown_lignite_cons,Amasra TES, ,"Brown coal/Lignite, under construction",,1
+664,2195,-1,,56.645508,58.779591,other_nl,Permskaya TPP,Пермская ГРЭС,Other or not listed,,1
+175,372,372,,33.75,40.33817,fossil_brown_lignite_cons,3S Yo TES, ,"Brown coal/Lignite, under construction",,1
+665,2213,-1,,62.41333,56.157788,other_nl,Reftinskaya TPP,Рефтинская ГРЭС,Other or not listed,,1
+176,374,56,,35.793457,41.541478,hydro_pure_storage,Derbent Sant, ,Hydro pure storage,,1
+666,2217,-1,,57.645264,64.951465,other_nl,Pechorskaya TPP,Печорская ГРЭС,Other or not listed,,1
+177,432,239,,36.430664,41.211722,fossil_coal_gas,Cengiz, ,Fossil gas,,1
+667,2218,-1,,62.094727,54.297294,other_nl,Yuzhno-Ural'skaya TPP,Южно-Уральская ГРЭС,Other or not listed,,1
+178,434,97,,37.683105,40.178873,hydro_pure_storage_cons,Akinci HES, ,"Hydro pure storage, under construction",,1
+668,2222,-1,,55.700684,58.054632,hydro_ror,Kamskaya HPP,Камская ГЭС,Hydro run of river & pondage,,1
+179,435,237,,40.671387,40.472024,hydro_pure_storage_cons,Arkun HES, ,"Hydro pure storage, under construction",,1
+669,2225,-1,,57.370605,59.102667,other_nl,Yayvinskaya TPP,Яйвинская ГРЭС,Other or not listed,,1
+180,436,130,,40.583496,40.296287,hydro_pure_storage_cons,Aksu Sant, ,"Hydro pure storage, under construction",,1
+670,2226,-1,,61.622314,59.288332,other_nl,Serovskaya TPP,Серовская ГРЭС,Other or not listed,,1
+181,437,332,,41.506348,41.14557,hydro_pure_storage_cons,Artvin HES, ,"Hydro pure storage, under construction",,1
+671,2230,-1,,60.007324,58.436233,other_nl,Nizhneturinskaya TPP,Нижнетуринская ГРЭС,Other or not listed,,1
+182,471,164,,27.224121,41.95132,fossil_coal_gas,Alarko Altek, ,Fossil gas,,1
+672,2233,-1,,60.523682,56.511018,other_nl,Novo-Sverdlovskaya CHPP,Ново-Свердловская ТЭ,Other or not listed,,1
+673,2234,-1,,60.88623,56.225031,nuclear,Beloyarskaya NPP,Белоярская АЭС,Nuclear,,1
+183,6698,115,,27.487793,41.492121,fossil_coal_gas,Zorlu En., ,Fossil gas,,1
+674,2237,-1,,60.391846,56.866991,other_nl,Sredneural'skaya TPP,Среднеуральская ГРЭС,Other or not listed,,1
+184,360,133,,26.949463,41.47566,fossil_coal_gas,Z.Enj., ,Fossil gas,,1
+675,2238,-1,,60.501709,57.273104,other_nl,Verkhnetagil'skaya TPP,Верхнетагильская ГРЭ,Other or not listed,,1
+185,444,931,,27.70752,40.287907,fossil_coal_gas,Bandirma DGKCS, ,Fossil gas,,1
+676,2248,-1,,62.028809,54.775346,other_nl,Chelyabinskaya CHPP 3,Челябинская ТЭЦ 3,Other or not listed,,1
+186,350,150,,28.476562,40.271144,hydro_pure_storage,Demirtas, ,Hydro pure storage,,1
+677,2261,-1,,55.437012,55.21649,other_nl,Ufimskaya CHPP-2,,Other or not listed,,1
+187,350,57,,28.520508,40.363288,wind,Bandirma RES, ,Wind farm,,1
+678,2263,-1,,55.305176,53.865486,other_nl,Novo-Sterlitamakskaya CHPP,,Other or not listed,,1
+188,444,105,,27.949219,40.094882,wind,Sah RES, ,Wind farm,,1
+679,2264,-1,,55.283203,53.080827,other_nl,Kumertauskaya CHPP,Кумертауская ТЭЦ,Other or not listed,,1
+189,350,143,,28.696289,40.371659,fossil_coal_gas,Bosen, ,Fossil gas,,1
+680,2336,-1,,49.21875,46.407564,fossil_other,Atyrau,,Other fossil fuels,,1
+190,350,410,,28.916016,40.354917,fossil_coal_gas,Bis, ,Fossil gas,,1
+681,6648,-1,,44.626465,42.771211,hydro_ror,Ezminskaya HPP,Эзминская ГЭС,Hydro run of river & pondage,,1
+191,365,146,,29.124756,40.371659,fossil_coal_gas,Entek, ,Fossil gas,,1
+705,2412,631,,9.942627,57.183902,fossil_coal_hard,Nordjyllandsværket, ,Hard coal,,1
+192,467,60,,26.92749,39.104489,wind,Yuntdagi RES, ,Wind farm,,1
+682,6676,-1,,44.824219,48.785152,hydro_ror,Volzhskaya HPP,Волжская ГЭС,Hydro run of river & pondage,,1
+683,6644,-1,,61.842041,54.091617,other_nl,Troitskaya TPP,Троицкая ГРЭС,Other or not listed,,1
+193,352,114,,27.432861,39.588757,wind,Samli RES, ,Wind farm,,1
+684,2219,-1,,59.315186,51.964577,other_nl,Iriklinskaya TPP,Ириклинская ГРЭС,Other or not listed,,1
+685,6629,-1,,48.438721,52.018698,nuclear,Balakovskaya NPP,Балаковская АЭС,Nuclear,,1
+686,2330,-1,,47.911377,46.172223,other_nl,Astrakhanskaya CCPP-235,,Other or not listed,,1
+687,2332,-1,,43.912354,56.010666,fossil_coal_hard,Novogor'kovskaya CHPP,,Hard coal,,1
+688,2334,-1,,61.655273,54.495568,other_nl,Yuzhno-Ural'skaya TPP-2,,Other or not listed,,1
+194,352,55,,27.817383,39.478606,wind,Poyras RES, ,Wind farm,,1
+689,2347,451,,15.952148,49.088258,hydro_pure_ps,Dalešice, ,Hydro pure pump storage,,1
+195,352,143,,27.993164,39.631077,wind,Balikesir RES, ,Wind farm,,1
+690,2348,1820,,16.018066,48.850258,nuclear,Dukovany, ,Nuclear,,1
+691,2349,360,,14.282227,49.539469,hydro_ror,Orlík, ,Hydro run of river & pondage,,1
+196,350,210,,28.718262,39.88445,fossil_brown_lignite,Orhaneli, ,Brown coal/Lignite,,1
+197,445,69,,28.256836,38.608286,hydro_pure_storage,Demirkopru, ,Hydro pure storage,,1
+198,425,62,,28.927002,38.530979,hydro_pure_storage,Adiguzel HES, ,Hydro pure storage,,1
+199,349,127,,27.927246,38.246809,fossil_coal_gas,Ak Enerji, ,Fossil gas,,1
+200,356,206,,28.850098,37.978845,fossil_coal_gas,Age Sarayköy , ,Fossil gas,,1
+692,2350,1930,,14.39209,49.339441,nuclear,Temelín, ,Nuclear,,1
+201,469,102,,29.333496,36.553775,hydro_pure_storage,Esen, ,Hydro pure storage,,1
+693,2351,740,,15.303955,50.007739,fossil_brown_lignite,Chvaletice, ,Brown coal/Lignite,,1
+202,469,51,,30.574951,37.439974,hydro_ror,Kovada II HES, ,Hydro run of river & pondage,,1
+694,2352,650,,17.050781,50.155786,hydro_pure_ps,Dlouhé Stránĕ, ,Hydro pure pump storage,,1
+203,357,-1,,30.904541,37.83148,hydro_ror,Çaykoy HES, ,Hydro run of river & pondage,,1
+695,4286,120,,14.238281,48.669199,hydro_ror,Lipno, ,Hydro run of river & pondage,,1
+696,2366,740,,13.425293,50.422519,fossil_brown_lignite,Tušimice, ,Brown coal/Lignite,,1
+204,429,54,,33.508301,39.631077,hydro_pure_storage,Kapulukaya, ,Hydro pure storage,,1
+697,2367,1380,,13.029785,50.34546,fossil_brown_lignite,Prunéřov, ,Brown coal/Lignite,,1
+205,411,76,,33.574219,39.402244,hydro_pure_storage,Kesikkopru, ,Hydro pure storage,,1
+698,2393,252,,12.601318,50.064192,fossil_brown_lignite,Tisová, ,Brown coal/Lignite,,1
+206,411,128,,33.739014,39.215231,hydro_pure_storage,Hirfanli, ,Hydro pure storage,,1
+699,2394,926,,13.677979,50.443513,fossil_brown_lignite,Počerady, ,Brown coal/Lignite,,1
+207,372,165,,33.453369,40.446947,fossil_brown_lignite_cons,Calik, ,"Brown coal/Lignite, under construction",,1
+700,2395,890,,14.556885,50.429518,fossil_brown_lignite,Mĕlník, ,Brown coal/Lignite,,1
+208,430,200,,32.530518,40.955011,fossil_brown_lignite_cons,Yenice, ,"Brown coal/Lignite, under construction",,1
+701,2353,740,,18.292236,49.845068,fossil_coal_hard,Dětmarovice, ,Hard coal,,1
+209,390,887,,37.078857,41.162114,fossil_coal_gas_cons,Samsun DGKCS, ,"Fossil gas, under construction",,1
+702,2396,640,,12.645264,50.233152,,Vřesová, ,Coal derived gas,,1
+210,434,90,,37.397461,40.446947,hydro_pure_storage,Kokluce, ,Hydro pure storage,,1
+703,2367,42,,13.150635,50.415519,wind,Měděnec, ,Wind farm,,1
+706,2427,377,,8.492432,55.478853,fossil_coal_hard,Esbjergværket, ,Hard coal,,1
+211,434,64,,37.935791,40.329796,hydro_ror,Resadiye HES, ,Hydro run of river & pondage,,1
+707,2461,137,,11.085205,55.658996,fossil_coal_hard,Asnæsværket, ,Hard coal,,1
+212,434,97,,38.045654,40.455307,hydro_ror,Darica HES, ,Hydro run of river & pondage,,1
+708,2482,664,,11.887207,55.819802,fossil_oil,Kyndbyværket, ,Fossil oil,,1
+213,433,120,,38.529053,40.313043,hydro_pure_storage,Kilickaya, ,Hydro pure storage,,1
+709,2514,427,,9.547119,55.491304,fossil_coal_gas,Skærbækværket, ,Fossil gas,,1
+214,395,50,,37.650146,38.788345,hydro_ror,Hacilar HES, ,Hydro run of river & pondage,,1
+710,2521,442,,10.601807,55.460171,fossil_mixed,Fynsværket, ,Mixed fuels,,1
+215,377,124,,36.749268,37.622934,hydro_pure_storage,Menzelet, ,Hydro pure storage,,1
+711,2537,-1,,12.579346,55.665193,power_plus_sub,København, ,Substations + Power Plants,,1
+216,377,284,,36.419678,37.509726,hydro_pure_storage,Sir, ,Hydro pure storage,,1
+712,2540,160,,7.80029300000001,55.497527,wind,Horns Rev 1, ,Wind farm,,1
+217,377,510,,36.188965,37.466139,hydro_pure_storage,Berke, ,Hydro pure storage,,1
+713,2541,210,,7.75634799999999,55.683779,wind,Horns Rev 2, ,Wind farm,,1
+218,480,169,,35.244141,37.466139,hydro_pure_storage,Catalan, ,Hydro pure storage,,1
+714,2543,380,,10.360107,56.26166,fossil_mixed,Studstrupværket, ,Mixed fuels,,1
+715,2545,400,,11.162109,56.656226,wind,Anholt, ,Wind farm,,1
+219,412,,,34.903564,39.13006,fossil_brown_lignite,Zorlu, ,Brown coal/Lignite,,1
+716,2552,156,,24.796143,59.422728,fossil_coal_gas,Iru, ,Fossil gas,,1
+220,376,135,,36.419678,37.247821,wind,Osmaniye RES, ,Wind farm,,1
+717,2547,1346,,27.751465,59.147769,fossil_oil_shale,Eesti EJ, ,Oil shale,,1
+221,408,80,,36.573486,37.099003,wind,Demirciler RES, ,Wind farm,,1
+718,2559,89,,26.773682,66.377158,hydro_ror,Vanttauskoski, ,Hydro run of river & pondage,,1
+222,479,310,,35.529785,37.544577,hydro_pure_storage_cons,Yedigoze, ,"Hydro pure storage, under construction",,1
+719,2560,390,,21.697998,63.040021,fossil_oil,Vaskiluoto, ,Fossil oil,,1
+223,409,75,,36.123047,36.155618,wind,Turbe RES, ,Wind farm,,1
+720,2561,130,,27.399902,66.451887,hydro_ror,Seitakorva, ,Hydro run of river & pondage,,1
+224,375,570,,35.529785,36.668419,fossil_coal_gas_cons,Ayas TES, ,"Fossil gas, under construction",,1
+721,2562,101,,25.718994,66.412352,hydro_ror,Valajaskoski, ,Hydro run of river & pondage,,1
+225,418,131,,34.573975,36.870832,fossil_coal_gas,Enerjisa, ,Fossil gas,,1
+722,2563,133,,24.89502,65.995681,hydro_ror,Taivalkoski, ,Hydro run of river & pondage,,1
+723,2569,81,,26.8396,64.557881,hydro_ror,Nuojua, ,Hydro run of river & pondage,,1
+226,418,252,,34.200439,36.844461,fossil_coal_gas,Camis, ,Fossil gas,,1
+724,2570,58,,26.520996,64.760075,hydro_ror,Utanen, ,Hydro run of river & pondage,,1
+725,2571,129,,26.114502,64.778807,hydro_ror,Pyhäkoski, ,Hydro run of river & pondage,,1
+227,407,160,,33.288574,36.350527,hydro_pure_storage,Gezende, ,Hydro pure storage,,1
+726,2576,170,,25.334473,64.048171,fossil_oil,Haapavesi, ,Fossil oil,,1
+228,407,51,,32.750244,36.5626,hydro_ror,Daran HES, ,Hydro run of river & pondage,,1
+727,2598,980,,26.290283,60.419276,nuclear,Loviisa, ,Nuclear,,1
+229,418,70,,34.73877,37.4138,hydro_ror,Kadıncık 1 HES, ,Hydro run of river & pondage,,1
+728,2606,1000,,23.818359,60.048389,fossil_brown_lignite,Inkoo,Inkoo,Brown coal/Lignite,,1
+230,478,60,,35.617676,37.081476,hydro_pure_storage,Seyhan, ,Hydro pure storage,,1
+729,2565,110,,24.620361,65.753195,hydro_ror,Isohaara, ,Hydro run of river & pondage,,1
+231,6632,189,,38.232422,36.985003,hydro_pure_storage,Karkamis, ,Hydro pure storage,,1
+730,2601,313,,27.180176,60.570777,fossil_oil,Mussalo, ,Fossil oil,,1
+232,413,270,,40.495605,37.83148,fossil_brown_lignite_cons,Sirnak TES, ,"Brown coal/Lignite, under construction",,1
+731,2613,256,,22.302246,60.435542,fossil_brown_lignite,Naantali, ,Brown coal/Lignite,,1
+233,419,1200,,41.308594,37.657732,hydro_pure_storage_cons,Ilisu Sant, ,"Hydro pure storage, under construction",,1
+732,2583,210,,26.05957,62.252582,fossil_oil,Keljonlahti, ,Fossil oil,,1
+733,2597,359,,24.796143,60.201616,fossil_oil,Suomenoja, ,Fossil oil,,1
+234,397,270,,41.989746,37.439974,other_nl_cons,Cizre, ,"Other or not listed, under construction",,1
+734,2591,160,,25.026855,60.212533,fossil_brown_lignite,Salmisaari, ,Brown coal/Lignite,,1
+235,15,280,,43.527832,37.274053,hydro_pure_storage_cons,Cukurca, ,"Hydro pure storage, under construction",,1
+735,2592,629,,25.356445,60.272515,fossil_coal_gas,Vuosaari, ,Fossil gas,,1
+236,15,115,,43.38501,37.474858,hydro_pure_storage_cons,Doganli, ,"Hydro pure storage, under construction",,1
+736,2592,220,,25.169678,60.261617,fossil_brown_lignite,Hanasaari, ,Brown coal/Lignite,,1
+237,397,350,,42.220459,38.186387,hydro_pure_storage_cons,Cetin, ,"Hydro pure storage, under construction",,1
+737,2597,198,,24.65332,60.316068,fossil_oil,Martinlaakso, ,Fossil oil,,1
+238,397,409,,42.429199,37.944198,hydro_pure_storage_cons,Begendik, ,"Hydro pure storage, under construction",,1
+738,2589,200,,25.697021,60.941106,fossil_brown_lignite,Kymijärvi, ,Brown coal/Lignite,,1
+239,449,261,,41.462402,38.091337,hydro_pure_storage,Alkumru, ,Hydro pure storage,,1
+739,2593,195,,23.829346,61.543641,fossil_oil,Naistenlahti, ,Fossil oil,,1
+240,389,106,,39.682617,41.004775,hydro_pure_storage,Aslancik, ,Hydro pure storage,,1
+740,5963,150,,22.642822,63.636504,biomass,Wisaforest, ,Biomass,,1
+741,2593,142,,23.961182,61.61162,fossil_coal_gas,Lielahti, ,Fossil gas,,1
+241,389,75,,39.748535,40.830437,hydro_pure_storage,Dogankent, ,Hydro pure storage,,1
+742,2572,189,,25.334473,64.951465,fossil_oil,Toppila, ,Fossil oil,,1
+743,2615,235,,21.708984,61.622065,fossil_brown_lignite,Tahkoluoto, ,Brown coal/Lignite,,1
+242,436,85,,39.869385,40.497092,hydro_pure_storage,Kurtun, ,Hydro pure storage,,1
+744,2615,565,,21.665039,61.554109,fossil_brown_lignite,Meri-Pori, ,Brown coal/Lignite,,1
+243,389,102,,39.803467,40.655639,hydro_ror,Akkoy HES, ,Hydro run of river & pondage,,1
+745,5909,452,,21.412354,62.211634,fossil_oil,Kristiina, ,Fossil oil,,1
+244,450,50,,41.572266,40.830437,hydro_ror,Tortum HES, ,Hydro run of river & pondage,,1
+746,2616,1600,,21.42334,61.090168,nuclear_cons,Olkiluoto, ,"Nuclear, under construction",,1
+245,450,540,,41.52832,41.004775,hydro_pure_storage_cons,Yusufeli HES, ,"Hydro pure storage, under construction",,1
+747,2616,1760,,21.544189,61.127325,nuclear,Olkiluoto, ,Nuclear,,1
+246,382,57,,39.627686,39.283294,hydro_ror,Seyrantepe HES, ,Hydro run of river & pondage,,1
+748,5963,265,,22.807617,63.699855,fossil_oil,Alholmen, ,Fossil oil,,1
+247,465,95,,40.231934,38.68551,hydro_pure_storage,Kralkizi, ,Hydro pure storage,,1
+749,2617,680,,7.03125,49.339441,fossil_brown_lignite,Weiher, ,Brown coal/Lignite,Amprion,1
+750,2618,2100,,6.71264599999999,51.549751,fossil_brown_lignite,Voerde, ,Brown coal/Lignite,Amprion,1
+248,465,110,,40.385742,38.839708,hydro_pure_storage,Dicle, ,Hydro pure storage,,1
+751,2702,700,,7.71240200000001,51.583897,fossil_brown_lignite,Bergkamen, ,Brown coal/Lignite,Amprion,1
+752,2746,755,,7.66845700000001,51.275662,fossil_coal_gas,Elverlingsen, ,Fossil gas,Amprion,1
+249,428,140,,39.078369,39.724089,hydro_pure_storage_cons,Bagistas HES, ,"Hydro pure storage, under construction",,1
+753,3006,125,,11.315918,47.643186,hydro_pure_ps,Walchenseewerk, ,Hydro pure pump storage,Amprion,1
+250,452,60,,28.168945,41.112469,wind,Catalca, ,Wind farm,,1
+754,2842,460,,8.404541,49.482401,fossil_coal_gas,BASF, ,Fossil gas,Amprion,1
+251,451,120,,29.707031,40.813809,fossil_coal_gas,Nuh En., ,Fossil gas,,1
+755,2855,2978,,8.964844,50.169862,fossil_brown_lignite,Staudinger, ,Brown coal/Lignite,Amprion,1
+252,463,450,,28.531494,41.029643,fossil_coal_gas,Ambarli-A, ,Fossil gas,,1
+756,2865,875,,9.019775,52.368892,fossil_brown_lignite,Heyden, ,Brown coal/Lignite,Amprion,1
+253,463,450,,28.718262,40.955011,fossil_coal_gas,Ambarli-C, ,Fossil gas,,1
+254,473,630,,28.773193,40.996484,other_nrenew,Ambarli Fuel, ,Fossil fuel,,1
+255,455,115,,41.605225,41.50035,hydro_pure_storage,Muratli, ,Hydro pure storage,,1
+256,456,-1,,42.077637,41.779505,converter_b2b,Akhaltsikhe, ,Converter Station Back-to-back,,1
+757,2623,860,,8.92089799999999,52.173932,fossil_brown_lignite,Veltheim, ,Brown coal/Lignite,Amprion,1
+257,458,630,,27.872314,37.046409,fossil_brown_lignite,Kemerkoy Sant, ,Brown coal/Lignite,,1
+758,2624,290,,8.32763700000001,53.107217,fossil_coal_gas,Huntorf, ,Fossil gas,,1
+759,2625,345,,8.55834999999999,53.100621,fossil_brown_lignite,Farge, ,Brown coal/Lignite,Amprion,1
+258,99,170,2,22.280273,37.675125,wind,WF-8,WF-8,Wind farm,,-1
+259,120,130,2,22.884521,37.68382,wind,WF-7,WF-7,Wind farm,,-1
+760,2626,491,,9.16259800000001,52.52959,fossil_coal_gas,Landesbergen, ,Fossil gas,Amprion,1
+260,120,436.600006,1,23.005371,38.013476,fossil_coal_gas,Ag.Theodori,Ag.Theodori,Fossil gas,,-1
+261,1375,105,2,24.32373,38.169114,wind,WF-3,WF-3,Wind farm,,-1
+761,2629,1410,,9.38232400000001,53.826597,nuclear,Brokdorf, ,Nuclear,Amprion,1
+262,118,205,2,23.444824,38.307181,wind,WF-4,WF-4,Wind farm,,-1
+762,2631,220,,9.93164099999999,51.815407,hydro_pure_ps,Erzhausen, ,Hydro pure pump storage,Amprion,1
+263,116,195,2,25.817871,41.26955,wind,WF-1,WF-1,Wind farm,,-1
+264,1379,170,2,24.927979,35.191767,wind,WF-10,WF-10,Wind farm,,-1
+763,2904,160,,11.403809,49.518076,hydro_pure_ps,Happurg, ,Hydro pure pump storage,Amprion,1
+265,103,80,2,20.621338,38.212288,wind,WF-6,WF-6,Wind farm,,-1
+764,2917,260,,9.79980499999999,53.612062,fossil_coal_hard,Wedel, ,Hard coal,50Hertz Transmission GmbH,1
+765,2633,-1,,10.447998,52.119999,fossil_brown_lignite,Hallendorf, ,Brown coal/Lignite,,1
+266,121,108,2,22.576904,40.472024,hydro_pure_storage_cons,llarion, ,"Hydro pure storage, under construction",,-1
+766,2634,352,,10.964355,52.113252,fossil_brown_lignite,Buschhaus, ,Brown coal/Lignite,Amprion,1
+267,100,300,1,24.125977,38.43638,fossil_oil,Aliveri, ,Fossil oil,,-1
+767,3030,170,,9.51416000000001,54.686534,fossil_brown_lignite,Flensburg, ,Brown coal/Lignite,Amprion,1
+268,106,334,1,22.675781,38.350273,fossil_coal_gas,Alouminio, ,Fossil gas,,-1
+768,2945,105,,12.282715,49.603591,hydro_pure_ps,Reisach, ,Hydro pure pump storage,Amprion,1
+269,99,300,1,22.181396,37.352693,fossil_brown_lignite,Megalopoli B, ,Brown coal/Lignite,,-1
+270,99,550,1,22.346191,37.335224,fossil_brown_lignite,Megalopoli A, ,Brown coal/Lignite,,-1
+769,2635,2427,,12.480469,51.316881,fossil_brown_lignite,Lippendorf, ,Brown coal/Lignite,50Hertz Transmission GmbH,1
+271,221,85,,21.291504,41.845013,hydro_ror,Kozjak, ,Hydro run of river & pondage,,1
+770,2636,900,,11.942139,51.392351,fossil_brown_lignite,Schkopau, ,Brown coal/Lignite,Amprion,1
+272,223,96,,21.895752,41.50035,hydro_ror,Tikves, ,Hydro run of river & pondage,,1
+273,222,112,,21.192627,41.541478,fossil_brown_lignite,Oslomej, ,Brown coal/Lignite,,1
+771,2637,564,,12.930908,52.462704,fossil_coal_hard,Reuter West, ,Hard coal,50Hertz Transmission GmbH,1
+274,221,250,,21.621094,41.95132,fossil_coal_gas,TE-TO, ,Fossil gas,,1
+772,5829,444,,13.282471,52.281602,fossil_coal_gas,Mitte, ,Fossil gas,50Hertz Transmission GmbH,1
+275,222,84,,20.566406,41.50035,hydro_ror,Spilje, ,Hydro run of river & pondage,,1
+276,463,450,,28.619385,40.996484,fossil_coal_gas,Ambarli-B, ,Fossil gas,,1
+773,2990,1653,,12.030029,54.143132,fossil_coal_hard,Rostock, ,Hard coal,50Hertz Transmission GmbH,1
+277,386,204,,41.19873,39.189691,hydro_pure_storage,Alparslan-2 HES, ,Hydro pure storage,,1
+278,464,290,,31.508789,39.35129,fossil_brown_lignite,Yunusemre TES, ,Brown coal/Lignite,,1
+774,2757,2073,,7.17407200000001,53.343993,fossil_brown_lignite,Emden, ,Brown coal/Lignite,Amprion,1
+279,354,750,,26.982422,38.796908,fossil_coal_gas,Aliağa TES, ,Fossil gas,,1
+280,364,270,,31.728516,40.622292,fossil_brown_lignite,Aksa Bolu TES, ,Brown coal/Lignite,,1
+775,2754,1329,,7.17407200000001,52.476089,nuclear,Emsland, ,Nuclear,Amprion,1
+281,364,74,,31.92627,40.805494,hydro_ror,Köprübaşi HES, ,Hydro run of river & pondage,,1
+776,2754,1860,,7.207031,52.522906,fossil_coal_gas,Emsland, ,Fossil gas,Amprion,1
+282,356,124,,29.432373,37.352693,hydro_pure_storage,Zorlu Acipayam HES, ,Hydro pure storage,,1
+777,5978,4437,,6.37207,50.771208,fossil_brown_lignite,Weisweiler, ,Brown coal/Lignite,Amprion,1
+283,389,66,,39.199219,40.580585,hydro_ror,Burçak I-II HES, ,Hydro run of river & pondage,,1
+284,389,187,,39.49585,40.663973,hydro_pure_storage,Akköy-II HES, ,Hydro pure storage,,1
+778,2682,3680,,6.42700200000001,50.993014,fossil_brown_lignite,Niederaußem, ,Brown coal/Lignite,Amprion,1
+285,433,62,,38.572998,40.680638,hydro_pure_storage,Kozbükü HES, ,Hydro pure storage,,1
+286,450,60,,41.660156,40.888601,hydro_pure_storage,Olur HES, ,Hydro pure storage,,1
+779,2692,2200,,6.448975,51.062113,fossil_brown_lignite,Neurath, ,Brown coal/Lignite,Amprion,1
+287,388,123,,42.198486,40.805494,hydro_pure_storage,Ayvali HES, ,Hydro pure storage,,1
+780,2693,2400,,6.52587899999999,51.138001,hydro_pure_ps,Frimmersdorf, ,Hydro pure pump storage,Amprion,1
+288,428,160,,39.594727,39.859155,hydro_pure_storage,Kemah HES, ,Hydro pure storage,,1
+781,2661,750,,7.163086,49.482401,fossil_brown_lignite,Bexbach, ,Brown coal/Lignite,Amprion,1
+289,428,170,,39.660645,39.740986,hydro_pure_storage,Eriç HES, ,Hydro pure storage,,1
+782,2673,876,,8.20678699999999,49.001844,fossil_coal_hard,Karlsruhe RDK 8, ,Hard coal,EnBW,1
+783,2842,870,,8.404541,49.389524,fossil_coal_hard,GKM 9, ,Hard coal,EnBW,1
+290,382,300,,39.814453,38.993572,hydro_pure_storage,Beyhani-II, ,Hydro pure storage,,1
+784,2676,1483,,8.261719,49.958288,fossil_coal_gas,Mainz, ,Fossil gas,Amprion,1
+291,465,293,,40.144043,39.061849,hydro_pure_storage,Beyhani-I, ,Hydro pure storage,,1
+785,2894,160,,9.766846,50.028917,hydro_pure_ps,Langenprozelten, ,Hydro pure pump storage,Amprion,1
+292,449,216,,41.879883,38.08269,hydro_pure_storage,Pervari HES, ,Hydro pure storage,,1
+786,2895,1275,,10.107422,50.000678,nuclear_cons,Grafenrheinfeld, ,"Nuclear, under construction",Amprion,1
+293,419,121,,41.341553,37.961523,hydro_pure_storage,Incir HES, ,Hydro pure storage,,1
+787,2824,772,,11.260986,48.821333,fossil_coal_gas,Ingolstadt, ,Fossil gas,Amprion,1
+294,395,315,,37.397461,38.298559,hydro_pure_storage,Kandil HES, ,Hydro pure storage,,1
+788,2819,2227,,11.447754,48.734455,fossil_coal_gas,Irsching, ,Fossil gas,Amprion,1
+295,466,635,,36.156006,36.465472,fossil_coal_hard,Atlas Enerji, ,Hard coal,,1
+789,2826,449,,11.645508,48.523881,fossil_brown_lignite,Zolling, ,Brown coal/Lignite,,1
+296,479,85,,35.771484,37.570705,hydro_pure_storage,Enerjisa Menge HES, ,Hydro pure storage,,1
+790,2821,-1,,11.304932,48.085419,other_nl,Oberbrunn, ,Other or not listed,,1
+791,2807,1284,,10.513916,48.56025,nuclear,Gundremmingen B, ,Nuclear,Amprion,1
+297,479,78,,35.738525,37.431251,hydro_pure_storage,Kozan HES, ,Hydro pure storage,,1
+792,2835,694,,13.161621,48.683708,other_nrenew_cons,Pleinting, ,"Fossil fuel, under construction",Amprion,1
+298,480,181,,34.936523,37.71859,hydro_pure_storage,Kavşakbendi HES, ,Hydro pure storage,,1
+793,6655,72.900002,,13.249512,48.407326,hydro_ror,Ering, ,Hydro run of river & pondage,E.ON Netz GmbH,1
+299,418,56,,34.716797,37.26531,hydro_ror,Kadıncık 2 HES, ,Hydro run of river & pondage,,1
+794,2639,86.400002,,13.447266,48.57479,hydro_ror,Passau, ,Hydro run of river & pondage,,1
+300,354,450,,27.059326,38.882481,fossil_coal_gas,Habas, ,Fossil gas,,1
+795,2835,-1,,13.216553,48.56752,hydro_ror,Kachlet, ,Hydro run of river & pondage,,1
+301,467,310,,26.861572,38.754083,fossil_coal_hard,İzdemir TES, ,Hard coal,,1
+796,2639,132,,13.656006,48.494768,hydro_ror,Jochenstein, ,Hydro run of river & pondage,,1
+302,421,600,,34.387207,41.853196,fossil_coal_hard,Çaylı TES, ,Hard coal,,1
+797,2970,296,,13.249512,52.106505,fossil_coal_gas,Thyrow, ,Fossil gas,50Hertz Transmission GmbH,1
+303,421,1000,,34.991455,41.672912,fossil_coal_hard,Gerze TES, ,Hard coal,,1
+798,2926,306,,10.942383,52.382306,fossil_brown_lignite,Wolfsburg, ,Brown coal/Lignite,Amprion,1
+304,421,1600,,34.771729,41.885921,fossil_coal_hard,Sinop TES, ,Hard coal,,1
+799,2910,272,,9.70092800000001,52.422523,fossil_brown_lignite,Stöcken, ,Brown coal/Lignite,Amprion,1
+305,468,900,,29.4104,40.86368,fossil_coal_gas,Yeni Enerji, ,Fossil gas,,1
+800,2736,140,,8.07495099999999,51.193115,hydro_pure_ps,Rönkhausen, ,Hydro pure pump storage,Amprion,1
+306,469,850,,30.19043,37.116526,fossil_coal_gas,Aksa Antalya DGKCS, ,Fossil gas,,1
+801,2744,73,,7.437744,51.303145,hydro_ror,Ering, ,Hydro run of river & pondage,Amprion,1
+307,76,82,,32.585449,34.786739,wind,Orites, ,Wind farm,,1
+802,2750,888,,8.19580100000001,51.672555,fossil_brown_lignite,Lippborg, ,Brown coal/Lignite,Amprion,1
+308,72,31.5,,33.475342,34.957995,wind,Alexigros, ,Wind farm,,1
+803,2702,1182,,7.866211,51.658927,fossil_coal_gas,Gersteinwerk, ,Fossil gas,Amprion,1
+309,470,430,,27.58667,41.845013,fossil_coal_gas_cons,Sedko DGKÇ, ,"Fossil gas, under construction",,1
+804,2702,1110,,7.69043,51.75424,fossil_coal_gas,Werne-Stockum, ,Fossil gas,Amprion,1
+310,471,890,,27.454834,41.746726,fossil_coal_gas_cons,Verbena, ,"Fossil gas, under construction",,1
+805,2749,330,,7.470703,51.549751,fossil_brown_lignite,Dortmund, ,Brown coal/Lignite,Amprion,1
+311,475,250,,29.586182,40.78886,fossil_coal_gas,Ova Elk., ,Fossil gas,,1
+806,2732,1330,,7.17407200000001,51.665741,fossil_brown_lignite,Kusenhorst, ,Brown coal/Lignite,Amprion,1
+807,2719,1990,,6.95434600000001,51.529251,fossil_brown_lignite,Scholven, ,Brown coal/Lignite,Amprion,1
+312,476,600,,27.158203,40.170479,fossil_coal_hard,Bekirli TES, ,Hard coal,,1
+808,2722,-1,,6.756592,51.392351,other_nl,Selbeck, ,Other or not listed,,1
+313,6698,1156,,27.290039,41.599013,fossil_coal_gas,Hamitabat, ,Fossil gas,,1
+809,2818,-1,,11.678467,47.886881,hydro_pure_ps,Leitzachwerk, ,Hydro pure pump storage,,1
+810,2818,-1,,12.106934,47.813155,hydro_ror,Rosenheim, ,Hydro run of river & pondage,,1
+314,6652,301,,41.616211,41.409776,hydro_pure_storage,Borçka Sant, ,Hydro pure storage,,1
+811,4309,-1,,12.084961,47.739323,hydro_ror,Nußdorf, ,Hydro run of river & pondage,,1
+315,407,160,,33.398438,36.208823,nuclear_cons,Akkuyu NGS, ,"Nuclear, under construction",,1
+812,2654,240,,8.05297900000001,47.724545,hydro_mixed,Witznau, ,Hydro mixed pump storage,Amprion/EnBW,1
+316,103,90,2,21.30249,38.882481,wind,WF-2,WF-2,Wind farm,,-1
+813,2654,120,,8.02001999999999,47.791016,hydro_mixed,Häusern, ,Hydro mixed pump storage,Amprion/EnBW,1
+317,119,170,2,22.214355,38.022131,wind,WF-9,WF-9,Wind farm,,-1
+814,2640,980,,7.877197,47.709762,hydro_pure_ps,Wehr, ,Hydro pure pump storage,EnBW,1
+318,500,250,,19.445801,41.8941,hydro_pure_storage,Asphat, ,Hydro pure storage,,1
+815,2832,-1,,12.348633,48.100095,hydro_ror,Töging, ,Hydro run of river & pondage,,1
+319,549,24,,20.489502,41.918629,hydro_ror,Bele, ,Hydro run of river & pondage,,1
+816,2860,578,,8.90991200000001,51.041394,hydro_pure_ps,Waldeck, ,Hydro pure pump storage,Amprion,1
+817,3034,1045,,12.974854,50.555325,hydro_pure_ps,Markersbach, ,Hydro pure pump storage,50Hertz Transmission GmbH,1
+320,88,23,,20.203857,40.971604,hydro_pure_storage_cons,Banje, ,"Hydro pure storage, under construction",,1
+818,5829,276,,13.051758,52.234528,fossil_coal_hard,Wilmersdorf, ,Hard coal,50Hertz Transmission GmbH,1
+819,3003,313,,9.20654300000001,48.661943,fossil_coal_hard,Altbach, ,Hard coal,EnBW,1
+820,2802,118,,9.31640599999999,49.21042,fossil_coal_hard,Heilbronn 5, ,Hard coal,EnBW,1
+821,3007,720,,7.70141600000001,52.315195,fossil_brown_lignite,Ibbenbüren, ,Brown coal/Lignite,Amprion,1
+822,3013,1052,,11.052246,50.408518,hydro_pure_ps,Goldisthal, ,Hydro pure pump storage,50Hertz Transmission GmbH,1
+823,5906,-1,,13.304443,53.839564,wind,Windpark Iven, ,Wind farm,,1
+824,3020,229,,12.293701,53.383328,wind,Windpark Putlitz, ,Wind farm,50Hertz Transmission GmbH,1
+825,3019,279,,13.656006,53.219191,wind,Windpark Bertikow, ,Wind farm,50Hertz Transmission GmbH,1
+826,3023,2790,,14.60083,51.727028,fossil_brown_lignite,Jänschwalde, ,Brown coal/Lignite,50Hertz Transmission GmbH,1
+827,3024,1500,,14.205322,51.501904,fossil_brown_lignite,Schwarze Pumpe, ,Brown coal/Lignite,50Hertz Transmission GmbH,1
+828,3025,2427,,14.677734,51.296276,fossil_brown_lignite,Boxberg, ,Brown coal/Lignite,50Hertz Transmission GmbH,1
+829,3026,182,,13.161621,51.68618,wind,Windpark Schönewalde, ,Wind farm,50Hertz Transmission GmbH,1
+830,3037,1760,,7.52563500000001,47.842658,nuclear,Fessenheim, ,Nuclear,,1
+831,3039,1532,,9.99755900000001,53.494582,fossil_coal_hard,Moorburg, ,Hard coal,50Hertz Transmission GmbH,1
+832,5890,-1,,7.13012700000001,54.02068,wind_cons,DolWin beta, ,"Wind farm, under construction",,1
+833,5889,-1,,6.723633,53.87844,wind_cons,DolWin alpha, ,"Wind farm, under construction",,1
+834,5887,-1,,7.94311499999999,54.278055,wind_cons,HelWin alpha, ,"Wind farm, under construction",,1
+835,5894,400,,6.73461900000001,54.303704,wind,BorWin alpha, ,Wind farm,Amprion,1
+836,5895,-1,,7.75634799999999,54.977614,wind_cons,SylWin alpha, ,"Wind farm, under construction",,1
+837,3044,-1,,12.546387,54.57843,wind,Baltic 1, ,Wind farm,50Hertz Transmission GmbH,1
+838,3052,-1,,25.587158,56.613931,hydro_ror,Plavinu HES,Pļaviņu HES,Hydro run of river & pondage,,1
+839,3050,-1,,23.741455,56.788845,hydro_ror,Rigas HES,Rīgas HES,Hydro run of river & pondage,,1
+840,3048,-1,,24.082031,57.046706,fossil_coal_gas,Rigas TEC 1,RīgasTEC 1,Fossil gas,,1
+841,5987,-1,,24.257812,56.992883,fossil_coal_gas,Rigas TEC 2,Rīgas TEC 2,Fossil gas,,1
+842,3051,-1,,24.686279,56.601838,hydro_ror,Keguma HES,Ķeguma HES,Hydro run of river & pondage,,1
+843,3066,160,1,22.29126,56.26166,fossil_oil,Mažeikių E,Mažeikių E,Fossil oil,,-1
+321,514,23,,20.412598,40.946714,hydro_pure_storage_cons,Kokel, ,"Hydro pure storage, under construction",,1
+844,3061,170,1,23.631592,54.895565,fossil_oil,Kauno E, ,Fossil oil,,-1
+845,3061,101,2,24.038086,54.939766,hydro_ror,Kauno HE, ,Hydro run of river & pondage,,-1
+322,513,23,,20.511475,40.747257,hydro_pure_storage_cons,Moglice, ,"Hydro pure storage, under construction",,1
+846,3071,372,1,24.993896,54.565693,fossil_oil,Vilniaus E, ,Fossil oil,,-1
+323,518,635,,35.639648,38.427774,fossil_brown_lignite,Tufanbeyli, ,Brown coal/Lignite,,1
+847,3064,900,1,24.082031,54.76267,power_plus_sub,Kruonio HAE, ,Substations + Power Plants,,-1
+324,482,140,,39.869385,37.116526,fossil_coal_gas,Odaş DG., ,Fossil gas,,1
+848,3070,1800,1,24.763184,54.863963,power_plus_sub,Lietuvos E, ,Substations + Power Plants,,-1
+325,539,-1,,2.05444300000001,41.418015,power_plus_sub,Barcelona area, ,Substations + Power Plants,,1
+849,3064,900,1,24.191895,54.667478,hydro_pure_ps,Kruonio HAE, ,Hydro pure pump storage,,-1
+326,539,-1,,2.01049800000001,41.302571,other_nl,L'Hospitalet, ,Other or not listed,,1
+850,3070,1800,1,24.543457,54.895565,other_nl,Lietuvos E, ,Other or not listed,,-1
+327,539,-1,,2.23022499999999,41.467428,other_nl,Santa Coloma, ,Other or not listed,,1
+328,547,271,,4.22973599999999,39.968701,other_nl,Mahon, ,Other or not listed,,1
+851,3074,-1,-1,23.884277,54.386955,converter_b2b,BtB, ,Converter Station Back-to-back,,1
+329,549,500,,20.302734,41.975827,hydro_ror,Peshqesh, ,Hydro run of river & pondage,,1
+330,649,0,0,6.888428,36.870832,fossil_mixed,SKS, ,Mixed fuels, ,1
+852,3059,50,2,21.412354,55.955351,wind,Benaičių VE,Benaičių VE,Wind farm,,-1
+331,1078,240,,-7.426758,38.195022,hydro_mixed,Alqueva, ,Hydro mixed pump storage,,1
+853,5754,30,2,21.928711,55.304138,wind,Kreivėnų VE,Kreivėnų VE,Wind farm,,-1
+332,1039,0,0,35.15625,29.353452,other_nl,Aqaba, ,Other or not listed, ,1
+333,1039,0,0,35.244141,29.353452,other_nrenew_cons,Aqaba, ,"Fossil fuel, under construction", ,1
+854,3084,1096,,5.98754899999999,50.021858,hydro_pure_ps,Vianden, ,Hydro pure pump storage,,1
+334,1041,0,0,35.650635,31.25977,other_nl,Karak, ,Other or not listed, ,1
+855,3089,600,,13.809814,66.709513,hydro_pure_storage,Svartisen, ,Hydro pure storage,,1
+335,1042,0,0,35.529785,31.194008,other_nl,Ghor Safi, ,Other or not listed, ,1
+336,1082,0,0,36.177979,31.868228,other_nl,Amman East, ,Other or not listed, ,1
+856,3090,500,,14.194336,66.284537,hydro_pure_storage,Rana, ,Hydro pure storage,,1
+337,1045,0,0,35.81543,31.802893,other_nl,Amman South, ,Other or not listed, ,1
+857,3092,128,,12.755127,65.201468,hydro_pure_storage,Kolsvik, ,Hydro pure storage,,1
+338,1066,0,0,36.265869,32.259265,other_nl,Samra, ,Other or not listed, ,1
+339,1051,0,0,35.793457,32.519026,other_nl,Irbid, ,Other or not listed, ,1
+858,3093,176,,12.799072,64.713188,hydro_pure_storage,Tunnsjødal, ,Hydro pure storage,,1
+340,1051,0,0,35.793457,32.472695,other_nl_cons,Irbid, ,"Other or not listed, under construction", ,1
+859,3103,82,,9.602051,63.059937,hydro_pure_storage,Grana, ,Hydro pure storage,,1
+341,1030,0,0,36.276855,32.054645,other_nl,Zarqa, ,Other or not listed, ,1
+342,993,0,0,36.452637,33.201924,other_nl,Deir Ali, ,Other or not listed, ,1
+860,3106,290,,8.481445,62.679186,hydro_pure_storage,Aura, ,Hydro pure storage,,1
+343,1028,0,0,36.804199,33.376412,other_nl,Tishreen, ,Other or not listed, ,1
+861,3108,140,,6.097412,61.233245,hydro_pure_storage,Høyanger, ,Hydro pure storage,,1
+344,991,0,0,36.903076,33.806538,other_nl,Nasryieh, ,Other or not listed, ,1
+862,3110,91,,6.61376999999999,61.042332,hydro_pure_storage,Refsdal, ,Hydro pure storage,,1
+345,972,0,0,36.968994,34.533712,other_nl,Jander, ,Other or not listed, ,1
+863,3113,90,,7.437744,61.291349,hydro_pure_storage,Årøy, ,Hydro pure storage,,1
+346,974,0,0,36.551514,34.615127,other_nl,Qatteneh, ,Other or not listed, ,1
+864,3111,270,,7.734375,61.517456,hydro_pure_storage,Skagen-Fortun, ,Hydro pure storage,,1
+347,979,0,0,35.90332,35.128894,other_nl_cons,Banias, ,"Other or not listed, under construction", ,1
+865,3112,110,,7.437744,61.449271,hydro_pure_storage,Leirdøla, ,Hydro pure storage,,1
+348,979,0,0,35.914307,35.227672,other_nl,Banias, ,Other or not listed, ,1
+866,3112,290,,7.41577099999999,61.569805,hydro_pure_storage,Jostedal, ,Hydro pure storage,,1
+349,985,0,0,36.573486,34.966999,other_nl,Zara, ,Other or not listed, ,1
+867,3116,140,,7.39379900000001,60.99975,hydro_pure_storage,Aurland 2, ,Hydro pure storage,,1
+350,984,0,0,36.540527,35.317366,other_nl,Mehrade, ,Other or not listed, ,1
+868,3117,300,,7.45971699999999,60.930432,hydro_mixed,Aurland 3, ,Hydro mixed pump storage,,1
+351,963,0,0,36.254883,35.666222,other_nl,Zyzoun, ,Other or not listed, ,1
+869,3118,840,,7.21801800000001,60.951777,hydro_pure_storage,Aurland 1, ,Hydro pure storage,,1
+352,226,0,0,37.836914,36.261992,other_nl,G, ,Other or not listed, ,1
+870,3120,212,,7.88818400000001,61.047651,hydro_pure_storage,Borgund, ,Hydro pure storage,,1
+871,3121,150,,5.965576,60.834204,hydro_pure_storage,Steinsland, ,Hydro pure storage,,1
+353,1014,0,0,38.287354,36.447799,other_nl,Tishreen Hyd., ,Other or not listed, ,1
+872,3126,141,,5.84472700000001,60.662415,hydro_pure_storage,Dale, ,Hydro pure storage,,1
+354,976,0,0,38.583984,36.013561,hydro_mixed,Thawra, ,Hydro mixed pump storage, ,1
+873,3127,333,,6.097412,60.662415,hydro_pure_storage,Evanger, ,Hydro pure storage,,1
+355,1029,0,0,38.924561,35.737595,hydro_mixed,Baath, ,Hydro mixed pump storage, ,1
+874,3128,250,,6.29516600000001,60.119619,hydro_pure_storage,Mauranger, ,Hydro pure storage,,1
+356,1009,0,0,39.946289,35.335293,hydro_mixed,Taiym, ,Hydro mixed pump storage, ,1
+875,3129,200,,6.80053699999999,60.15791,hydro_pure_storage,Oksla, ,Hydro pure storage,,1
+357,1009,0,0,39.847412,35.362176,hydro_mixed_cons,Taiym, ,"Hydro mixed pump storage, under construction", ,1
+876,3130,180,,6.70165999999999,60.06484,hydro_pure_storage,Tysso, ,Hydro pure storage,,1
+358,1024,0,0,42.1875,37.002553,other_nl,Swedieh, ,Other or not listed, ,1
+877,3131,1120,,7.23998999999999,60.484292,hydro_pure_storage,Eidfjord, ,Hydro pure storage,,1
+359,1044,0,0,36.199951,31.203405,other_nl,Qatrana, ,Other or not listed, ,1
+878,3132,-1,,7.88818400000001,60.630102,hydro_pure_storage,unknown, ,Hydro pure storage,,1
+360,1092,0,0,35.90332,32.324276,other_nl,Rehab, ,Other or not listed, ,1
+879,3133,-1,,8.085938,60.667797,hydro_pure_storage,unknown, ,Hydro pure storage,,1
+361,588,0,0,12.755127,32.814978,other_nl, , ,Other or not listed, ,1
+880,3134,70,,8.31665,60.871661,hydro_pure_storage,Heimsil 1, ,Hydro pure storage,,1
+362,557,0,0,20.093994,30.902225,other_nl,Zwitina, ,Other or not listed, ,1
+881,3135,96,,8.69018599999999,60.796704,hydro_pure_storage,Heimsil 2, ,Hydro pure storage,,1
+363,875,0,0,22.774658,32.731841,other_nl,Derna, ,Other or not listed, ,1
+882,3136,280,,8.756104,60.592362,hydro_pure_storage,Nes, ,Hydro pure storage,,1
+364,884,0,0,23.917236,32.129105,other_nl,Tubrak, ,Other or not listed, ,1
+883,3137,200,,9.03076200000001,60.234357,hydro_pure_storage,Nore 1, ,Hydro pure storage,,1
+365,890,0,0,16.270752,31.240985,other_nl_cons,Gulf, ,"Other or not listed, under construction", ,1
+884,3143,350,,6.108398,59.872398,hydro_pure_storage,Blåfalli, ,Hydro pure storage,,1
+366,728,0,0,21.467285,27.5375,other_nrenew_cons,Srir West, ,"Fossil fuel, under construction", ,1
+597,1499,149,,-7.646484,40.888601,wind,Douro Sul, ,Wind farm,,1
+367,894,0,0,13.809814,32.759562,other_nl, , ,Other or not listed, ,1
+368,557,0,0,20.148926,30.996446,other_nl_cons,Zwitina, ,"Other or not listed, under construction", ,1
+369,863,0,0,20.137939,32.249974,other_nl,Bengazi North, ,Other or not listed, ,1
+370,863,0,0,20.214844,32.287133,other_nl_cons,Bengazi North, ,"Other or not listed, under construction", ,1
+371,574,0,0,15.303955,32.287133,other_nl_cons,Misurata Steel, ,"Other or not listed, under construction", ,1
+372,572,0,0,15.270996,32.342841,other_nl,Misurata Steel, ,Other or not listed, ,1
+373,894,0,0,13.897705,32.731841,other_nl_cons, , ,"Other or not listed, under construction", ,1
+374,849,0,0,14.677734,32.472695,other_nrenew_cons,Tripoli, ,"Fossil fuel, under construction", ,1
+375,875,0,0,22.873535,32.704111,other_nrenew_cons,Derna, ,"Fossil fuel, under construction", ,1
+376,590,0,0,13.117676,32.879587,other_nl, , ,Other or not listed, ,1
+377,588,0,0,12.601318,32.805745,other_nl, , ,Other or not listed, ,1
+378,874,0,0,11.78833,33.082337,other_nl,Abu Kamash, ,Other or not listed, ,1
+379,868,0,0,11.206055,32.063956,other_nl,Rowss, ,Other or not listed, ,1
+380,849,0,0,14.545898,32.500496,other_nl,Tripoli, ,Other or not listed, ,1
+381,892,0,0,12.799072,32.648626,other_nl, , ,Other or not listed, ,1
+382,842,0,0,13.205566,32.916485,other_nl_cons, , ,"Other or not listed, under construction", ,1
+383,756,0,0,11.052246,33.550551,other_nl,Zarzis, ,Other or not listed, ,1
+885,3222,157,,6.64672900000001,59.601095,hydro_pure_storage,Hylen, ,Hydro pure storage,,1
+886,3144,170,,6.64672900000001,59.461826,hydro_mixed,Saurdal, ,Hydro mixed pump storage,,1
+384,756,0,0,11.074219,33.422272,other_nl,Zarzis, ,Other or not listed, ,1
+887,3146,1240,,6.99829100000001,59.523176,hydro_pure_storage,Kvilldal, ,Hydro pure storage,,1
+888,3159,50,,7.119141,59.108308,hydro_pure_storage,Roskrepp, ,Hydro pure storage,,1
+889,3160,200,,6.888428,59.108308,hydro_mixed,Duge, ,Hydro mixed pump storage,,1
+890,3161,110,,6.70165999999999,59.068802,hydro_pure_storage,Tjodan, ,Hydro pure storage,,1
+891,3162,120,,6.888428,58.898971,hydro_pure_storage,Tjørhom, ,Hydro pure storage,,1
+892,3163,80,,7.119141,58.995311,hydro_pure_storage,Kvinen, ,Hydro pure storage,,1
+893,3164,200,,7.119141,58.842175,hydro_pure_storage,Solhom, ,Hydro pure storage,,1
+894,3165,960,,6.82251000000001,58.659799,hydro_pure_storage,Tonstad, ,Hydro pure storage,,1
+895,3166,160,,6.74560499999999,59.872398,hydro_pure_storage,Røldal, ,Hydro pure storage,,1
+896,3167,40,,6.96533199999999,59.839295,hydro_pure_storage,Novle, ,Hydro pure storage,,1
+385,805,0,0,10.975342,33.413102,other_nl,Zarzis, ,Other or not listed, ,1
+897,3168,40,,7.08618200000001,59.778522,hydro_pure_storage,Kvanndal, ,Hydro pure storage,,1
+386,807,0,0,10.777588,33.815666,other_nl,Robbana, ,Other or not listed, ,1
+898,3169,60,,7.338867,59.80616,hydro_pure_storage,Kjela, ,Hydro pure storage,,1
+387,823,0,0,10.524902,34.840859,other_nl,Sfax Sud, ,Other or not listed, ,1
+899,3170,-1,,6.899414,59.712097,hydro_pure_storage,Ulla-Førre, ,Hydro pure storage,,1
+388,809,0,0,10.447998,34.840859,other_nl,Sfax Sud, ,Other or not listed, ,1
+900,3172,142,,6.55883800000001,58.372918,hydro_pure_storage,Ana-Sira, ,Hydro pure storage,,1
+389,823,0,0,10.623779,34.894942,other_nl,Sfax Sud, ,Other or not listed, ,1
+901,3179,300,,7.558594,59.136499,hydro_pure_storage,Brokke, ,Hydro pure storage,,1
+390,821,0,0,10.678711,34.966999,other_nl,Sidi Mansour, ,Other or not listed, ,1
+902,3179,56,,7.72338899999999,58.972667,hydro_pure_storage,Hekni, ,Hydro pure storage,,1
+391,821,0,0,10.656738,35.029996,other_nl,Sidi Mansour, ,Other or not listed, ,1
+903,3179,55,,8.22876,58.944341,hydro_pure_storage,Jørundland, ,Hydro pure storage,,1
+392,787,0,0,9.492188,33.934245,other_nl,Bouchemma, ,Other or not listed, ,1
+904,3179,108,,8.096924,59.097025,hydro_pure_storage,Finndøla, ,Hydro pure storage,,1
+393,787,0,0,9.591064,33.934245,other_nl,Bouchemma, ,Other or not listed, ,1
+905,3184,50,,8.448486,59.192812,hydro_pure_storage,Fjone, ,Hydro pure storage,,1
+394,760,0,0,10.041504,33.998027,other_nl,Ghannouch, ,Other or not listed, ,1
+906,3181,120,,7.76733399999999,59.778522,hydro_pure_storage,Songa, ,Hydro pure storage,,1
+395,760,0,0,10.030518,34.034453,other_nl,Ghannouch, ,Other or not listed, ,1
+907,3182,300,,7.822266,59.634435,hydro_pure_storage,Vinje, ,Hydro pure storage,,1
+396,760,0,0,10.118408,33.888658,other_nl,Ghannouch, ,Other or not listed, ,1
+908,3183,430,,7.89916999999999,59.456243,hydro_pure_storage,Tokke, ,Hydro pure storage,,1
+397,1126,1180,,-8.69018599999999,37.848833,fossil_coal_hard,Sines, ,Hard coal,,1
+909,3184,110,,8.87695299999999,59.422728,hydro_pure_storage,Sundsbarm, ,Hydro pure storage,,1
+398,772,0,0,10.689697,35.826721,other_nl,Sousse, ,Other or not listed, ,1
+910,3185,204,,8.525391,59.910976,hydro_pure_storage,Vemork, ,Hydro pure storage,,1
+399,772,0,0,10.634766,35.880149,other_nl,Sousse, ,Other or not listed, ,1
+911,3186,189,,8.756104,59.916483,hydro_pure_storage,Såheim, ,Hydro pure storage,,1
+400,774,0,0,10.59082,35.924645,other_nl,Sousse, ,Other or not listed, ,1
+912,3193,328,,7.45971699999999,59.478569,hydro_pure_storage,Holen, ,Hydro pure storage,,1
+401,1127,0,0,10.184326,37.081476,other_nl,Goulette, ,Other or not listed, ,1
+913,3199,140,,9.33837900000001,61.475514,hydro_pure_storage,Øvre Vinstra, ,Hydro pure storage,,1
+402,810,0,0,10.568848,36.853252,other_nl, , ,Other or not listed, ,1
+914,3200,92,,10.129395,61.527933,hydro_pure_storage,Harpefossen, ,Hydro pure storage,,1
+403,840,0,0,10.294189,36.879621,other_nl, , ,Other or not listed, ,1
+915,3201,308,,9.821777,61.580264,hydro_pure_storage,Nedre Vinstra, ,Hydro pure storage,,1
+404,1127,0,0,10.272217,36.93233,other_nl, , ,Other or not listed, ,1
+916,3202,94,,11.12915,61.835413,hydro_pure_storage,Rendalen, ,Hydro pure storage,,1
+405,810,0,0,10.535889,36.800488,other_nl, , ,Other or not listed, ,1
+917,3204,37.5,,10.26123,62.628719,hydro_pure_storage,Ulset, ,Hydro pure storage,,1
+406,810,0,0,10.480957,36.75649,other_nl, , ,Other or not listed, ,1
+918,3205,80,,10.118408,62.679186,hydro_pure_storage,Litjfossen, ,Hydro pure storage,,1
+407,802,0,0,10.085449,36.332828,other_nl,Bir M'cherga, ,Other or not listed, ,1
+919,3206,80,,9.93164099999999,62.764783,hydro_pure_storage,Brattset, ,Hydro pure storage,,1
+408,802,0,0,10.085449,36.385913,other_nl,Bir M'cherga, ,Other or not listed, ,1
+920,3213,82,,5.218506,61.731526,hydro_pure_storage,Åskara, ,Hydro pure storage,,1
+409,1050,0,0,38.95752,32.639375,other_nl,El-Risha, ,Other or not listed, ,1
+921,3220,-1,,10.843506,59.96051,power_plus_sub,Oslo, ,Substations + Power Plants,,1
+410,584,0,0,14.205322,27.196014,other_nl,Sebha, ,Other or not listed, ,1
+922,3225,420,,5.570068,59.316375,fossil_coal_gas,Karstø, ,Fossil gas,,1
+411,1317,0,0,-1.098633,35.612651,fossil_mixed_cons,Boutlelis, ,"Mixed fuels, under construction", ,1
+923,3229,1610,,14.414062,53.087426,fossil_coal_hard,Dolna Odra, ,Hard coal,,1
+412,693,0,0,1.230469,35.451721,fossil_mixed,Tiaret, ,Mixed fuels, ,1
+924,3346,1116,,18.07251,52.355474,fossil_brown_lignite,Pątnów, ,Brown coal/Lignite,,1
+413,685,0,0,3.098145,32.861132,fossil_mixed,SPP1, ,Mixed fuels, ,1
+925,3342,716,,18.171387,54.769009,hydro_pure_ps,Żarnowiec, ,Hydro pure pump storage,,1
+414,689,0,0,5.89965800000001,32.03602,fossil_mixed,Hassi Messaoud 400, ,Mixed fuels, ,1
+926,3273,1662,,18.643799,50.176898,fossil_coal_hard,Rybnik, ,Hard coal,,1
+415,660,0,0,4.33960000000001,35.719758,fossil_mixed,M'Sila, ,Mixed fuels, ,1
+927,3275,1041,,18.841553,50.035974,fossil_coal_hard,Łagisza, ,Hard coal,,1
+416,1137,0,0,5.789795,36.81808,fossil_mixed,Jijel, ,Mixed fuels, ,1
+928,3354,973,,19.02832,50.380502,fossil_coal_hard,Łagisza, ,Hard coal,,1
+417,708,0,0,3.39477499999999,33.100745,fossil_mixed,Hassi R'Mel, ,Mixed fuels, ,1
+929,3280,540,,19.368896,49.738682,hydro_pure_ps,Porąbka Żar, ,Hydro pure pump storage,,1
+418,694,0,0,2.834473,36.129002,fossil_mixed,Berrouaghia, ,Mixed fuels, ,1
+930,3357,431,,19.742432,49.922935,fossil_coal_hard,Skawina, ,Hard coal,,1
+419,613,0,0,6.03149400000001,35.933541,fossil_mixed,Ain Djasser, ,Mixed fuels, ,1
+931,3337,1227,,19.215088,50.092393,fossil_coal_hard,Jaworzno III, ,Hard coal,,1
+420,1138,0,0,6.723633,36.90598,fossil_mixed,Skikda, ,Mixed fuels, ,1
+932,3356,606,,19.610596,50.212064,fossil_coal_hard,Siersza, ,Hard coal,,1
+421,706,0,0,-1.25244100000001,35.406961,fossil_mixed,Terga, ,Mixed fuels, ,1
+933,3227,4887,,19.313965,51.282535,fossil_brown_lignite,Bełchatów, ,Brown coal/Lignite,,1
+422,1139,0,0,1.97753899999999,36.5626,fossil_mixed,Hadjret Ennouss, ,Mixed fuels, ,1
+934,3349,2668,,21.687012,51.645294,fossil_coal_hard,Kozienice, ,Hard coal,,1
+423,951,0,0,32.827148,25.294371,hydro_mixed,Asna, ,Hydro mixed pump storage, ,1
+424,937,0,0,33.013916,23.835601,hydro_mixed,High Dam, ,Hydro mixed pump storage, ,1
+935,3344,590,,21.500244,52.988337,fossil_coal_hard,Ostrołęka B, ,Hard coal,,1
+425,925,0,0,32.805176,23.966176,hydro_mixed,Aswan Dam 1.2, ,Hydro mixed pump storage, ,1
+936,3352,1465,,21.2146,50.387508,fossil_coal_hard,Połaniec, ,Hard coal,,1
+937,3351,314,,22.214355,50.541363,fossil_coal_hard,Stalowa Wola, ,Hard coal,,1
+426,946,0,0,32.67334,29.859701,other_nl,O. Mousa, ,Other or not listed, ,1
+938,3240,454,,15.106201,51.020666,fossil_brown_lignite_cons,Turów, ,"Brown coal/Lignite, under construction",,1
+427,931,0,0,32.102051,25.780107,other_nl,Nag Hammadi, ,Other or not listed, ,1
+939,3238,1426,,17.819824,50.701677,fossil_coal_hard,Opole, ,Hard coal,,1
+428,929,0,0,34.200439,27.907058,other_nl,Sharm Elshiekh, ,Other or not listed, ,1
+429,1283,0,0,33.793945,26.784847,other_nl_cons,Safaga, ,"Other or not listed, under construction", ,1
+940,3244,202,,15.699463,51.930718,fossil_coal_gas,Zielona Góra CHP, ,Fossil gas,,1
+430,934,0,0,33.717041,27.147145,other_nl,Hurghada, ,Other or not listed, ,1
+941,3256,120,,17.017822,53.047818,wind,Margonin, ,Wind farm,,1
+431,1158,0,0,35.397949,33.339707,other_nl,Zahrani, ,Other or not listed, ,1
+942,3359,-1,,34.892578,57.710017,nuclear,Kalininskaja AES,Калининская АЭС,Nuclear,,1
+432,1144,0,0,36.156006,34.107256,other_nl,Baalbeck, ,Other or not listed, ,1
+943,3361,-1,,29.794922,57.50402,other_nl,Pskovskaya TPP,Псковская ГРЭС,Other or not listed,,1
+433,1145,0,0,35.980225,34.497503,other_nl,Deir Amar, ,Other or not listed, ,1
+944,3362,-1,,37.913818,54.819679,other_nl,Kashirskaya TPP-4,Каширская ГРЭС-4,Other or not listed,,1
+945,3387,-1,,34.628906,64.965416,hydro_ror,Putkinskaya HPP-9,Путкинская ГЭС-9,Hydro run of river & pondage,,1
+434,1153,0,0,35.639648,34.189086,other_nl,Halate, ,Other or not listed, ,1
+946,3389,-1,,33.563232,65.095272,hydro_ror,Krivoporozhskaya HPP-14,Кривопорожская ГЭС-14,Hydro run of river & pondage,,1
+435,1141,0,0,35.189209,33.174342,other_nl,Sour, ,Other or not listed, ,1
+947,3391,-1,,29.003906,60.775255,converter_b2b,Vyborgskaya,Выборгская,Converter Station Back-to-back,,1
+436,6675,0,0,34.321289,31.512996,other_nl,Gaza, ,Other or not listed, ,1
+948,3393,-1,,34.244385,63.937372,hydro_ror,Ondskaya HPP-4,Ондская ГЭС-4,Hydro run of river & pondage,,1
+437,1278,0,0,32.2229,29.496988,other_nl, , ,Other or not listed, ,1
+949,3402,-1,,32.01416,59.417138,other_nl,Kirishskaya TPP-19,Киришская ГРЭС-19,Other or not listed,,1
+438,1164,0,0,30.212402,30.078601,other_nl,Sadat, ,Other or not listed, ,1
+950,3407,-1,,39.946289,47.457809,other_nl,Novocherkasskaya TPP,Новочеркасская ГРЭС,Other or not listed,,1
+951,3417,-1,,42.110596,47.665387,hydro_ror,Tsimlyanskaya HPP,Цимлянская ГЭС,Hydro run of river & pondage,,1
+439,1174,0,0,30.52002,30.002517,other_nl,Cairo 500, ,Other or not listed, ,1
+952,3418,-1,,42.440186,47.41322,nuclear,Rostovskaya NPP,Ростовская АЭС,Nuclear,,1
+953,3422,-1,,41.781006,45.220743,other_nl,Stavropol'skaya TPP,Ставропольская ГРЭС,Other or not listed,,1
+440,958,0,0,31.26709,27.352253,other_nl,Assuit Steam, ,Other or not listed, ,1
+954,3431,-1,,41.835938,44.684277,other_nl,Nevinnomysskaya TPP,Невинномысская ГРЭС,Other or not listed,,1
+540,1636,-1,,-6.20727500000001,41.631867,hydro_ror,Castro, ,Hydro run of river & pondage,,1
+955,3436,-1,,42.51709,44.370987,hydro_ror,Kubanskaya HPP-2,Кубанская ГЭС-2,Hydro run of river & pondage,,1
+441,1180,0,0,31.256104,28.921631,other_nl,Kurimat, ,Other or not listed, ,1
+956,3437,-1,,41.901855,44.574817,hydro_ror,Kubanskaya HPP-4,Кубанская ГЭС-4,Hydro run of river & pondage,,1
+442,1162,0,0,29.520264,30.60955,other_nl,Medalik, ,Other or not listed, ,1
+957,3474,-1,,41.077881,57.692406,other_nl,Kostromskaya TPP,Костромская ГРЭС,Other or not listed,,1
+443,1202,0,0,30.531006,31.184609,other_nl,Siuf, ,Other or not listed, ,1
+958,3491,-1,,37.452393,55.795105,power_plus_sub,Moscow,Москва,Substations + Power Plants,,1
+444,1201,0,0,30.421143,30.87394,other_nl,K.D, ,Other or not listed, ,1
+959,3501,-1,,39.594727,54.181727,other_nl,Ryazanskaya TPP,Рязанская ГРЭС,Other or not listed,,1
+445,1165,0,0,31.05835,31.099982,other_nl,Mahmudia, ,Other or not listed, ,1
+960,3503,-1,,36.826172,56.577641,other_nl,Konakovskaya TPP,Конаковская ГРЭС,Other or not listed,,1
+446,1205,0,0,30.860596,30.524413,other_nl,Nobaria, ,Other or not listed, ,1
+961,3511,-1,,30.058594,60.125092,other_nl,Severo-Zapadnaya CHPP,Северо-Западная ТЭЦ,Other or not listed,,1
+447,1204,0,0,30.563965,30.930501,other_nl,Damanhur, ,Other or not listed, ,1
+962,3512,-1,,40.847168,64.529548,fossil_coal_gas,Arkhangel'skaya CHPP,,Fossil gas,,1
+448,1244,0,0,31.157227,29.123373,other_nl,Tebbin South, ,Other or not listed, ,1
+963,3522,-1,,34.815674,61.010401,hydro_ror,Verkhne-Svirskaya HPP-12,Верхне-Свирская ГЭС-12,Hydro run of river & pondage,,1
+449,1213,0,0,30.750732,30.892797,other_nl,I. Baroud, ,Other or not listed, ,1
+964,3523,-1,,34.035645,60.983767,hydro_ror,Nizhne-Svirskaya HPP-9,Нижне-Свирская ГЭС-9,Hydro run of river & pondage,,1
+450,1218,0,0,30.81665,29.40132,other_nl,Cairo S., ,Other or not listed, ,1
+965,3525,-1,,32.563477,55.578345,fossil_oil,Smolenskaya TPP,Смоленская ГРЭС,Fossil oil,,1
+451,1484,0,0,8.02001999999999,30.921076,fossil_mixed,Hassi Berkine, ,Mixed fuels, ,1
+966,3534,-1,,38.869629,58.089493,hydro_ror,Rybinskaya HPP,Рыбинская ГЭС,Hydro run of river & pondage,,1
+452,1229,0,0,32.387695,30.240086,other_nl,A. Sultan, ,Other or not listed, ,1
+967,3535,-1,,38.100586,57.521723,hydro_ror,Uglichskaya HPP,Угличская ГЭС,Hydro run of river & pondage,,1
+453,1186,0,0,31.486816,31.118794,other_nl,Talkha, ,Other or not listed, ,1
+968,3576,-1,,37.155762,54.457267,fossil_brown_lignite,Aleksinskaya CHPP,Алексинская ТЭЦ,Brown coal/Lignite,,1
+454,1219,0,0,31.387939,29.812051,other_nl,Cairo N., ,Other or not listed, ,1
+969,3578,-1,,39.517822,55.578345,other_nl,Shaturskaya TPP-5,Шатурская ГРЭС-5,Other or not listed,,1
+455,1247,0,0,30.9375,29.363027,other_nl,W. Houf, ,Other or not listed, ,1
+970,3590,-1,,37.342529,53.975474,other_nl,Shchekinskaya TPP,Щекинская ГРЭС,Other or not listed,,1
+456,1244,0,0,31.179199,29.219302,other_nl,Tebbin South, ,Other or not listed, ,1
+971,3591,-1,,38.034668,54.059388,other_nl,Novomoskovskaya TPP,Новомосковская ГРЭС,Other or not listed,,1
+457,1305,0,0,32.640381,28.372069,other_nl_cons,Zafarana 2, ,"Other or not listed, under construction", ,1
+972,3592,-1,,36.485596,54.078729,other_nl,Cherepetskaya TPP,Черепетская ГРЭС,Other or not listed,,1
+458,1274,0,0,33.991699,31.203405,other_nl,Al'afrsh, ,Other or not listed, ,1
+973,3616,-1,,39.067383,45.18978,other_nl,Krasnodarskaya CHPP,Краснодарская ТЭЦ,Other or not listed,,1
+516,1523,191,,-6.503906,41.319076,hydro_ror,Bemposta II, ,Hydro run of river & pondage,,1
+974,3619,-1,,38.452148,44.590467,other_nl,Dzhubginskaya TPP,Джубгинская ТЭС,Other or not listed,,1
+459,1276,0,0,33.156738,31.137603,other_nl,Pt. Said East, ,Other or not listed, ,1
+460,1300,0,0,32.420654,29.821583,other_nl,Ataqa, ,Other or not listed, ,1
+975,3635,-1,,42.121582,47.517201,other_nl,Volgodonskaya CHPP-2,Волгодонская ТЭЦ-2,Other or not listed,,1
+461,1261,0,0,32.200928,29.180941,other_nl,Suez Golf, ,Other or not listed, ,1
+976,3644,-1,,39.891357,47.739323,other_nl,Eksperimental'naya TPP,Экспериментальная ТЭ,Other or not listed,,1
+977,3667,-1,,20.841064,54.705582,other_nl,Kaliningradskaya CHPP-2,Калининградская ТЭЦ-2,Other or not listed,,1
+462,1282,0,0,32.937012,28.478349,other_nl,Zafarana, ,Other or not listed, ,1
+978,3674,-1,,39.572754,43.723475,other_nl,Sochinskaya TPP,Сочинская ТЭС,Other or not listed,,1
+463,1284,0,0,32.321777,31.250378,other_nl,Pt. Said, ,Other or not listed, ,1
+979,3678,-1,,39.924316,64.609749,other_nl,Severodvinskaya CHPP-2,Северодвинская ТЭЦ-2,Other or not listed,,1
+464,1284,0,0,32.475586,31.17521,other_nl,Pt. Said, ,Other or not listed, ,1
+980,3679,-1,,12.590332,62.573106,hydro_ror,Långå, ,Hydro run of river & pondage,,1
+465,1287,0,0,31.541748,31.456782,other_nl,Domiat, ,Other or not listed, ,1
+981,3680,-1,,30.223389,59.850333,power_plus_sub,Saint-Petersburg,Санкт-Петербург,Substations + Power Plants,,1
+466,1288,0,0,30.421143,31.419288,other_nl,A.Qir, ,Other or not listed, ,1
+982,3682,-1,,29.179688,59.916483,nuclear,Leningradskaya NPP,Ленинградская АЭС,Nuclear,,1
+467,1292,0,0,29.300537,30.86451,other_nl,S.Karir, ,Other or not listed, ,1
+983,3684,1000,,17.512207,48.465637,nuclear,Jaslovské  Bohunice, ,Nuclear,,1
+468,1207,0,0,30.981445,31.156408,other_nl_cons,Mahmudia, ,"Other or not listed, under construction", ,1
+984,3686,940,,18.380127,48.385442,nuclear,Mochovce, ,Nuclear,,1
+469,1180,0,0,31.245117,28.844674,other_nl,Kurimat, ,Other or not listed, ,1
+985,3687,735,,19.962158,48.965794,hydro_pure_ps,Čierny Váh, ,Hydro pure pump storage,,1
+470,934,0,0,33.717041,27.147145,other_nl,Hurghada, ,Other or not listed, ,1
+986,3688,440,,21.741943,48.57479,fossil_coal_hard,Vojany, ,Hard coal,,1
+471,930,0,0,27.169189,31.381779,other_nl,Matrouh, ,Other or not listed, ,1
+987,3698,518,,18.500977,48.596592,fossil_brown_lignite,Nováky, ,Brown coal/Lignite,,1
+472,919,0,0,30.970459,27.673799,other_nl,Walidia, ,Other or not listed, ,1
+988,3713,430,,17.797852,48.43649,fossil_coal_gas,Malženice, ,Fossil gas,,1
+473,1340,0,0,3.625488,36.800488,fossil_mixed,Ras Djinet, ,Mixed fuels, ,1
+989,3714,-1,,18.643799,66.968775,hydro_ror,Seitevare, ,Hydro run of river & pondage,,1
+474,1333,0,0,3.087158,36.491973,,Arbaa, ,c, ,1
+990,3715,-1,,14.765625,65.622023,hydro_ror,Gejmån, ,Hydro run of river & pondage,,1
+475,1343,0,0,3.098145,36.721274,fossil_mixed,Hamma, ,Mixed fuels, ,1
+991,3716,-1,,16.490479,65.385147,hydro_ror,Gardikfors, ,Hydro run of river & pondage,,1
+476,1484,0,0,8.02001999999999,30.921076,fossil_mixed,Hassi Berkine, ,Mixed fuels, ,1
+992,3717,-1,,16.875,65.298059,hydro_ror,Juktan, ,Hydro run of river & pondage,,1
+517,1521,186,,-7.13012700000001,41.079351,hydro_ror,Pocinho, ,Hydro run of river & pondage,,1
+477,1314,0,0,20.577393,32.017392,other_nl_cons, , ,"Other or not listed, under construction", ,1
+993,3718,-1,,15.787354,64.965416,hydro_ror,Stalon, ,Hydro run of river & pondage,,1
+478,1354,0,0,-0.274658000000005,35.791083,power_plus_sub,Marsat Poste, ,Substations + Power Plants, ,1
+994,3719,-1,,14.150391,64.71788,hydro_ror,Blåsjön, ,Hydro run of river & pondage,,1
+479,1355,0,0,0.197754000000012,36.093499,fossil_mixed_cons,Mostaganem, ,"Mixed fuels, under construction", ,1
+995,3720,-1,,13.809814,64.652112,hydro_ror,Linnvasselv, ,Hydro run of river & pondage,,1
+480,1371,120,,26.564941,38.453589,wind,Çeşme RES, ,Wind farm,,1
+996,3721,-1,,15.446777,64.54844,hydro_ror,Korsselbränna, ,Hydro run of river & pondage,,1
+481,349,163,,27.46582,37.909534,other_renew,Efe JES, ,Geothermal,,1
+482,100,416.899994,1,24.104004,38.384728,fossil_coal_gas,Aliveri, ,Fossil gas,,-1
+997,3722,-1,,12.23877,57.326521,nuclear,Ringhals, ,Nuclear,,1
+483,125,1551.800049,1,23.939209,37.68382,fossil_coal_gas,Lavrio, ,Fossil gas,,-1
+998,3723,-1,,17.545166,64.997939,hydro_ror,Grundfors, ,Hydro run of river & pondage,,1
+999,3725,-1,,14.0625,64.572037,hydro_ror,Junsterforsen, ,Hydro run of river & pondage,,1
+1000,3726,-1,,14.18335,64.486993,hydro_ror,Gäddede, ,Hydro run of river & pondage,,1
+484,125,1551.800049,1,24.038086,37.675125,fossil_oil,Lavrio, ,Fossil oil,,-1
+485,655,0,0,-0.51635699999999,33.220308,fossil_mixed,Naama 400, ,Mixed fuels, ,1
+486,1487,0,0,-0.428466999999993,33.422272,fossil_mixed_cons,Naama 400, ,"Mixed fuels, under construction", ,1
+487,1389,0,0,-0.395507999999999,35.871247,fossil_mixed,Kahrama, ,Mixed fuels, ,1
+488,1390,0,0,-0.340575999999992,35.835628,fossil_mixed,Marsat, ,Mixed fuels, ,1
+489,1390,0,0,-0.296630999999993,35.835628,fossil_mixed,Marsat, ,Mixed fuels, ,1
+490,692,0,0,0.560302999999993,35.764343,fossil_mixed,Marsat, ,Mixed fuels, ,1
+491,685,0,0,2.98828099999999,32.962586,fossil_mixed,Tilghemt, ,Mixed fuels, ,1
+492,678,0,0,6.273193,31.877558,fossil_mixed,Hassi Messaoud North, ,Mixed fuels, ,1
+493,681,0,0,5.85571300000001,31.559815,fossil_mixed,Hassi Messaoud West, ,Mixed fuels, ,1
+494,712,0,0,6.932373,34.849875,fossil_mixed,Labreg, ,Mixed fuels, ,1
+495,1406,0,0,5.63598600000001,34.51561,fossil_mixed,Oumache, ,Mixed fuels, ,1
+496,609,0,0,7.558594,35.639441,fossil_mixed,F'Kirina, ,Mixed fuels, ,1
+1001,3727,-1,,14.963379,64.349421,hydro_ror,Bågede, ,Hydro run of river & pondage,,1
+1002,3728,-1,,13.765869,63.942199,hydro_ror,Stensjön, ,Hydro run of river & pondage,,1
+1003,3729,-1,,13.491211,63.758208,hydro_ror,Olden, ,Hydro run of river & pondage,,1
+1004,3730,-1,,13.062744,63.75335,hydro_ror,Juveln, ,Hydro run of river & pondage,,1
+1005,3731,-1,,15.842285,63.582788,hydro_ror,Storfinnforsen, ,Hydro run of river & pondage,,1
+1006,3732,-1,,16.259766,63.524073,hydro_ror,Ramsele, ,Hydro run of river & pondage,,1
+1007,3733,-1,,13.458252,63.366908,hydro_ror,Järpströmmen, ,Hydro run of river & pondage,,1
+1008,3735,-1,,13.64502,63.312683,hydro_ror,Mörsil, ,Hydro run of river & pondage,,1
+1009,3736,-1,,13.590088,63.233627,hydro_ror,Sällsjö, ,Hydro run of river & pondage,,1
+1010,3767,-1,,16.413574,59.50088,other_nl,Arosverket, ,Other or not listed,,1
+1011,3770,-1,,19.863281,66.97737,hydro_ror,Porjus, ,Hydro run of river & pondage,,1
+1012,3771,-1,,19.863281,66.843807,hydro_ror,Harsprånget, ,Hydro run of river & pondage,,1
+1013,3772,-1,,20.039062,66.731223,hydro_ror,Ligga, ,Hydro run of river & pondage,,1
+1014,3773,-1,,20.456543,66.670387,hydro_ror,Messaure, ,Hydro run of river & pondage,,1
+1015,3774,-1,,19.742432,65.030423,hydro_ror,Vagfors, ,Hydro run of river & pondage,,1
+1016,3778,-1,,20.050049,63.898731,hydro_ror,Stornorrfors, ,Hydro run of river & pondage,,1
+1017,3780,-1,,17.314453,64.263684,hydro_ror,Stenkullafors, ,Hydro run of river & pondage,,1
+1018,3781,-1,,17.446289,64.182464,hydro_ror,Åsele, ,Hydro run of river & pondage,,1
+1019,3782,-1,,17.171631,63.922888,hydro_ror,Hällby, ,Hydro run of river & pondage,,1
+1020,3783,-1,,17.160645,63.845512,hydro_ror,Gulsele, ,Hydro run of river & pondage,,1
+1021,3784,-1,,17.039795,63.73877,hydro_ror,Degerforsen, ,Hydro run of river & pondage,,1
+1022,3785,-1,,16.787109,63.646259,hydro_ror,Långbjörn, ,Hydro run of river & pondage,,1
+1023,3787,-1,,16.66626,63.484863,hydro_ror,Kilforsen, ,Hydro run of river & pondage,,1
+1024,3788,-1,,16.75415,63.5779,hydro_ror,Lasele, ,Hydro run of river & pondage,,1
+1025,3791,-1,,17.039795,63.479957,hydro_ror,Nämforsen, ,Hydro run of river & pondage,,1
+1026,3792,-1,,17.127686,63.416115,hydro_ror,Moforsen, ,Hydro run of river & pondage,,1
+1027,3793,-1,,17.226562,63.342273,hydro_ror,Forsmo, ,Hydro run of river & pondage,,1
+1028,3794,-1,,17.08374,63.258355,hydro_ror,Hjälta, ,Hydro run of river & pondage,,1
+1029,3796,-1,,16.677246,62.995158,hydro_ror,Stadsforsen, ,Hydro run of river & pondage,,1
+1030,3797,-1,,15.809326,63.248467,hydro_ror,Stugun, ,Hydro run of river & pondage,,1
+1031,3798,-1,,16.160889,63.179151,hydro_ror,Gammalänge, ,Hydro run of river & pondage,,1
+1032,3799,-1,,16.402588,63.174194,hydro_ror,Svarthålsforsen, ,Hydro run of river & pondage,,1
+1033,3800,-1,,15.490723,63.139467,hydro_ror,Näverede, ,Hydro run of river & pondage,,1
+1034,3801,-1,,16.105957,63.094758,hydro_ror,Krångede, ,Hydro run of river & pondage,,1
+1035,3802,-1,,14.787598,63.347201,hydro_ror,Kattstrupeforsen, ,Hydro run of river & pondage,,1
+1036,3803,-1,,15.205078,63.238575,hydro_ror,Midskog, ,Hydro run of river & pondage,,1
+1037,3805,-1,,13.897705,62.734601,hydro_ror,Trångfors, ,Hydro run of river & pondage,,1
+1038,3806,-1,,14.512939,62.517388,hydro_ror,Rätan, ,Hydro run of river & pondage,,1
+1039,3809,-1,,14.161377,62.073026,hydro_ror,Sveg, ,Hydro run of river & pondage,,1
+1040,3810,-1,,15.007324,62.410729,hydro_ror,Turinge, ,Hydro run of river & pondage,,1
+1041,3811,-1,,15.545654,62.441242,hydro_ror,Järnvägsforsen, ,Hydro run of river & pondage,,1
+1042,3813,-1,,16.325684,62.497102,hydro_ror,Torpshammar, ,Hydro run of river & pondage,,1
+1043,3816,-1,,16.721191,62.880197,hydro_ror,Hölleforsen, ,Hydro run of river & pondage,,1
+1044,3817,-1,,16.885986,62.759755,hydro_ror,Järkvissle, ,Hydro run of river & pondage,,1
+1045,3818,-1,,15.842285,61.882048,hydro_ror,Laforsen, ,Hydro run of river & pondage,,1
+1046,3819,-1,,16.446533,61.407236,hydro_ror,Dönje, ,Hydro run of river & pondage,,1
+1047,3824,-1,,17.270508,60.413852,hydro_ror,Untra, ,Hydro run of river & pondage,,1
+1048,3833,-1,,18.81958,60.06484,other_nl,Hallstavik, ,Other or not listed,,1
+1049,3847,-1,,14.787598,56.26166,other_nl,Karlshamm, ,Other or not listed,,1
+1050,3858,-1,,18.094482,59.316375,power_plus_sub,Stockholm, ,Substations + Power Plants,,1
+1051,3860,-1,,15.622559,64.000052,wind,Havsnäs, ,Wind farm,,1
+1052,3870,-1,,16.655273,57.439037,nuclear,Oskarshamn, ,Nuclear,,1
+1053,3871,-1,,18.127441,60.430121,nuclear,Forsmark, ,Nuclear,,1
+1054,3874,-1,,29.179688,54.84499,other_nl,Lukomlskaja GRES,Лукомльская ДРЭС,Other or not listed,,1
+1055,3916,-1,,29.036865,55.447711,fossil_oil,Novopolotskaja TEC,Наваполацкая ЦЭЦ,Fossil oil,,1
+1056,3908,-1,,29.476318,53.219191,other_nl,Bobrujskaja TEC 2,Бабруйская ЦЭЦ2,Other or not listed,,1
+1057,3896,-1,,29.388428,51.98488,other_nl,Mozirskaja TEC,Мазырская ЦЭЦ,Other or not listed,,1
+1212,4290,805,,15.358887,48.429201,fossil_coal_gas,Theiß, ,Fossil gas,,1
+1058,3895,-1,,29.190674,52.596375,other_nl,Svetlogorskaja TEC,Светлагорская ЦЭЦ,Other or not listed,,1
+1059,3910,-1,,30.377197,52.716331,other_nl,Gomelskaja TEC,Гомельская ЦЭЦ,Other or not listed,,1
+1060,3887,-1,,25.070801,53.094024,other_nl,Zelvenskaja,,Other or not listed,,1
+1061,3879,-1,,23.994141,53.47497,other_nl,Grodnenskaja TEC, ,Other or not listed,,1
+1062,3921,-1,,25.125732,52.422523,other_nl,Berjezovskaja GRES,Бярозаўская ДРЭС,Other or not listed,,1
+1063,3912,-1,,29.750977,53.891391,other_nl,Mogilevskaja TEC 2,Магілёўская ЦЭЦ2,Other or not listed,,1
+1478,5843,730,,8.32763700000001,47.52462,nuclear,Beznau,Beznau,Nuclear,,1
+1064,3927,1556,,26.05957,42.415346,fossil_oil,Maritsa Iztok 2,Марица Изток 2,Fossil oil,,1
+1065,3929,670,,25.872803,42.317939,fossil_oil,AES Maritsa Iztok 1,Марица Изток 1,Fossil oil,,1
+1066,3945,1260,,27.718506,43.117024,fossil_brown_lignite,Varna,Варна,Brown coal/Lignite,,1
+1067,3958,240,,23.862305,42.472097,hydro_ror,Sestrimo,Сестримо,Hydro run of river & pondage,,1
+1068,3959,375,,23.807373,42.366662,hydro_pure_ps,Belmeken,Белмекен,Hydro pure pump storage,,1
+1069,3960,-1,,24.016113,42.114524,hydro_pure_ps,Chaira,Чаира,Hydro pure pump storage,,1
+1070,3961,134,,24.147949,42.073762,hydro_ror,Peshtera,Пещера,Hydro run of river & pondage,,1
+1071,3962,75,,23.236084,42.787339,fossil_coal_gas,Sofia,София,Fossil gas,,1
+1072,3970,630,,23.214111,42.382894,fossil_brown_lignite,Bobov dol,Бобов дол,Brown coal/Lignite,,1
+1073,3976,-1,,28.048096,47.768868,other_nl,CET Nord, ,Other or not listed,,1
+1074,3974,-1,,29.014893,47.15984,other_nl,CET-1, ,Other or not listed,,1
+1075,3974,-1,,29.135742,47.077604,other_nl,CET-2, ,Other or not listed,,1
+1076,5782,-1,,29.102783,47.249407,hydro_ror,DGES, ,Hydro run of river & pondage,,1
+1077,4062,138,,22.357178,45.336702,hydro_ror,Ruieni, ,Hydro run of river & pondage,,1
+1078,4079,1161,,22.5,44.770137,hydro_ror,Porţile de Fier 1, ,Hydro run of river & pondage,,1
+1079,3981,200,,22.807617,45.521744,hydro_ror,Retezat, ,Hydro run of river & pondage,,1
+1080,3982,963,,22.818604,45.935871,fossil_brown_lignite,Mintia, ,Brown coal/Lignite,,1
+1081,3984,677,,24.224854,46.505954,fossil_coal_gas,Iernut, ,Fossil gas,,1
+1082,3986,191,,26.202393,46.965259,hydro_ror,Stejaru, ,Hydro run of river & pondage,,1
+1083,3987,1410,,28.201904,44.425934,nuclear,Cernavoda, ,Nuclear,,1
+1084,3973,93,,27.355957,47.249407,fossil_brown_lignite,Iaşi 1, ,Brown coal/Lignite,,1
+2103,6176,28.5,,-9.18456999999999,52.362183,wind,Dromada,,Wind farm,,1
+1085,4072,86,,22.851562,46.822617,hydro_ror,Remeţi, ,Hydro run of river & pondage,,1
+1086,3992,170,,22.093506,46.972756,fossil_brown_lignite,Oradea, ,Brown coal/Lignite,,1
+1087,5762,241,,22.609863,44.386692,hydro_ror,Porţile de Fier 2, ,Hydro run of river & pondage,,1
+1088,4017,75,,26.5979,45.344424,hydro_ror,Buzau, ,Hydro run of river & pondage,,1
+1089,4035,133,,26.279297,44.221584,fossil_coal_gas,Progresu, ,Fossil gas,,1
+1090,4013,200,,26.499023,46.785016,hydro_ror,Bistrita Ds., ,Hydro run of river & pondage,,1
+1091,4013,-1,,26.553955,46.739861,hydro_ror,Bistrita Ds., ,Hydro run of river & pondage,,1
+1092,4030,191,,27.301025,46.217852,hydro_ror,Siret, ,Hydro run of river & pondage,,1
+1093,4030,-1,,27.333984,46.164614,hydro_ror,Siret, ,Hydro run of river & pondage,,1
+1094,4030,-1,,27.366943,46.111326,hydro_ror,Siret, ,Hydro run of river & pondage,,1
+1095,4030,194,,27.070312,46.286224,fossil_oil,Borzeşti, ,Fossil oil,,1
+1096,4033,408,,27.861328,45.267155,other_nl,Brâila, ,Other or not listed,,1
+1097,4015,338,,27.982178,45.521744,fossil_coal_gas,Galaţi, ,Fossil gas,,1
+1098,4037,288,,25.960693,44.245199,fossil_coal_gas,Bucureşti Vest, ,Fossil gas,,1
+1099,4035,368,,26.213379,44.386692,fossil_coal_gas,Bucureşti Sud, ,Fossil gas,,1
+1100,4043,50,,25.081787,45.367584,hydro_ror,Clăbucet, ,Hydro run of river & pondage,,1
+1101,3999,265,,25.861816,44.894796,fossil_coal_gas,Brazi, ,Fossil gas,,1
+1102,4061,509,,23.972168,45.537137,hydro_ror,Lotru, ,Hydro run of river & pondage,,1
+1103,4040,219,,24.576416,45.498647,hydro_ror,Vidraru, ,Hydro run of river & pondage,,1
+1104,4043,196,,24.686279,45.290347,hydro_ror,Arges Ds., ,Hydro run of river & pondage,,1
+1105,4043,-1,,24.708252,45.236218,hydro_ror,Arges Ds., ,Hydro run of river & pondage,,1
+1106,4043,-1,,24.719238,45.182037,hydro_ror,Arges Ds., ,Hydro run of river & pondage,,1
+1107,4054,465,,24.32373,44.770137,hydro_ror,Olt M, ,Hydro run of river & pondage,,1
+1108,4054,-1,,24.356689,44.72332,hydro_ror,Olt M, ,Hydro run of river & pondage,,1
+1109,4049,50,,23.15918,45.205263,hydro_ror,Motru, ,Hydro run of river & pondage,,1
+1110,4049,105,,23.203125,45.143305,hydro_ror,Tismana, ,Hydro run of river & pondage,,1
+1111,4048,166,,24.202881,45.174293,fossil_brown_lignite,Govora, ,Brown coal/Lignite,,1
+1112,4041,867,,23.291016,44.972571,fossil_brown_lignite,Rovinari, ,Brown coal/Lignite,,1
+1113,4042,1510,,23.521729,44.731126,fossil_brown_lignite,Turceni, ,Brown coal/Lignite,,1
+1114,4056,333,,24.499512,44.127028,hydro_ror,Olt I, ,Hydro run of river & pondage,,1
+1115,4056,-1,,24.56543,44.087585,hydro_ror,Olt I, ,Hydro run of river & pondage,,1
+1116,4056,-1,,24.631348,44.040219,hydro_ror,Olt I, ,Hydro run of river & pondage,,1
+1117,4057,160,,23.082275,45.79817,hydro_ror,Răul Mare DS., ,Hydro run of river & pondage,,1
+1118,4057,-1,,23.137207,45.752193,hydro_ror,Răul Mare DS., ,Hydro run of river & pondage,,1
+1119,4057,-1,,23.192139,45.706179,hydro_ror,Răul Mare DS., ,Hydro run of river & pondage,,1
+1120,4063,149,,23.631592,45.821143,hydro_ror,Şugag, ,Hydro run of river & pondage,,1
+1121,4064,149,,23.774414,45.713851,hydro_ror,Gâlceag, ,Hydro run of river & pondage,,1
+1122,4079,220,,22.785645,44.777936,fossil_brown_lignite,Drobeta, ,Brown coal/Lignite,,1
+1123,4081,246,,23.983154,44.142798,fossil_brown_lignite,Craiova Nord, ,Brown coal/Lignite,,1
+1124,4066,566,,23.752441,44.370987,fossil_brown_lignite,Işalniţa, ,Brown coal/Lignite,,1
+1261,4466,2620,,0.988770000000011,44.103365,nuclear,Golfech, ,Nuclear,,1
+1125,4072,53,,22.807617,46.920255,hydro_ror,Munteni, ,Hydro run of river & pondage,,1
+1126,4072,216,,23.181152,46.709736,hydro_ror,Mărişelu, ,Hydro run of river & pondage,,1
+1127,4060,135,,23.071289,45.413876,fossil_brown_lignite,Paroşeni, ,Brown coal/Lignite,,1
+1128,4054,-1,,24.389648,44.676466,hydro_ror,Olt M, ,Hydro run of river & pondage,,1
+1129,4061,100,,24.136963,45.467836,hydro_ror,Brădişor, ,Hydro run of river & pondage,,1
+1130,4040,104,,24.818115,45.882361,hydro_ror,Olt S, ,Hydro run of river & pondage,,1
+1131,5916,295,,28.586426,44.746733,wind,Tariverde, ,Wind farm,,1
+1132,4082,-1,,29.278564,48.712713,other_nl,Ladyzhynska TPP,Ладижинська ТЕС,Other or not listed,,1
+1133,4083,-1,,30.574951,50.268277,other_nl,CHPP-5,ТЕЦ 5,Other or not listed,,1
+1134,4160,-1,,31.201172,51.522416,other_nl,Chernigivska CHPP,Чернiгiвська ТЕЦ,Other or not listed,,1
+1135,4109,-1,,24.400635,49.05947,other_nl,Kalysh CHPP,Калуська ТЕЦ,Other or not listed,,1
+1136,4084,-1,,24.521484,49.260635,other_nl,Burshtyn TPP,Бурштинська ТЕС,Other or not listed,,1
+1137,4087,-1,,33.618164,47.62838,other_nl,Kryvorizka TPP,Криворізька ТЕС,Other or not listed,,1
+1138,4255,-1,,33.277588,46.792538,hydro_ror,Kakhovska HPP,Каховська ГЕС,Hydro run of river & pondage,,1
+1139,4088,-1,,33.288574,49.073866,hydro_ror,Kremenchutska HPP,Кременчуцька ГЕС,Hydro run of river & pondage,,1
+1140,4089,-1,,31.574707,49.681847,hydro_ror,Kanivska HPP,Канівська ГЕС,Hydro run of river & pondage,,1
+1141,4090,-1,,30.706787,50.127622,other_nl,Trypilska TPP,Трипiльська ТЕС,Other or not listed,,1
+1142,4091,-1,,25.795898,51.275662,nuclear,Rivnenska NPP,Рiвненська АЕС,Nuclear,,1
+1143,4172,-1,,34.683838,48.596592,hydro_ror,Dniprodzergynska HPP,Dniprodzergynska ГЕС,Hydro run of river & pondage,,1
+1144,4282,-1,,27.312012,48.552978,hydro_ror,Dnistrovska HPP,Днicтровська ГЕС,Hydro run of river & pondage,,1
+1145,4156,-1,,32.244873,49.460984,other_nl,Cherkaska TPP,Черкаська ТЕЦ,Other or not listed,,1
+1146,4183,-1,,30.585938,50.471491,other_nl,CHPP-6,ТЕЦ 6,Other or not listed,,1
+1147,4183,-1,,30.52002,50.645977,hydro_ror,Kyivska HPP,Київська ГЕС,Hydro run of river & pondage,,1
+1148,4139,-1,,30.201416,50.673835,hydro_ror,Kyivska HPSPP,Київська ГАЕС,Hydro run of river & pondage,,1
+1149,4187,-1,,35.463867,48.348948,other_nl,Prydniprovska TPP,Приднепровска ТЕС,Other or not listed,,1
+1150,4143,-1,,33.760986,49.081062,other_nl,Kremenchutska CHPP,Кременчуцька ТЕЦ,Other or not listed,,1
+1151,4198,-1,,34.573975,47.494937,nuclear,Zaporizka NPP,Запорізька AЕС,Nuclear,,1
+1152,4200,-1,,34.672852,47.383474,other_nl,Zaporizka TPP,Запорізька ТЕС,Other or not listed,,1
+1153,4197,-1,,35.222168,47.805776,hydro_ror,Dnipro HPP,Дніпро ГЕС,Hydro run of river & pondage,,1
+1154,4205,-1,,37.584229,48.843028,other_nl,Slavyanska TPP,Слов'янська ТЕС,Other or not listed,,1
+1155,4224,-1,,38.056641,48.407326,other_nl,Vuglegirska TPP,Вуглегірська ТЕС,Other or not listed,,1
+1156,4225,-1,,38.199463,47.864774,other_nl,Zuivska TPP-2,Зуzka  ТЕС-2,Other or not listed,,1
+1157,4226,-1,,38.056641,47.746711,other_nl,Starobeshivska TPP,Старобешівська ТЕС,Other or not listed,,1
+1158,4227,-1,,37.188721,47.960502,other_nl,Kurakhivska TPP,Курахівська ТЕС,Other or not listed,,1
+1159,4242,-1,,38.331299,48.334343,other_nl,Myronivska TPP,Миронівська ТЕС,Other or not listed,,1
+1160,4264,-1,,33.793945,45.120053,fossil_other,Simferopolska CHPP,,Other fossil fuels,,1
+1161,4188,-1,,35.969238,49.986552,other_nl,CHPP-5,ТЕЦ-5,Other or not listed,,1
+1162,4281,-1,,27.498779,48.509326,hydro_ror,Dnistrovska HPSPP,Днicтровська ГАЭС,Hydro run of river & pondage,,1
+1163,4273,-1,,30.904541,48.085419,hydro_ror,Tashlyk HPSPP,Ташлицька ГАЕС,Hydro run of river & pondage,,1
+1164,500,250,,19.445801,42.032974,hydro_pure_storage,V. Dejes, ,Hydro pure storage,,1
+1165,4245,600,,19.89624,42.163403,hydro_pure_storage,Koman, ,Hydro pure storage,,1
+1166,4159,500,,20.269775,42.081917,hydro_pure_storage,Fierze, ,Hydro pure storage,,1
+1167,4284,75,,14.359131,46.505954,hydro_ror,Ferlach, ,Hydro run of river & pondage,,1
+1168,4284,88,,14.194336,46.490829,hydro_ror,Feistritz, ,Hydro run of river & pondage,,1
+1169,4311,87,,14.512939,46.460566,hydro_ror,Edling, ,Hydro run of river & pondage,,1
+1170,4322,120,,13.40332,46.957761,hydro_pure_ps,Malta -Oberstufe, ,Hydro pure pump storage,,1
+1171,5845,96,,12.908936,46.957761,hydro_ror,Außerfragrant, ,Hydro run of river & pondage,,1
+1172,5845,172,,12.843018,47.032695,hydro_mixed,Innerfragrant, ,Hydro mixed pump storage,,1
+1173,4322,730,,13.546143,46.897739,hydro_pure_ps,Malta -Hauptstufe, ,Hydro pure pump storage,,1
+1174,4311,79,,14.72168,46.596619,hydro_ror,Schwabeck, ,Hydro run of river & pondage,,1
+1175,4319,102,,12.908936,48.158757,hydro_ror,Braunau, ,Hydro run of river & pondage,,1
+1176,4319,80.699997,,13.150635,48.363549,hydro_ror,Egglfing, ,Hydro run of river & pondage,,1
+1177,4286,324,,13.94165,48.487486,hydro_ror,Aschach, ,Hydro run of river & pondage,,1
+1178,4286,179,,13.974609,48.334343,hydro_ror,Ottensheim, ,Hydro run of river & pondage,,1
+1179,4287,168,,14.381104,48.268569,hydro_ror,Abwinden-Asten, ,Hydro run of river & pondage,,1
+1180,4325,413,,14.249268,48.334343,fossil_brown_lignite,Voest Linz, ,Brown coal/Lignite,,1
+1181,4287,210,,14.589844,48.224673,hydro_ror,Wallsee, ,Hydro run of river & pondage,,1
+1182,4288,236.5,,14.963379,48.224673,hydro_ror,Ybbs-P., ,Hydro run of river & pondage,,1
+1183,4290,187,,15.292969,48.268569,hydro_ror,Melk, ,Hydro run of river & pondage,,1
+1184,4337,328,,15.556641,48.400032,hydro_ror,Altenwörth, ,Hydro run of river & pondage,,1
+1185,4289,293,,16.226807,48.334343,hydro_ror,Greifenstein, ,Hydro run of river & pondage,,1
+1186,4329,172,,16.380615,48.210032,hydro_ror,Freudenau, ,Hydro run of river & pondage,,1
+1187,4335,757,,15.567627,48.290503,fossil_brown_lignite,Dürnrohr, ,Brown coal/Lignite,,1
+1188,4289,126.5,,16.193848,48.275882,fossil_coal_gas,Freudenau, ,Fossil gas,,1
+1189,4327,487,,16.33667,48.275882,fossil_coal_gas,Donaustadt, ,Fossil gas,,1
+1190,4329,1281,,16.237793,48.136767,fossil_coal_gas,Simmering, ,Fossil gas,,1
+1191,4324,63.299999,,14.490967,47.576526,hydro_ror,Hieflau, ,Hydro run of river & pondage,,1
+1192,4324,72.300003,,14.359131,47.850031,hydro_ror,Großraming, ,Hydro run of river & pondage,,1
+1193,4310,80,,13.908691,46.656977,hydro_ror,Rosegg, ,Hydro run of river & pondage,,1
+1194,4322,68.199997,,13.436279,46.815099,hydro_ror,Reißeck, ,Hydro run of river & pondage,,1
+1195,4313,240,,12.634277,47.249407,hydro_ror,Kaprun -Hauptstufe, ,Hydro run of river & pondage,,1
+1196,4315,112.800003,,12.678223,47.174778,hydro_pure_ps,Kaprun -Oberstufe, ,Hydro pure pump storage,,1
+1197,4316,60,,12.524414,46.800059,hydro_ror,Amlach, ,Hydro run of river & pondage,,1
+1198,4308,79,,11.568604,47.480088,hydro_ror,Achensee, ,Hydro run of river & pondage,,1
+1199,4304,200.100006,,11.854248,47.256864,hydro_ror,Gerlos, ,Hydro run of river & pondage,,1
+1200,4306,345,,11.623535,47.227029,hydro_ror,Mayrhofen, ,Hydro run of river & pondage,,1
+1201,4296,231,,11.557617,47.032695,hydro_pure_ps,Roßhag, ,Hydro pure pump storage,,1
+1202,4307,360,,11.876221,47.077604,hydro_pure_ps,Häusling, ,Hydro pure pump storage,,1
+1203,4298,289,,11.052246,47.092566,hydro_pure_ps,Kühtai, ,Hydro pure pump storage,,1
+1204,4299,500,,11.008301,47.227029,hydro_ror,Silz, ,Hydro run of river & pondage,,1
+1205,4301,89,,10.601807,47.279229,hydro_ror,Imst, ,Hydro run of river & pondage,,1
+1206,4297,392,,10.513916,47.047669,hydro_ror,Kaunertal, ,Hydro run of river & pondage,,1
+1207,4285,156,,9.96460000000001,46.935261,hydro_pure_storage,Vermunt, ,Hydro pure storage,,1
+1208,4285,493,,9.898682,46.995241,hydro_mixed,Rodund I + II, ,Hydro mixed pump storage,,1
+1209,4291,232,,9.74487300000001,47.047669,hydro_mixed,Lünersee, ,Hydro mixed pump storage,,1
+1210,6030,94,,9.65698200000001,47.137425,hydro_pure_storage,Walgauwerk, ,Hydro pure storage,,1
+1211,4294,74,,9.97558599999999,47.44295,hydro_pure_storage,Langenegg, ,Hydro pure storage,,1
+1213,4323,61,,13.787842,47.361153,hydro_ror,Sölk, ,Hydro run of river & pondage,,1
+1214,4309,59,,12.128906,47.643186,hydro_ror,Oberaudorf, ,Hydro run of river & pondage,,1
+1215,4339,589,,13.634033,47.945786,fossil_coal_gas,Timelkam, ,Fossil gas,,1
+1216,4333,246,,15.490723,46.987747,fossil_brown_lignite,Mellach, ,Brown coal/Lignite,,1
+1217,5846,223,,13.139648,48.063397,fossil_brown_lignite,Riedersbach, ,Brown coal/Lignite,,1
+1218,4315,120,,13.062744,47.398349,hydro_ror,Schwarzach, ,Hydro run of river & pondage,,1
+1219,4311,50,,14.831543,46.679594,hydro_pure_ps,Koralpe, ,Hydro pure pump storage,,1
+1220,4353,170,,3.86718799999999,51.07592,biomass,Rodenhuize, ,Biomass,,1
+1221,4351,261,,4.559326,51.296276,fossil_coal_gas,Total, ,Fossil gas,,1
+1222,4358,2920,,4.152832,51.296276,nuclear,Doel, ,Nuclear,,1
+1223,4356,460,,4.47143600000001,50.75731,fossil_coal_gas,Drogenbos, ,Fossil gas,,1
+1224,4347,420,,4.372559,50.429518,fossil_coal_gas,Amercoeur, ,Fossil gas,,1
+1225,4366,144,,4.559326,50.113533,hydro_mixed,Plate Taille, ,Hydro mixed pump storage,,1
+1226,4377,3024,,4.998779,50.604159,nuclear,Tihange, ,Nuclear,,1
+1227,4373,110,,5.53710900000001,50.694718,fossil_coal_gas,Angleur, ,Fossil gas,,1
+1228,4372,1164,,6.13037099999999,50.310392,hydro_pure_ps,Coo, ,Hydro pure pump storage,,1
+1229,4386,556,,5.42724599999999,50.972265,fossil_coal_hard,Langerlo, ,Hard coal,,1
+1230,5977,357,,3.64746099999999,50.951506,fossil_coal_gas,Ringvaart, ,Fossil gas,,1
+1231,5050,460,,3.96606399999999,50.373496,fossil_coal_gas,St-Ghislain, ,Fossil gas,,1
+1232,6012,460,,3.29589800000001,51.296276,fossil_coal_gas,Herdersbrug, ,Fossil gas,,1
+1233,4408,385,,18.182373,44.127028,fossil_brown_lignite,Kakanj, ,Brown coal/Lignite,,1
+1234,4411,235,,18.841553,44.699898,fossil_brown_lignite,Ugljevik, ,Brown coal/Lignite,,1
+1235,4394,255,,18.259277,43.076913,fossil_brown_lignite,Gacko, ,Brown coal/Lignite,,1
+1236,4413,315,,19.27002,43.707594,hydro_ror,Visegrad, ,Hydro run of river & pondage,,1
+1237,4398,440,,18.017578,42.811522,hydro_ror,Capljina, ,Hydro run of river & pondage,,1
+1238,4402,160,,17.655029,43.850374,hydro_ror,Rama, ,Hydro run of river & pondage,,1
+1239,4397,114,,17.644043,43.699651,hydro_ror,Grabovica, ,Hydro run of river & pondage,,1
+1240,4394,-1,,18.4021,43.076913,power_plus_sub,Gacko, ,Substations + Power Plants,,1
+1241,4395,-1,,17.830811,43.47684,power_plus_sub,Salakovac, ,Substations + Power Plants,,1
+1242,4410,-1,,18.4021,44.566991,power_plus_sub,Tuzla, ,Substations + Power Plants,,1
+1243,4411,-1,,18.775635,44.777936,power_plus_sub,Ugljevik, ,Substations + Power Plants,,1
+1244,4395,210,,17.720947,43.53262,hydro_ror,Salakovac, ,Hydro run of river & pondage,,1
+1245,4436,50,,15.172119,45.267155,hydro_ror,Gojak, ,Hydro run of river & pondage,,1
+1246,4451,85,,16.380615,46.369674,hydro_ror,Varaždin, ,Hydro run of river & pondage,,1
+1247,4451,80,,16.688232,46.278631,hydro_ror,Čakovec, ,Hydro run of river & pondage,,1
+1248,4451,85,,16.842041,46.24825,hydro_ror,Dubrava, ,Hydro run of river & pondage,,1
+1249,4435,290,,14.084473,45.081279,fossil_coal_hard,Plomin, ,Hard coal,,1
+1250,4438,300,,14.611816,45.213004,other_nrenew,Rijeka, ,Fossil fuel,,1
+1251,4441,215,,14.919434,44.801327,hydro_pure_storage,Senj, ,Hydro pure storage,,1
+1252,4430,275,,15.567627,44.253069,hydro_mixed,Velebit, ,Hydro mixed pump storage,,1
+1253,4443,395,,16.45752,45.521744,fossil_coal_gas,Sisak, ,Fossil gas,,1
+1254,4444,430,,15.897217,45.867063,fossil_coal_gas,Zagreb, ,Fossil gas,,1
+1255,2345,110,,18.391113,42.463993,hydro_ror,Dubrovnik, ,Hydro run of river & pondage,,1
+1256,4432,485,,16.75415,43.428988,hydro_pure_storage,Zakučac, ,Hydro pure storage,,1
+1257,4457,45,,17.006836,43.389082,hydro_pure_storage,Kraljevac, ,Hydro pure storage,,1
+1258,4429,235,,16.743164,43.667872,hydro_pure_storage,Orlovac, ,Hydro pure storage,,1
+1259,4454,42,,16.567383,43.834527,hydro_pure_storage,Peruča, ,Hydro pure storage,,1
+1260,4438,84,,14.765625,45.104546,hydro_pure_storage,Vinodol, ,Hydro pure storage,,1
+1262,5038,3620,,0.406494000000004,47.338823,nuclear,Chinon, ,Nuclear,,1
+1263,5911,490,,5.16357399999999,43.325178,fossil_coal_gas,Martigues-Ponteau, ,Fossil gas,,1
+1264,4467,447,,2.746582,44.0718,hydro_ror,Le Pouget, ,Hydro run of river & pondage,,1
+1265,4468,1830,,1.680908,47.576526,nuclear,St. Laurent, ,Nuclear,,1
+1266,4469,818,,2.471924,51.020666,fossil_coal_gas,Braek, ,Fossil gas,,1
+1267,4935,5460,,2.02148399999999,50.993014,nuclear,Gravelines, ,Nuclear,,1
+1268,4954,405,,4.031982,50.240179,fossil_coal_gas,Quartes, ,Fossil gas,,1
+1269,4560,1415,,0.153808999999988,49.510944,fossil_oil,Le Havre, ,Fossil oil,,1
+1270,4918,5320,,0.681152000000009,49.830896,nuclear,Paluel, ,Nuclear,,1
+1271,4917,2660,,1.48315400000001,49.958288,nuclear,Penly Poste, ,Nuclear,,1
+1272,4846,2340,,1.66992199999999,48.944151,fossil_oil,Porcheville, ,Fossil oil,,1
+1273,4895,561,,2.66967800000001,48.821333,other_nl,Vaires, ,Other or not listed,,1
+1274,4958,808,,4.43847700000001,49.94415,hydro_pure_ps,Revin, ,Hydro pure pump storage,,1
+1275,4366,3000,,4.70214800000001,50.064192,nuclear,Chooz B, ,Nuclear,,1
+1276,4986,1919,,6.60278300000001,49.181703,fossil_coal_gas,Emile- Huchet, ,Fossil gas,,1
+1277,2641,290,,6.74560499999999,49.382373,fossil_brown_lignite,Hütte, ,Brown coal/Lignite,Amprion,1
+1278,5015,147,,7.75634799999999,48.494768,hydro_ror,Strasbourg, ,Hydro run of river & pondage,,1
+1279,4996,167,,7.58056600000001,48.20271,hydro_ror,Rhinau, ,Hydro run of river & pondage,,1
+1280,5008,141,,7.49267599999999,48.078079,hydro_ror,Vogelgrun, ,Hydro run of river & pondage,,1
+1281,4784,285,,5.72387699999999,46.445427,hydro_ror,Vouglans, ,Hydro run of river & pondage,,1
+1282,5054,2620,,3.098145,47.606163,nuclear,Belleville, ,Nuclear,,1
+1283,4820,3560,,2.59277299999999,47.717154,nuclear,Dampierre, ,Nuclear,,1
+1284,4557,2990,,0.736083999999991,46.505954,nuclear,Civaux, ,Nuclear,,1
+1285,4498,3640,,-0.626221000000005,45.143305,nuclear,Le Blayais, ,Nuclear,,1
+1286,4614,-1,,2.28515599999999,45.267155,hydro_ror,L'Aigle, ,Hydro run of river & pondage,,1
+1287,4583,293,,2.076416,45.1123,hydro_ror,Le Chastang, ,Hydro run of river & pondage,,1
+1288,4616,235,,2.46093799999999,45.506347,hydro_ror,Bort, ,Hydro run of river & pondage,,1
+1289,4602,183,,2.702637,44.910359,hydro_ror,Sarrans, ,Hydro run of river & pondage,,1
+1290,5065,910,,2.922363,44.73893,hydro_pure_ps,Montezic poste et centrale, ,Hydro pure pump storage,,1
+1291,4605,119,,2.515869,44.653024,hydro_ror,Couesque, ,Hydro run of river & pondage,,1
+1292,4686,2670,,4.603271,45.336702,nuclear,St. Alban, ,Nuclear,,1
+1293,4667,186,,4.812012,44.941473,hydro_ror,Bourg-les-Valence, ,Hydro run of river & pondage,,1
+1294,4665,222,,4.83398400000001,44.754535,hydro_ror,Beauchastel, ,Hydro run of river & pondage,,1
+1295,5068,210,,4.987793,44.645208,hydro_ror,Logis- Neuf, ,Hydro run of river & pondage,,1
+1296,4660,3660,,4.87793000000001,44.535675,nuclear,Cruas, ,Nuclear,,1
+1297,4664,285,,4.88891599999999,44.45731,hydro_ror,Chateauneuf-du-Rhone, ,Hydro run of river & pondage,,1
+1298,4663,345,,4.93286099999999,44.323848,hydro_ror,Bollene, ,Hydro run of river & pondage,,1
+1299,4661,3660,,4.647217,44.355278,nuclear,Tricastin, ,Nuclear,,1
+1300,4753,366,,5.50415000000001,44.957024,hydro_ror,Monteynard, ,Hydro run of river & pondage,,1
+1301,4735,370,,6.328125,44.472991,hydro_ror,Serre-Poncon, ,Hydro run of river & pondage,,1
+1302,4747,-1,,6.16333000000001,45.1123,hydro_pure_ps,Grand Maison, ,Hydro pure pump storage,,1
+1303,4760,3580,,5.405273,45.79817,nuclear,Bugey, ,Nuclear,,1
+1304,5024,190,,6.92138699999999,46.012224,hydro_ror,Vallorcine, ,Hydro run of river & pondage,,1
+1305,4780,298,,6.91040000000001,45.629405,hydro_ror,Malgovert, ,Hydro run of river & pondage,,1
+1306,4779,546,,6.55883800000001,45.706179,hydro_ror,La Bathie, ,Hydro run of river & pondage,,1
+1307,4774,320,,6.56982399999999,45.467836,hydro_ror,La Coche, ,Hydro run of river & pondage,,1
+1308,4771,145,,6.37207,45.135555,hydro_ror,La Saussaz II, ,Hydro run of river & pondage,,1
+1309,5113,742,,6.55883800000001,45.073521,hydro_pure_ps,S.Bissorte, ,Hydro pure pump storage,,1
+1310,4773,87,,6.70165999999999,45.298075,hydro_ror,Aussois, ,Hydro run of river & pondage,,1
+1311,4727,132,,6.20727500000001,43.699651,hydro_ror,St. Croix, ,Hydro run of river & pondage,,1
+1312,4729,187,,6.07543900000001,43.92955,hydro_ror,Oraison, ,Hydro run of river & pondage,,1
+1313,4730,214,,5.88867200000001,44.197959,hydro_ror,Sisteron, ,Hydro run of river & pondage,,1
+1314,4651,210,,4.70214800000001,43.755225,hydro_ror,Beaucaire, ,Hydro run of river & pondage,,1
+1315,4472,1370,,4.812012,43.842451,fossil_oil,Aramon, ,Fossil oil,,1
+1316,4481,189,,0.010986000000005,42.75508,hydro_ror,Pragneres, ,Hydro run of river & pondage,,1
+1317,5001,151,,7.44873000000001,47.598755,hydro_ror,Kembs, ,Hydro run of river & pondage,,1
+1318,5003,156,,7.514648,47.754098,hydro_ror,Ottmarsheim, ,Hydro run of river & pondage,,1
+1319,4839,153,,1.230469,49.403825,fossil_coal_gas,Chapelle'd Arblay, ,Fossil gas,,1
+1320,4879,2620,,3.65844699999999,48.429201,nuclear,Nogent-sur-Seine, ,Nuclear,,1
+1321,4828,258,,2.53784200000001,48.770672,fossil_oil,Arrighi, ,Fossil oil,,1
+1322,5102,87,,2.66967800000001,44.205835,wind,Salles Curan, ,Wind farm,,1
+1323,4976,436,,5.88867200000001,48.618385,fossil_coal_gas,Croix-de- Metz, ,Fossil gas,,1
+1324,4579,514,,4.93286099999999,43.428988,fossil_coal_gas,Richier, ,Fossil gas,,1
+1325,5114,98,,6.11938500000001,46.17983,hydro_ror,Verbois, ,Hydro run of river & pondage,,1
+1326,5118,224,,18.391113,47.480088,fossil_brown_lignite,Oroszlány, ,Brown coal/Lignite,,1
+1327,5119,1470,,18.874512,47.353711,fossil_coal_gas,Dunamenti, ,Fossil gas,,1
+1328,5120,849,,20.061035,47.908978,fossil_oil,Mátra, ,Fossil oil,,1
+1329,5121,864,,21.324463,48.092757,fossil_coal_gas,Tisza II, ,Fossil gas,,1
+1330,5142,1892,,18.797607,46.55886,nuclear,Paks, ,Nuclear,,1
+1331,5154,425,,18.116455,47.702368,fossil_coal_gas,Gönyű, ,Fossil gas,,1
+1332,5193,336,,8.87695299999999,44.43378,fossil_brown_lignite,Genova, ,Brown coal/Lignite,,1
+1333,5158,3996,,11.480713,42.382894,fossil_coal_gas,Montalto, ,Fossil gas,,1
+1334,5242,150,,11.074219,43.213183,other_nl,Larderello, ,Other or not listed,,1
+1335,5159,210,,9.470215,46.240652,hydro_mixed,Lanzada, ,Hydro mixed pump storage,,1
+1336,5160,150,,9.48120100000001,46.111326,hydro_mixed,Sondrio, ,Hydro mixed pump storage,,1
+1337,5285,240,,10.349121,46.437857,hydro_mixed,Premadio, ,Hydro mixed pump storage,,1
+1338,5288,130,,10.744629,45.874712,hydro_mixed,Torbole, ,Hydro mixed pump storage,,1
+1339,5300,922,,12.205811,44.535675,fossil_coal_gas,Porto Corsini, ,Fossil gas,,1
+1340,5297,120,,10.92041,46.679594,hydro_mixed,Lana, ,Hydro mixed pump storage,,1
+1341,5176,150,,7.294922,45.805829,hydro_mixed,Valpelline, ,Hydro mixed pump storage,,1
+1342,5183,1512,,7.965088,45.274886,fossil_coal_gas,Chivasso, ,Fossil gas,,1
+1343,5205,1337,,9.52514600000001,45.081279,fossil_oil,Piacenza, ,Fossil oil,,1
+1344,5206,1125,,9.44824199999999,45.205263,fossil_coal_gas,La Casella, ,Fossil gas,,1
+1345,5207,2003,,9.25048800000001,45.390735,fossil_coal_gas,Tavazzano, ,Fossil gas,,1
+1346,5186,2008,,8.25073199999999,45.598666,fossil_oil,Turbigo, ,Fossil oil,,1
+1347,5161,1120,,8.448486,46.111326,hydro_ror,Roncovalgrande, ,Hydro run of river & pondage,,1
+1348,5285,465,,10.228271,46.392411,hydro_mixed,Grosio, ,Hydro mixed pump storage,,1
+1349,5326,2910,,12.392578,44.995883,fossil_oil,Porto Tolle, ,Fossil oil,,1
+1350,5254,151,,12.128906,45.274886,fossil_oil,Marghera, ,Fossil oil,,1
+1351,5324,1237,,12.227783,45.421588,fossil_brown_lignite,Fusina, ,Brown coal/Lignite,,1
+1352,5250,2362,,11.228027,45.02695,fossil_coal_gas,Sermide, ,Fossil gas,,1
+1353,5237,2361,,11.030273,45.065762,fossil_coal_gas,Ostiglia, ,Fossil gas,,1
+1354,5331,250,,12.414551,46.073231,hydro_ror,Fadalto, ,Hydro run of river & pondage,,1
+1355,5285,1280,,10.38208,46.369674,hydro_ror,Edolo, ,Hydro run of river & pondage,,1
+1356,5283,620,,10.469971,46.141783,hydro_ror,S. Fiorano, ,Hydro run of river & pondage,,1
+1357,5240,444,,11.403809,43.620171,fossil_coal_gas,S.Barbara, ,Fossil gas,,1
+1358,5301,464,,12.667236,42.617791,hydro_mixed,Villavalle, ,Hydro mixed pump storage,,1
+1359,5311,565,,13.491211,42.55308,hydro_ror,S. Giacomo, ,Hydro run of river & pondage,,1
+1360,5162,138,,13.699951,42.4802,hydro_mixed,Montorio, ,Hydro mixed pump storage,,1
+1361,5165,1659,,8.261719,44.292401,fossil_brown_lignite,Vado Ligure, ,Brown coal/Lignite,,1
+1362,5164,1510,,7.382812,44.166445,hydro_ror,Entracque, ,Hydro run of river & pondage,,1
+1363,5334,180,,12.832031,46.384833,hydro_mixed,Somplago, ,Hydro mixed pump storage,,1
+1364,5222,370,,11.12915,44.276671,hydro_mixed,Bargi, ,Hydro mixed pump storage,,1
+1365,5343,815,,8.19580100000001,45.213004,fossil_coal_gas,Trino, ,Fossil gas,,1
+1366,5344,488,,10.447998,43.357138,fossil_oil,Rosen, ,Fossil oil,,1
+1367,5345,667,,12.337646,42.932296,fossil_oil,Pietraffita, ,Fossil oil,,1
+1368,5347,1271,,8.712158,45.127805,fossil_coal_gas,Ferrera Erbognone, ,Fossil gas,,1
+1369,5348,469,,8.97583,45.05024,fossil_oil,Voghera, ,Fossil oil,,1
+1370,5350,985,,10.997314,45.251688,fossil_oil,Mantova, ,Fossil oil,,1
+1371,5282,646,,10.634766,45.390735,fossil_oil,Mincio, ,Fossil oil,,1
+1372,5356,970,,14.512939,42.212245,fossil_oil,Gissi, ,Fossil oil,,1
+1373,5353,912,,11.293945,44.809122,fossil_oil,Ferrara, ,Fossil oil,,1
+1374,5174,446,,7.75634799999999,45.390735,fossil_oil,Leyni, ,Fossil oil,,1
+1375,5224,404,,10.327148,43.683764,fossil_oil,Livorno, ,Fossil oil,,1
+1376,5201,1615,,9.7229,44.087585,fossil_brown_lignite,La Spezia, ,Brown coal/Lignite,,1
+1377,5213,1436,,10.689697,42.932296,fossil_oil,Piombino, ,Fossil oil,,1
+1378,5219,2910,,11.722412,42.163403,fossil_brown_lignite,Torvaldaliga Nord, ,Brown coal/Lignite,,1
+1379,5216,2002,,11.810303,42.041134,fossil_coal_gas,Torvaldaliga Sud, ,Fossil gas,,1
+1380,5358,1184,,12.249756,44.402392,fossil_coal_gas,Ravenna, ,Fossil gas,,1
+1381,5336,1072,,13.458252,45.744527,fossil_brown_lignite,Monfalcone, ,Brown coal/Lignite,,1
+1382,5385,664,,6.17431599999999,53.19287,fossil_coal_gas,Bergum10/20, ,Fossil gas,,1
+1383,5373,830,,4.603271,52.476089,fossil_coal_gas,Velsen24/25, ,Fossil gas,,1
+1384,5375,590,,4.943848,52.167194,fossil_coal_gas,Hemweg7, ,Fossil gas,,1
+1385,5375,630,,4.998779,52.187405,fossil_brown_lignite,Hemweg8, ,Brown coal/Lignite,,1
+1386,6082,1240,,5.05371100000001,51.556582,fossil_brown_lignite,Amer, ,Brown coal/Lignite,,1
+1387,5362,850,,3.625488,51.467697,fossil_coal_gas,Sloe10/20, ,Fossil gas,,1
+1388,3027,242,,5.84472700000001,50.923813,fossil_coal_gas,Swentibold, ,Fossil gas,,1
+1389,5365,610,,5.94360399999999,51.248163,fossil_coal_gas,ClausA, ,Fossil gas,,1
+1390,5375,323,,5.130615,52.113252,fossil_coal_gas,Merwerdekanaal11/12, ,Fossil gas,,1
+1391,5375,247,,5.218506,52.187405,fossil_coal_gas,Lage Weide6, ,Fossil gas,,1
+1392,5372,593,,5.82275399999999,51.795027,fossil_brown_lignite,Gelderland13, ,Brown coal/Lignite,,1
+1393,5379,-1,,6.097412,52.449314,fossil_coal_gas,Harculo60, ,Fossil gas,,1
+1394,6082,121,,5.119629,51.51558,fossil_coal_gas,Amer, ,Fossil gas,,1
+1395,6081,769,,4.58129899999999,51.508742,fossil_coal_gas,Moerdijk, ,Fossil gas,,1
+1396,5365,240,,6.020508,51.2,fossil_brown_lignite,Buggenum, ,Brown coal/Lignite,,1
+1397,5384,570,,7.119141,53.186288,fossil_coal_gas,Delesto, ,Fossil gas,,1
+1398,5388,1000,,5.47119099999999,52.542955,fossil_coal_gas,Flevo32/4/5, ,Fossil gas,,1
+1399,5376,112,,5.251465,52.435921,fossil_coal_gas,Almere1/2, ,Fossil gas,,1
+1400,5362,460,,3.94409200000001,51.385495,fossil_coal_gas,ELSTA, ,Fossil gas,,1
+1401,5373,120,,4.372559,52.502848,wind,Amaliapark, ,Wind farm,,1
+1402,5392,108,,4.35058600000001,52.342052,wind,OWEZ, ,Wind farm,,1
+1403,5435,281,,21.027832,44.793531,fossil_brown_lignite,Kostolac A, ,Brown coal/Lignite,,1
+1404,5423,1184,,19.709473,44.699898,fossil_brown_lignite,TENT B, ,Brown coal/Lignite,,1
+1405,5418,1502,,20.247803,44.574817,fossil_brown_lignite,TENT A, ,Brown coal/Lignite,,1
+1406,5399,307,,18.885498,42.423457,hydro_ror,Perucica, ,Hydro run of river & pondage,,1
+1407,5396,102,,19.786377,43.596306,hydro_pure_storage,Bistrica, ,Hydro pure storage,,1
+1408,5418,216,,20.181885,44.425934,fossil_brown_lignite,Kolubara, ,Brown coal/Lignite,,1
+1409,5458,128,,22.203369,42.690511,hydro_pure_storage,Vlasina, ,Hydro pure storage,,1
+1410,5760,80,,22.532959,42.988576,hydro_pure_storage,Pirot, ,Hydro pure storage,,1
+1411,5436,640,,21.137695,44.863656,fossil_brown_lignite,Kostolac B, ,Brown coal/Lignite,,1
+1412,5397,108,,20.698242,44.315988,fossil_brown_lignite,Morava, ,Brown coal/Lignite,,1
+1413,5396,51,,19.654541,43.548548,hydro_ror,Potpec, ,Hydro run of river & pondage,,1
+1414,5336,31.5,,13.612061,45.989329,hydro_ror,Solkan, ,Hydro run of river & pondage,,1
+1415,4284,21,,14.040527,46.407564,hydro_ror,Moste, ,Hydro run of river & pondage,,1
+1416,5319,34,,13.568115,46.065608,hydro_ror,Plave, ,Hydro run of river & pondage,,1
+1417,5319,70,,13.666992,46.202646,hydro_ror,Doblar, ,Hydro run of river & pondage,,1
+1418,5466,45,,14.381104,46.164614,hydro_ror,Medvode, ,Hydro run of river & pondage,,1
+1419,5472,135,,15.820312,46.369674,hydro_ror,Zlatoličje, ,Hydro run of river & pondage,,1
+1420,5472,73.199997,,15.358887,46.589069,hydro_ror,Ožbalt, ,Hydro run of river & pondage,,1
+1421,5470,168,,14.908447,46.080852,fossil_brown_lignite,Trbovlje, ,Brown coal/Lignite,,1
+1422,5468,72.300003,,15.194092,46.604167,hydro_ror,Vuhred, ,Hydro run of river & pondage,,1
+1423,5470,34,,15.161133,46.057985,hydro_ror,Vrhovo, ,Hydro run of river & pondage,,1
+1424,5467,312,,15.457764,46.019853,fossil_mixed,Brestanica, ,Mixed fuels,,1
+1425,5472,60,,15.600586,46.634351,hydro_ror,M.Otok, ,Hydro run of river & pondage,,1
+1426,5474,116,,15.963135,46.354511,hydro_ror,Formin, ,Hydro run of river & pondage,,1
+1427,5468,,,14.93042,46.384833,fossil_mixed,Šoštanj, ,Mixed fuels,,1
+1428,5467,696,,15.391846,45.867063,nuclear,Krško, ,Nuclear,,1
+1429,5466,113,,14.39209,46.004593,fossil_brown_lignite,Ljubljana, ,Brown coal/Lignite,,1
+1430,5468,26.200001,,14.908447,46.573967,hydro_ror,Dravograd, ,Hydro run of river & pondage,,1
+1431,5468,55.599998,,15.05127,46.604167,hydro_ror,Vuzenica, ,Hydro run of river & pondage,,1
+1432,5472,58,,15.512695,46.566414,hydro_ror,Fala, ,Hydro run of river & pondage,,1
+1433,5465,38,,14.227295,46.17983,hydro_ror,Mavčiče, ,Hydro run of river & pondage,,1
+1434,5467,34,,15.281982,46.050361,hydro_ror,Boštanj, ,Hydro run of river & pondage,,1
+1435,5319,180,,13.677979,46.126556,hydro_pure_ps,Avče, ,Hydro pure pump storage,,1
+1436,5467,42.5,,15.336914,45.996962,hydro_ror,Blanca, ,Hydro run of river & pondage,,1
+1437,5467,0,,15.424805,45.943511,hydro_ror,Krško, ,Hydro run of river & pondage,,1
+1438,5490,-1,,1.153564,42.642041,hydro_ror,Tabescán, ,Hydro run of river & pondage,,1
+1439,5491,-1,,1.098633,42.496403,hydro_ror,Tabescán, ,Hydro run of river & pondage,,1
+1440,5487,-1,,0.856934000000011,42.617791,hydro_ror,Sallente, ,Hydro run of river & pondage,,1
+1441,5484,-1,,0.38452099999999,42.504503,hydro_ror,C.H. Sesue, ,Hydro run of river & pondage,,1
+1442,5485,-1,,0.0769039999999922,42.585444,hydro_ror,La Fortunada, ,Hydro run of river & pondage,,1
+1443,5481,-1,,0.0988770000000062,42.334184,hydro_ror,Mediano, ,Hydro run of river & pondage,,1
+1444,282,-1,,2.427979,42.05745,hydro_ror,Vic, ,Hydro run of river & pondage,,1
+1445,4533,-1,,0.252685999999995,42.155259,hydro_ror,Grado, ,Hydro run of river & pondage,,1
+1446,5482,-1,,-0.450439000000003,42.609706,hydro_ror,Biescas II, ,Hydro run of river & pondage,,1
+1447,5488,-1,,1.054688,42.228517,hydro_ror,Pobla de Segur, ,Hydro run of river & pondage,,1
+1448,5484,-1,,0.472411999999992,42.577355,hydro_ror,C.H. Eriste, ,Hydro run of river & pondage,,1
+1449,5489,-1,,0.692138999999993,42.366662,hydro_ror,P.Suert, ,Hydro run of river & pondage,,1
+1450,5492,-1,,1.955566,42.195969,other_nl,Cercs, ,Other or not listed,,1
+1451,5612,288,,10.283203,46.845164,hydro_pure_storage,Pradella, ,Hydro pure storage,,1
+1452,5586,220,,9.26147499999999,46.551305,hydro_pure_storage,Bärenburg, ,Hydro pure storage,,1
+1453,5589,247,,9.25048800000001,46.664517,hydro_pure_storage,Sils, ,Hydro pure storage,,1
+1454,5574,96,,8.986816,46.551305,hydro_pure_storage,Olivone, ,Hydro pure storage,,1
+1455,5573,147,,8.67919900000001,46.566414,hydro_pure_storage,Sedrun, ,Hydro pure storage,,1
+1456,5506,311,,8.20678699999999,46.54375,hydro_mixed,Grimsel, ,Hydro mixed pump storage,,1
+1457,5540,240,,8.02001999999999,46.664517,hydro_pure_storage,Innertkirchen, ,Hydro pure storage,,1
+1458,5582,176,,8.800049,46.762443,hydro_pure_storage,Tavanasa, ,Hydro pure storage,,1
+1459,5580,295,,8.843994,47.002734,hydro_mixed,Tierfehd, ,Hydro mixed pump storage,,1
+1460,5749,274,,9.18456999999999,46.920255,hydro_mixed,Mapragg, ,Hydro mixed pump storage,,1
+1461,5525,373,,7.32788099999999,46.980252,nuclear,Mühleberg, ,Nuclear,,1
+1462,5512,240,,6.855469,46.468133,hydro_pure_ps,Veytaux, ,Hydro pure pump storage,,1
+1463,5509,170,,6.888428,46.149394,hydro_mixed,Bâtiaz, ,Hydro mixed pump storage,,1
+1464,5507,138,,7.30590800000001,46.012224,hydro_pure_storage,Fionnay FMM, ,Hydro pure storage,,1
+1465,5508,300,,7.481689,46.035109,hydro_pure_storage,Fionnay GD, ,Hydro pure storage,,1
+1466,2339,225,,7.08618200000001,46.172223,hydro_pure_storage,Riddes, ,Hydro pure storage,,1
+1467,5513,1644,,7.45971699999999,46.233053,hydro_pure_storage,Chamoson, ,Hydro pure storage,,1
+1468,5518,180,,7.745361,46.225453,hydro_pure_storage,Stalden, ,Hydro pure storage,,1
+1469,5521,331,,7.94311499999999,46.407564,hydro_pure_storage,Bitsch, ,Hydro pure storage,,1
+1470,5561,146,,8.580322,46.195042,hydro_pure_storage,Verbano, ,Hydro pure storage,,1
+1471,5621,168,,8.45947300000001,46.369674,hydro_pure_ps,Robiei, ,Hydro pure pump storage,,1
+1472,5620,124,,8.481445,46.308996,hydro_pure_storage,Bavona, ,Hydro pure storage,,1
+1473,5627,324,,9.14062499999999,46.354511,hydro_pure_storage,Biasca, ,Hydro pure storage,,1
+1474,5594,95,,9.63501,46.437857,hydro_pure_storage,Löbbia, ,Hydro pure storage,,1
+1475,5584,100,,9.558105,46.316584,hydro_pure_storage,Castasegna, ,Hydro pure storage,,1
+1476,5501,1220,,8.085938,47.546872,nuclear,Leibstadt, ,Nuclear,,1
+1477,5547,1010,,7.88818400000001,47.323931,nuclear,Gösgen, ,Nuclear,,1
+1479,5632,2021,,-1.21948199999999,52.855864,fossil_brown_lignite,Ratcliffe, ,Brown coal/Lignite,,1
+1480,4992,5200,,6.38305700000001,49.410973,nuclear,Cattenom,,Nuclear,,1
+1481,5687,395,,-0.867919999999991,53.219191,fossil_coal_gas,CDCL, ,Fossil gas,,1
+1482,5719,1940,,-0.834960999999997,53.709714,fossil_brown_lignite,Eggborough, ,Brown coal/Lignite,,1
+1483,5719,3906,,-0.626221000000005,53.748711,fossil_brown_lignite,Drax, ,Brown coal/Lignite,,1
+1484,5633,1081,,0.911864999999989,50.930738,nuclear,Dungeness, ,Nuclear,,1
+1485,5634,1131,,0.362549000000006,51.501904,fossil_oil,Tilbury, ,Fossil oil,,1
+1486,5718,805,,0.549316000000009,51.460852,fossil_coal_gas,Damhead Creek, ,Fossil gas,,1
+1487,6011,900,,-0.296630999999993,53.683695,fossil_coal_gas,Killingholme, ,Fossil gas,,1
+1488,5636,800,,0.834960999999997,51.542919,fossil_brown_lignite,Coryton, ,Brown coal/Lignite,,1
+1489,5637,1207,,1.57104499999999,52.173932,nuclear,Sizewell, ,Nuclear,,1
+1490,5686,401,,-0.867919999999991,52.247983,fossil_coal_gas,Corby, ,Fossil gas,,1
+1491,5687,1700,,-0.988770000000011,53.041213,fossil_coal_gas,Staythorpe, ,Fossil gas,,1
+1492,5688,665,,-0.230713000000006,52.22107,fossil_coal_gas,Little Barford, ,Fossil gas,,1
+1493,5707,1245,,0.164794999999993,51.433464,fossil_coal_gas,Littlebrook, ,Fossil gas,,1
+1494,5644,2058,,-1.373291,51.556582,fossil_coal_gas,Didcot, ,Fossil gas,,1
+1495,5631,2000,,-0.64819299999999,53.245495,fossil_brown_lignite,Cottam, ,Brown coal/Lignite,,1
+1496,5647,420,,-0.252685999999995,50.882243,fossil_coal_gas,Shoreham, ,Fossil gas,,1
+1497,5720,420,,1.625977,52.596375,fossil_coal_gas,Great Yarmouth, ,Fossil gas,,1
+1498,5670,408,,-0.307616999999998,51.652111,fossil_coal_gas,Brimsdown, ,Fossil gas,,1
+1499,5721,1100,,-0.131836,53.833081,fossil_coal_gas,Saltend, ,Fossil gas,,1
+1500,5723,880,,-0.252685999999995,52.816043,fossil_coal_gas,Spalding North, ,Fossil gas,,1
+1501,5712,260,,-0.329590000000012,53.442264,fossil_coal_gas,Brigg, ,Fossil gas,,1
+1502,5712,1285,,-0.131836,53.618579,fossil_coal_gas,South Humber Bank, ,Fossil gas,,1
+1503,5669,1000,,0.153808999999988,51.556582,wind,Barking, ,Wind farm,,1
+1504,5725,145,,-1.26342799999999,50.687758,fossil_coal_gas,Cowes, ,Fossil gas,,1
+1505,5721,1218,,0.0,53.690201,fossil_coal_gas,Immingham, ,Fossil gas,,1
+1506,5714,819,,0.0988770000000062,52.62306,fossil_coal_gas,Sutton Bridge, ,Fossil gas,,1
+1507,5641,900,,-1.35131799999999,50.903033,fossil_coal_gas,Marchwood, ,Fossil gas,,1
+1508,5648,144,,-0.461426000000012,51.570241,fossil_coal_gas,Taylors Lane, ,Fossil gas,,1
+1509,5725,158,,-1.30737299999999,50.771208,fossil_coal_gas,Fawley CHP, ,Fossil gas,,1
+1510,5981,201,,1.461182,51.385495,wind,Thanet, ,Wind farm,,1
+1511,5637,500,,1.71386699999999,52.066,wind,Greater Gabbard, ,Wind farm,,1
+1512,5726,700,,0.889893000000005,51.378638,fossil_coal_gas,Medway, ,Fossil gas,,1
+1513,3082,385,,6.15234400000001,49.510944,fossil_coal_gas,Esch, ,Fossil gas,,1
+1514,4353,305,,3.713379,51.234407,fossil_mixed,Knippegroen,,Mixed fuels,,1
+1515,5591,127,,9.26147499999999,46.747389,hydro_pure_storage,Rothenbrunnen,,Hydro pure storage,,1
+1516,5569,104,,8.73413099999999,46.293816,hydro_pure_storage,Cavergno,,Hydro pure storage,,1
+1517,5703,1207,,-1.098633,54.686534,nuclear,Hartlepool,,Nuclear,,1
+1518,5689,1986,,-1.03271500000001,53.735716,fossil_brown_lignite,Ferrybridge, ,Brown coal/Lignite,,1
+1519,5688,405,,-0.131836,52.502848,fossil_coal_gas,Peterborough, ,Fossil gas,,1
+1520,2566,131,,27.202148,66.275698,hydro_ror,Pirttikoski, ,Hydro run of river & pondage,,1
+1521,5821,288,,12.875977,54.718275,wind,Baltic 2,,Wind farm,50Hertz Transmission GmbH,1
+1522,2906,318,,11.612549,50.701677,hydro_pure_ps,Hohenwarte II, ,Hydro pure pump storage,50Hertz Transmission GmbH,1
+1523,5825,165,,11.656494,54.54658,wind,Rødsand 1 (Nysted), ,Wind farm,,1
+1524,5826,215,,11.502686,54.565693,wind,Rødsand 2, ,Wind farm,,1
+1525,3059,30,2,21.280518,55.862982,wind,Vėjas 1,Vėjas 1,Wind farm,,-1
+1526,4410,630,,18.259277,44.606113,fossil_brown_lignite,Tuzla,Tuzla,Brown coal/Lignite,,1
+1527,4391,171,,18.48999,42.730874,hydro_ror,Trebinje, ,Hydro run of river & pondage,,1
+1528,4715,810,,5.64697299999999,43.500752,fossil_brown_lignite,Provence, ,Brown coal/Lignite,,1
+1529,4748,485,,5.877686,45.39845,hydro_pure_ps,Le Cheylas, ,Hydro pure pump storage,,1
+1530,2977,211,,13.150635,52.435921,fossil_coal_gas,Charlottenburg, ,Fossil gas,50Hertz Transmission GmbH,1
+1531,2970,432,,13.238525,52.187405,fossil_coal_gas,Lichterfelde,Lichterfelde,Fossil gas,50Hertz Transmission GmbH,1
+1532,2620,2147,,8.129883,53.455349,fossil_brown_lignite,Wilhelmshaven, ,Brown coal/Lignite,Amprion,1
+1533,5831,323,,10.327148,54.380557,fossil_brown_lignite,Kiel, ,Brown coal/Lignite,Amprion,1
+1534,2632,654,,10.129395,52.180669,fossil_brown_lignite,Mehrum, ,Brown coal/Lignite,Amprion,1
+1535,5624,113,,8.31665,46.649436,hydro_mixed,Handeck,Handeck,Hydro mixed pump storage,,1
+1536,5585,180,,9.31640599999999,46.490829,hydro_mixed,Ferrera, ,Hydro mixed pump storage,,1
+1537,5541,160,,8.47045899999999,46.626806,hydro_pure_storage,Göschenen, ,Hydro pure storage,,1
+1538,4019,223,,28.45459,44.363133,wind,Medigidia Sud, ,Wind farm,,1
+1539,3973,117,,27.421875,47.189712,fossil_coal_gas,Iaşi 2, ,Fossil gas,,1
+1540,3103,130,,9.16259800000001,63.119605,hydro_pure_ps,Trollheim, ,Hydro pure pump storage,,1
+1541,5835,60,,6.87744100000001,61.100789,hydro_pure_ps,Hove, ,Hydro pure pump storage,,1
+1542,3226,130,,5.405273,60.796704,fossil_coal_gas,Mongstad, ,Fossil gas,,1
+1543,3140,89,,8.64624000000001,60.239811,hydro_pure_ps,Uvdal, ,Hydro pure pump storage,,1
+1544,3137,52,,9.20654300000001,60.201616,hydro_pure_ps,Nore 2, ,Hydro pure pump storage,,1
+1545,5899,138,,13.238525,55.128649,fossil_coal_gas,H.C.Ørsted-værket, ,Fossil gas,,1
+1546,5899,333,,13.238525,55.059495,fossil_mixed,Amager-værket, ,Mixed fuels,,1
+1547,5899,803,,13.227539,54.983918,fossil_mixed,Avedøre-værket, ,Mixed fuels,,1
+1548,4343,120,,16.54541,48.210032,fossil_oil,Schwechat, ,Fossil oil,,1
+1549,4286,217,,14.238281,48.458352,fossil_coal_gas,Linz Mitte, ,Fossil gas,,1
+1550,4342,171.5,,14.095459,48.283193,fossil_coal_gas,Linz Süd, ,Fossil gas,,1
+1551,4289,130,,16.314697,48.458352,fossil_coal_gas,Korneuburg, ,Fossil gas,,1
+1552,4345,832,,15.875244,46.920255,fossil_coal_gas,GDK I Mellach, ,Fossil gas,,1
+1553,4339,100,,13.469238,47.967859,biomass,Lenzing, ,Biomass,,1
+1554,5845,480,,12.821045,47.107523,hydro_pure_ps,Limberg II, ,Hydro pure pump storage,,1
+1555,4322,104,,13.798828,47.129951,hydro_pure_ps,Hintermuhr, ,Hydro pure pump storage,,1
+1556,4285,772,,10.140381,46.965259,hydro_mixed,Kops I + II, ,Hydro mixed pump storage,,1
+1557,4404,110,,17.303467,44.402392,hydro_ror,Bocac, ,Hydro run of river & pondage,,1
+1558,4404,60,,17.545166,44.221584,hydro_ror,Jajce I, ,Hydro run of river & pondage,,1
+1559,4407,180,,18.1604,43.651975,hydro_ror,Jablanica, ,Hydro run of river & pondage,,1
+1560,4395,72,,18.083496,43.452919,hydro_ror,Mostar, ,Hydro run of river & pondage,,1
+1561,2600,140,,26.663818,60.75916,fossil_oil,Anjala, ,Fossil oil,,1
+1562,2600,76,,26.707764,60.930432,biomass,Kuusankoski, ,Biomass,,1
+1563,2600,110,,26.71875,61.02637,biomass,Kuusaanniemi, ,Biomass,,1
+1564,2602,175,,27.91626,60.818138,fossil_coal_gas,Mertaniemi, ,Fossil gas,,1
+1565,2602,95,,28.33374,60.951777,biomass,Joutseno, ,Biomass,,1
+1566,2602,225,,28.114014,60.925094,biomass,Kaukas, ,Biomass,,1
+1567,6638,62,,28.597412,61.127325,hydro_ror,Tainionkoski, ,Hydro run of river & pondage,,1
+1568,6638,151,,28.630371,61.254386,biomass,Kaukopää, ,Biomass,,1
+1569,2607,59,,27.114258,61.428261,biomass,Pursiala, ,Biomass,,1
+1570,2612,118,,24.971924,60.125092,fossil_oil,Kellosaari, ,Fossil oil,,1
+1571,2598,190,,25.982666,60.359564,fossil_coal_gas,Neste Porvoo, ,Fossil gas,,1
+1572,2611,105,,23.983154,60.190695,fossil_coal_gas,Kirkniemi, ,Fossil gas,,1
+1573,2588,300,,23.521729,60.753792,fossil_oil,Forssa, ,Fossil oil,,1
+1574,2616,101,,21.357422,60.941106,biomass,Rauma, ,Biomass,,1
+1575,2616,100,,21.522217,61.212089,fossil_oil,Olkiluoto, ,Fossil oil,,1
+1576,2585,73,,22.192383,61.354614,hydro_ror,Harjavalta, ,Hydro run of river & pondage,,1
+1577,2615,65,,21.741943,61.470267,biomass,Kaanaa, ,Biomass,,1
+1578,2581,125,,22.82959,62.689269,fossil_oil,Seinäjoki, ,Fossil oil,,1
+1579,2609,67,,23.269043,61.449271,hydro_ror,Melo, ,Hydro run of river & pondage,,1
+1580,2584,180,,27.509766,62.329208,fossil_oil,Huutokoski, ,Fossil oil,,1
+1581,2583,71,,25.653076,62.568045,biomass,Äänekoski, ,Biomass,,1
+1582,2584,50,,29.729004,62.653963,biomass,Joensuu, ,Biomass,,1
+1583,3642,99,,30.234375,62.925236,biomass,Uimaharju, ,Biomass,,1
+1584,3642,89,,30.311279,62.815019,hydro_ror,Pamilo, ,Hydro run of river & pondage,,1
+1585,2569,57,,27.059326,64.529548,hydro_ror,Jylhämä, ,Hydro run of river & pondage,,1
+1586,2571,51,,26.312256,64.867608,hydro_ror,Pälli, ,Hydro run of river & pondage,,1
+1587,2572,76,,25.389404,64.881602,biomass,Nuottasaari, ,Biomass,,1
+1588,5988,63,,25.345459,65.316418,hydro_ror,Raasakka, ,Hydro run of river & pondage,,1
+1589,2565,75,,24.829102,65.708038,biomass,Kemi, ,Biomass,,1
+1590,2565,87,,24.851074,65.640155,biomass,Veitsiluoto, ,Biomass,,1
+1591,2616,85,,21.522217,60.989095,biomass,Metsä-Rauma, ,Biomass,,1
+1592,3689,218,,17.215576,48.180739,fossil_coal_gas,Bratislava, ,Fossil gas,,1
+1593,3708,121,,21.192627,48.647428,fossil_coal_hard,Košice, ,Hard coal,,1
+1594,2395,56,,14.776611,50.394512,solar_pv,Kuřivody, ,Solar photovoltaic,,1
+1595,2395,30,,14.425049,50.34546,solar_pv,Spomyšl, ,Solar photovoltaic,,1
+1596,2380,166,,15.754395,50.148746,fossil_brown_lignite,Opatovice,Opatovice,Brown coal/Lignite,,1
+1597,2349,40,,14.249268,49.674738,hydro_ror,Kamýk, ,Hydro run of river & pondage,,1
+1598,2377,132,,14.39209,49.77417,hydro_ror,Slapy, ,Hydro run of river & pondage,,1
+1599,2215,370,,14.106445,50.099441,fossil_mixed,Kladno, ,Mixed fuels,,1
+1600,2968,145,,12.480469,52.556316,wind,Windpark Wustermark, ,Wind farm,50Hertz Transmission GmbH,1
+1601,2961,270,,13.710938,50.993014,fossil_coal_gas,Dresden Nossener Brücke, ,Fossil gas,50Hertz Transmission GmbH,1
+1602,2984,300,,14.161377,53.159947,fossil_oil,PCK Schwedt, ,Fossil oil,50Hertz Transmission GmbH,1
+1603,5363,133,,4.40551799999999,51.289406,fossil_coal_gas,Inesco, ,Fossil gas,,1
+1604,4351,140,,4.54834,51.358062,fossil_coal_gas,Exxon, ,Fossil gas,,1
+1605,5363,395,,4.39453100000001,51.351201,fossil_coal_gas,Zandvliet, ,Fossil gas,,1
+1606,5986,325,,3.14209,51.440313,wind,Thornton bank, ,Wind farm,,1
+1607,5986,1092,,3.043213,51.495065,wind,Bligh bank, ,Wind farm,,1
+1608,5850,-1,,15.919189,64.708494,wind,Storbäck, ,Wind farm,,1
+1609,3794,-1,,16.875,63.164276,hydro_ror,Forsse, ,Hydro run of river & pondage,,1
+1610,5123,88,,17.479248,47.047669,fossil_brown_lignite,Ajka, ,Brown coal/Lignite,,1
+1611,5152,116,,20.797119,48.400032,fossil_brown_lignite,Borsod, ,Brown coal/Lignite,,1
+1612,5119,403,,19.017334,47.309034,fossil_coal_gas,Csepel, ,Fossil gas,,1
+1613,5141,93,,21.730957,47.576526,fossil_coal_gas,Debrecen, ,Fossil gas,,1
+1614,5133,66,,18.874512,46.972756,fossil_coal_gas,Dunaújváros, ,Fossil gas,,1
+1615,5119,190,,18.786621,47.428087,fossil_coal_gas,Kelenföld, ,Fossil gas,,1
+1616,5130,106,,18.995361,47.41322,fossil_coal_gas,Kispest, ,Fossil gas,,1
+1617,5130,106,,19.072266,47.472663,fossil_coal_gas,Újpest, ,Fossil gas,,1
+1618,5129,119,,18.006592,47.040182,fossil_oil,Litér, ,Fossil oil,,1
+1619,5120,169,,19.753418,47.798397,fossil_oil,Lőrinci, ,Fossil oil,,1
+1620,5145,110,,18.347168,46.126556,fossil_coal_gas,Pécs, ,Fossil gas,,1
+1621,5150,119,,21.192627,47.953145,fossil_oil,Sajószöged, ,Fossil oil,,1
+1622,5121,177,,21.357422,48.011975,fossil_brown_lignite,Tiszapalkonya, ,Brown coal/Lignite,,1
+1623,4950,563,,3.28491200000001,50.268277,fossil_coal_gas_cons,Bouchain, ,"Fossil gas, under construction",,563
+1624,5042,250,,0.483397999999997,49.4467,fossil_coal_gas,Amfard, ,Fossil gas,,1
+1625,4875,374,,2.834473,48.385442,fossil_oil,Montereau, ,Fossil oil,,1
+1626,5106,175,,7.56958000000001,47.879513,hydro_pure_ps,Fessenheim, ,Hydro pure pump storage,,1
+1627,5007,155,,7.56958000000001,48.129434,hydro_ror,Marckolsheim, ,Hydro run of river & pondage,,1
+1628,5013,141,,7.734375,48.356249,hydro_ror,Gertsheim, ,Hydro run of river & pondage,,1
+1629,5865,78,,5.31738300000001,48.312428,wind,Epizon, ,Wind farm,,1
+1630,5064,406,,2.790527,44.684277,hydro_ror,Brommat, ,Hydro run of river & pondage,,1
+1631,4591,-1,,2.032471,44.949249,hydro_ror,Laval de Cere II, ,Hydro run of river & pondage,,1
+1632,4595,107,,2.30712900000001,44.933696,hydro_ror,St-Etienne-Cantales, ,Hydro run of river & pondage,,1
+1633,4616,120,,2.48291,45.39845,hydro_ror,St-Pierre-Mareges, ,Hydro run of river & pondage,,1
+1634,4616,146,,2.48291,45.336702,hydro_ror,Mareges, ,Hydro run of river & pondage,,1
+1635,4596,95,,2.85644499999999,43.53262,hydro_ror,Montahut, ,Hydro run of river & pondage,,1
+1636,4473,104,,1.505127,42.771211,hydro_ror,Aston, ,Hydro run of river & pondage,,1
+1637,4569,89,,1.988525,42.803462,hydro_ror,Orlu, ,Hydro run of river & pondage,,1
+1638,4567,93,,1.86767600000001,42.609706,hydro_ror,L' Hospitalet, ,Hydro run of river & pondage,,1
+1639,3158,60,,5.614014,58.745407,wind,Høg-Jæren, ,Wind farm,,1
+1640,4580,490,,4.80102499999999,43.381098,fossil_coal_gas,La Gracieuse, ,Fossil gas,,1
+1641,4657,159,,5.130615,43.484812,hydro_ror,St. Chamas, ,Hydro run of river & pondage,,1
+1642,4565,96,,5.16357399999999,43.596306,hydro_ror,Salon, ,Hydro run of river & pondage,,1
+1643,4656,93,,5.262451,43.802819,hydro_ror,Mallemort, ,Hydro run of river & pondage,,1
+1644,4649,156,,4.910889,44.0718,hydro_ror,Caderousse, ,Hydro run of river & pondage,,1
+1645,4649,162,,4.80102499999999,43.992815,hydro_ror,Avignon, ,Hydro run of river & pondage,,1
+1646,4731,139,,5.91064499999999,44.425934,hydro_ror,Curban, ,Hydro run of river & pondage,,1
+1647,4645,109,,3.977051,44.441624,hydro_ror,Pied-de-Borne, ,Hydro run of river & pondage,,1
+1648,4647,132,,4.108887,44.613934,hydro_ror,Montpezat, ,Hydro run of river & pondage,,1
+1649,4638,116,,4.79003900000001,45.02695,hydro_ror,Gervans, ,Hydro run of river & pondage,,1
+1650,4684,161,,4.80102499999999,45.243953,hydro_ror,Sablons, ,Hydro run of river & pondage,,1
+1651,4751,173,,5.54809599999999,45.058001,fossil_oil,Pont de Claix, ,Fossil oil,,1
+1652,4756,101,,5.81176799999999,44.754535,hydro_ror,St-Pierre-Cognet, ,Hydro run of river & pondage,,1
+1653,4755,116,,5.88867200000001,44.964798,hydro_ror,St. Guillerme, ,Hydro run of river & pondage,,1
+1654,4692,81,,4.70214800000001,45.652448,hydro_ror,Pierre Benite, ,Hydro run of river & pondage,,1
+1655,4772,480,,6.82251000000001,45.18978,hydro_ror,Villarodin, ,Hydro run of river & pondage,,1
+1656,4781,96,,6.97631799999999,45.552525,hydro_ror,Les Brevieres, ,Hydro run of river & pondage,,1
+1657,4768,116,,6.43798799999999,45.298075,hydro_ror,Hermillon, ,Hydro run of river & pondage,,1
+1658,4775,124,,6.229248,45.514046,hydro_ror,Randens, ,Hydro run of river & pondage,,1
+1659,4763,91,,5.789795,45.637087,hydro_ror,Brens, ,Hydro run of river & pondage,,1
+1660,4782,104,,6.624756,45.9053,hydro_ror,Passy, ,Hydro run of river & pondage,,1
+1661,4767,92,,5.80078100000001,45.9053,hydro_ror,Chautagne, ,Hydro run of river & pondage,,1
+1662,5069,405,,5.89965800000001,46.050361,hydro_ror,Genissiat, ,Hydro run of river & pondage,,1
+1663,5017,98,,7.910156,48.734455,hydro_ror,Gambsheim, ,Hydro run of river & pondage,,1
+1664,4718,141,,5.50415000000001,43.659924,hydro_ror,St. Esteve, ,Hydro run of river & pondage,,1
+1665,3106,140,,9.019775,62.608508,hydro_pure_ps,Driva, ,Hydro pure pump storage,,1
+1666,3095,58,,10.426025,64.134577,wind,Bessakerfjellet, ,Wind farm,,1
+1667,3101,55,,8.92089799999999,63.548552,wind,Hitra, ,Wind farm,,1
+1668,3217,150,,8.05297900000001,63.396442,wind,Smøla, ,Wind farm,,1
+1669,3101,82,,10.096436,63.184108,hydro_pure_ps,Brattsberg, ,Hydro pure pump storage,,1
+1670,5866,-1,,7.78930700000001,62.527527,hydro_pure_ps,Grytten, ,Hydro pure pump storage,,1
+1671,3104,-1,,7.470703,62.24235,hydro_pure_ps,Tafjord, ,Hydro pure pump storage,,1
+1672,3111,75,,7.998047,61.799093,hydro_pure_ps,Framruste, ,Hydro pure pump storage,,1
+1673,3111,374,,7.910156,61.412494,hydro_pure_ps,Tyin, ,Hydro pure pump storage,,1
+1674,3134,55,,8.668213,61.122019,hydro_pure_ps,Lomen, ,Hydro pure pump storage,,1
+1675,3135,93,,9.00878899999999,61.047651,hydro_pure_ps,Åbjøra, ,Hydro pure pump storage,,1
+1676,3135,64,,9.151611,60.941106,hydro_pure_ps,Bagn, ,Hydro pure pump storage,,1
+1677,3195,150,,9.92065400000001,61.106098,hydro_pure_ps,Torpa, ,Hydro pure pump storage,,1
+1678,3195,112,,10.415039,61.317725,hydro_pure_ps,Hunderfossen, ,Hydro pure pump storage,,1
+1679,3141,86,,9.92065400000001,60.277962,hydro_pure_ps,Kaggefoss, ,Hydro pure pump storage,,1
+1680,3220,100,,11.184082,59.96051,hydro_pure_ps,Rånåfossen, ,Hydro pure pump storage,,1
+1681,3207,-1,,11.118164,59.634435,hydro_pure_ps,Kykkelsrud, ,Hydro pure pump storage,,1
+1682,3210,-1,,11.260986,59.551025,hydro_pure_ps,Vamma, ,Hydro pure pump storage,,1
+1683,3184,-1,,8.800049,59.623325,hydro_pure_ps,Hjartdøla, ,Hydro pure pump storage,,1
+1684,3175,110,,8.16284199999999,58.390197,hydro_pure_ps,Steinfoss, ,Hydro pure pump storage,,1
+1685,4441,42,,14.864502,44.988113,wind,Vrataruša, ,Wind farm,,1
+1686,4436,42,,15.238037,45.328979,hydro_ror,Lešċe, ,Hydro run of river & pondage,,1
+1687,3346,430,,18.116455,52.402419,fossil_brown_lignite,Pątnów II, ,Brown coal/Lignite,,1
+1688,3304,332,,19.577637,52.656394,fossil_oil,Płock CHP, ,Fossil oil,,1
+1689,3999,868,,26.246338,44.871443,fossil_coal_gas,Petrom Brazi CHP, ,Fossil gas,,1
+1690,5459,53,,22.576904,44.45731,hydro_ror,Gogosu, ,Hydro run of river & pondage,,1
+1691,4040,-1,,24.89502,45.890008,hydro_ror,Olt S, ,Hydro run of river & pondage,,1
+1692,4009,-1,,24.98291,45.890008,hydro_ror,Olt S, ,Hydro run of river & pondage,,1
+1693,4013,-1,,26.608887,46.694667,hydro_ror,Bistrita Ds., ,Hydro run of river & pondage,,1
+1694,4022,33,,29.11377,45.127805,wind,Tulcea Vest, ,Wind farm,,1
+1695,5896,156,,6.448975,53.494582,wind,Westereems, ,Wind farm,,1
+1696,5384,72,,7.05322299999999,53.298056,wind,Delfzijl, ,Wind farm,,1
+1697,5376,247,,4.998779,52.516221,fossil_coal_gas_cons,ECW, ,"Fossil gas, under construction",,1
+1698,6637,-1,,4.064941,51.937492,power_plus_sub,Maasvlakte, ,Substations + Power Plants,,1
+1699,5393,-1,,6.679688,53.383328,power_plus_sub,Eemshaven, ,Substations + Power Plants,,1
+1700,5365,1309,,6.08642599999999,51.25504,fossil_coal_gas,ClausC, ,Fossil gas,,1
+1701,5375,243,,5.19653299999999,52.254709,fossil_coal_gas,Diemen33, ,Fossil gas,,1
+1702,5375,430,,5.251465,52.295042,fossil_coal_gas,Diemen34, ,Fossil gas,,1
+1703,5375,430,,4.96582000000001,52.133488,fossil_coal_gas,Hemweg9, ,Fossil gas,,1
+1704,5373,144,,4.63622999999999,52.409121,fossil_coal_gas,Ijmond, ,Fossil gas,,1
+1705,5362,484,,3.85620100000001,51.508742,nuclear,Borssele30, ,Nuclear,,1
+1706,5362,404,,3.77929700000001,51.495065,fossil_brown_lignite,Borssele12, ,Brown coal/Lignite,,1
+1707,5872,-1,,38.430176,56.43213,hydro_ror,Zagorskaya PSPP,,Hydro run of river & pondage,,1
+1708,5873,-1,,40.166016,57.148161,other_nl,Ivanovskiye CCPP,Ивановские ПГУ,Other or not listed,,1
+1709,5875,-1,,39.759521,43.564472,fossil_oil,Adlerskaya TPP,Адлерская ТЭС,Fossil oil,,1
+1710,3309,336,,21.126709,52.207607,fossil_coal_hard,Żerań CHP, ,Hard coal,,1
+1781,5977,357,,3.625488,50.889174,fossil_coal_gas,Ham, ,Fossil gas,,1
+1711,3307,539,,21.148682,52.086257,fossil_coal_hard,Siekierki CHP, ,Hard coal,,1
+1712,3261,90,,15.864258,54.09806,wind,Karścino Pobłocie, ,Wind farm,,1
+1713,3261,50,,15.974121,54.23313,wind,Tymień, ,Wind farm,,1
+1714,3265,51,,15.336914,54.104502,wind,Karcino, ,Wind farm,,1
+1715,3341,50,,16.688232,54.348553,wind,Tychowo (1), ,Wind farm,,1
+1716,3297,156,,19.160156,52.722986,hydro_ror,Włocławek, ,Hydro run of river & pondage,,1
+1717,2989,90,,14.886475,51.944265,hydro_mixed,Dychów, ,Hydro mixed pump storage,,1
+1718,3279,109,,20.039062,50.007739,biomass,Kraków Łęg CHP, ,Biomass,,1
+1719,3687,92,,20.093994,49.468124,hydro_mixed,Niedzica, ,Hydro mixed pump storage,,1
+1720,3282,56,,20.786133,49.653405,hydro_pure_storage,Rożnów, ,Hydro pure storage,,1
+1721,3313,198,,22.5,49.217597,hydro_mixed,Solina, ,Hydro mixed pump storage,,1
+1722,2841,870,,8.448486,49.37522,fossil_coal_hard,GKM, ,Hard coal,EnBW,1
+1723,2803,721,,9.42627000000001,49.21042,fossil_coal_hard,Heilbronn 7, ,Hard coal,EnBW,1
+1724,2673,501,,8.17382799999999,49.023461,fossil_coal_hard,Karlsruhe RDK 7, ,Hard coal,EnBW,1
+1725,2673,365,,8.11889599999999,49.037868,fossil_coal_gas,Karlsruhe RDK 4, ,Fossil gas,EnBW,1
+1726,2795,251,,9.107666,48.908059,fossil_oil,Marbach DT 3, ,Fossil oil,EnBW,1
+1727,2652,360,,7.98706099999999,47.650588,hydro_pure_ps,Säckingen, ,Hydro pure pump storage,EnBW,1
+1728,2656,90,,8.28369100000001,47.694974,hydro_mixed,Waldshut, ,Hydro mixed pump storage,Amprion/EnBW,1
+1729,3003,425,,9.18456999999999,48.69096,fossil_coal_hard,Altbach, ,Hard coal,EnBW,1
+1730,5936,130,,6.932373,52.736292,fossil_coal_gas,NAM Schoonebeek, ,Fossil gas,,1
+1731,5883,-1,,21.928711,57.456771,wind,Winergy VP,Winergy VP,Wind farm,,1
+1732,3228,552,,18.358154,52.025459,fossil_brown_lignite,Adamów, ,Brown coal/Lignite,,1
+1733,5861,408,,6.811523,49.28214,fossil_brown_lignite,Ensdorf, ,Brown coal/Lignite,Amprion,1
+1734,3008,171,,6.624756,50.826758,fossil_brown_lignite,Goldenberg, ,Brown coal/Lignite,Amprion,1
+1735,2802,1441,,9.39331099999999,49.174522,fossil_coal_hard,Heilbronn, ,Hard coal,Amprion,1
+1736,4720,88,,5.72387699999999,43.850374,hydro_ror,St. Tulle, ,Hydro run of river & pondage,,1
+1737,3340,238,,17.061768,51.020666,fossil_coal_hard,Wrocław CHP, ,Hard coal,,1
+1738,3266,206,,18.599854,54.367759,fossil_coal_hard,Gdańsk 2 CHP, ,Hard coal,,1
+1739,3252,246,,16.864014,52.368892,fossil_coal_hard,Poznań-Karolin CHP, ,Hard coal,,1
+1740,3336,208,,18.907471,50.366489,fossil_coal_hard,Chorzów 2 CHP, ,Hard coal,,1
+1741,3319,226,,22.675781,51.234407,fossil_coal_gas,Lublin-Wrotków CHP, ,Fossil gas,,1
+1742,2550,250,,24.367676,59.097025,fossil_mixed,Kiisa, ,Mixed fuels,,1
+1743,2550,50,,23.587646,59.136499,wind,Aulepa, ,Wind farm,,1
+1744,2884,256,,9.14062499999999,53.93022,fossil_oil,Brunsbüttel, ,Fossil oil,50Hertz Transmission GmbH,1
+1745,5888,-1,,8.041992,54.361358,wind_cons,HelWin beta, ,"Wind farm, under construction",,1
+1746,5891,400,,6.96533199999999,53.936688,wind,Alpha Ventus, ,Wind farm,Amprion,1
+1747,5893,400,,6.74560499999999,54.393352,wind_cons,BorWin beta, ,"Wind farm, under construction",Amprion,1
+1748,5892,1310,,9.327393,49.102645,nuclear,GKN 2, ,Nuclear,,1
+1749,5896,-1,,6.48193399999999,53.690201,wind_cons,Riffgat, ,"Wind farm, under construction",,1
+1750,5897,400,,7.58056600000001,55.801281,wind_cons,Horns Rev 3, ,"Wind farm, under construction",,1
+1751,5899,600,,13.007812,54.990222,wind_cons,Kriegers Flak, ,"Wind farm, under construction",,1
+1752,5437,100,,20.544434,45.421588,fossil_coal_gas,Zrenjanin, ,Fossil gas,,1
+1753,5428,208,,19.80835,45.313529,fossil_coal_gas,Novi Sad, ,Fossil gas,,1
+1754,5452,96,,19.35791,44.323848,hydro_ror,Zvornik, ,Hydro run of river & pondage,,1
+1755,5402,978,,19.80835,44.0718,hydro_pure_ps,Bajina Basta, ,Hydro pure pump storage,,1
+1756,5439,1080,,22.37915,44.676466,hydro_ror,Djerdap 1, ,Hydro run of river & pondage,,1
+1757,5460,270,,22.445068,44.237328,hydro_ror,Djerdap 2, ,Hydro run of river & pondage,,1
+1758,5413,618,,21.247559,42.561173,fossil_brown_lignite,Kosovo B, ,Brown coal/Lignite,,1
+1759,5410,617,,21.09375,42.374778,fossil_brown_lignite,Kosovo A, ,Brown coal/Lignite,,1
+1760,5920,400,,7.10815399999999,54.501948,wind_cons,BorWin gamma, ,"Wind farm, under construction",Amprion,1
+1761,5905,-1,,6.73461900000001,53.813626,wind_cons,DolWin gamma, ,"Wind farm, under construction",,1
+1762,3022,-1,,11.898193,53.540307,wind,Windpark Wessin, ,Wind farm,50Hertz Transmission GmbH,1
+1763,5402,978,,19.764404,43.953282,hydro_ror,Bajina Basta, ,Hydro run of river & pondage,,1
+1764,2807,1288,,10.360107,48.516604,nuclear,Gundremmingen C, ,Nuclear,Amprion,1
+1765,2833,1410,,12.282715,48.719961,nuclear,Isar II, ,Nuclear,,1
+1766,2670,1402,,8.360596,49.246293,nuclear,Philippsburg II, ,Nuclear,,1
+1767,2628,1360,,9.31640599999999,51.937492,nuclear,Grohnde, ,Nuclear,Amprion,1
+1768,5857,-1,,3.449707,46.415139,fossil_coal_gas,Les Morandes, ,Fossil gas,,1
+1769,5727,1987,,0.527343999999999,53.265213,wind,Lincs, ,Wind farm,,1
+1770,5631,900,,-0.571288999999998,53.409532,fossil_brown_lignite,West Burton, ,Brown coal/Lignite,,1
+1771,5636,1987,,1.362305,51.645294,wind,London Array, ,Wind farm,,1
+1772,5353,2362,,11.568604,44.949249,solar_thermal,Canaro, ,Solar,,1
+1773,3261,50,,15.732422,54.156001,wind,Bardy-Dygowo, ,Wind farm,,1
+1774,3331,239,,16.413574,54.386955,wind,Darłowo, ,Wind farm,,1
+1775,6010,39.099998,2,21.566162,55.553495,wind,Čiūtelių VE,Čiūtelių VE,Wind farm,,-1
+1776,3987,50,,28.125,44.512176,wind,Cernavoda, ,Wind farm,,1
+1777,5916,50,,28.817139,44.645208,wind,Tariverde, ,Wind farm,,1
+1778,5916,50,,28.300781,44.918139,wind,Rahman, ,Wind farm,,1
+1779,5919,-1,,8.21777299999999,53.833081,wind_cons,Nordergründe, ,"Wind farm, under construction",,1
+1780,4380,-1,,5.08667,50.999929,fossil_coal_gas,Tessenderlo, ,Fossil gas,,1
+1782,4382,420,,4.504395,50.324423,fossil_coal_gas,Marcinelle, ,Fossil gas,,1
+1783,5923,-1,,27.147217,53.969012,other_nl,Severnaja TEC 4,,Other or not listed,,1
+1784,3901,-1,,27.630615,53.891391,other_nl,Koljadichi,,Other or not listed,,1
+1785,5631,-1,,-0.538330000000004,53.363665,fossil_coal_gas,West Burton, ,Fossil gas,,1
+1786,5929,-1,,31.311035,58.482209,other_nl,Novgorodskaya CHPP,Новгородская,Other or not listed,,1
+1787,4175,-1,,26.422119,50.34546,nuclear,Khmelnytska NPP,Хмельницька АЕС,Nuclear,,1
+1788,6643,-1,,24.125977,50.422519,other_nl,Dobrotvirska TPP,Добротвiрська ТЕС,Other or not listed,,1
+1789,6059,747,,17.797852,47.798397,hydro_ror,Gabčíkovo, ,Hydro run of river & pondage,,1
+1790,6639,250,,13.765869,66.142743,hydro_pure_ps,Røssåga, ,Hydro pure pump storage,,1
+1791,6693,-1,,15.809326,65.485626,hydro_ror,Ajaure, ,Hydro run of river & pondage,,1
+1792,6647,175,,11.722412,63.035039,hydro_pure_ps,Nea, ,Hydro pure pump storage,,1
+1793,6654,124,,25.070801,66.138299,hydro_ror,Ossauskoski, ,Hydro run of river & pondage,,1
+1794,6626,-1,,20.43457,66.504502,hydro_ror,Letsi, ,Hydro run of river & pondage,,1
+1795,6688,173,,25.411377,66.284537,hydro_ror,Petäjäskoski, ,Hydro run of river & pondage,,1
+1796,6664,-1,,28.037109,53.729217,other_nl,Minskaja TEC 5,Мінская ЦЭЦ5,Other or not listed,,1
+1797,6672,-1,,29.750977,46.619261,other_nl,CERS Moldova, ,Other or not listed,,1
+1798,5940,2000,,23.642578,43.786958,nuclear,Kozloduy,Козлодуй,Nuclear,,1
+1799,3889,-1,,26.18042,54.629338,other_nrenew_cons,Belorusskaya AE,,"Fossil fuel, under construction",,1
+1800,6655,96,,13.381348,48.297812,hydro_ror,Schärding, ,Hydro run of river & pondage,,1
+1801,6658,-1,,33.145752,53.975474,nuclear,Smolenskaya NPP,Смоленская ,Nuclear,,1
+1802,6697,-1,,39.385986,48.582058,other_nl,Luganska TPP,Луганська TEC,Other or not listed,,1
+1803,6633,-1,,39.155273,51.426614,nuclear,Novovoronezhskaya NPP,Нововоронежская АЭС,Nuclear,,1
+1804,6670,-1,,36.287842,49.617828,other_nl,Zmyivska TPP,Зміївська ТЕС,Other or not listed,,1
+1805,6680,-1,,35.881348,51.68618,nuclear,Kurskaya NPP,Курская АЭС,Nuclear,,1
+1806,6668,-1,,31.530762,48.356249,nuclear,Pivdennoukrainska NPP,Південноукраїнська А,Nuclear,,1
+1807,6682,342,,18.874512,43.189158,hydro_pure_ps,Piva, ,Hydro pure pump storage,,1
+1808,6656,220,,19.313965,43.309191,other_nl,Pljevlja 2, ,Other or not listed,,1
+1809,3240,1711,,15.007324,51.034486,fossil_brown_lignite,Turów, ,Brown coal/Lignite,,1
+1810,5946,1000,,8.887939,46.822617,hydro_pure_ps,Limmern, ,Hydro pure pump storage,,1
+1811,2548,50,,24.169922,59.30516,wind,Paldiski, ,Wind farm,,1
+1812,3348,50,,18.204346,52.173932,biomass,Konin, ,Biomass,,1
+1813,3352,190,,21.170654,50.352471,biomass,Połaniec, ,Biomass,,1
+1814,3250,51,,17.424316,51.206883,wind,Pągów,,Wind farm,,1
+1815,3256,79.5,,17.160645,53.061025,wind,Chwiram, ,Wind farm,,1
+1816,5948,926,,13.809814,50.436516,fossil_coal_gas,Počerady, ,Fossil gas,,1
+1817,4019,50,,28.619385,44.59829,wind,Stupina, ,Wind farm,,1
+1818,5965,-1,,17.050781,65.219894,wind,Blaiken, ,Wind farm,,1
+1819,5966,-1,,16.962891,63.995235,wind,Trattberget, ,Wind farm,,1
+1820,5967,-1,,21.170654,65.270498,wind,Råbäcken, ,Wind farm,,1
+1821,5970,-1,,13.381348,53.67068,wind,Windpark Altentreptow/Nord, ,Wind farm,,1
+1822,6001,63,,14.622803,53.370221,biomass,Szczecin CHP, ,Biomass,,1
+1823,4327,130,,16.600342,48.319734,fossil_coal_gas,Leopoldau, ,Fossil gas,,1
+1824,5720,1987,,0.988770000000011,53.113811,wind,Sheringham Shoal, ,Wind farm,,1
+1825,5986,325,,3.16406199999999,51.495065,wind,Bank Zonder Naam, ,Wind farm,,1
+1826,5990,-1,,16.292725,62.820038,wind,Mörttjärnberget, ,Wind farm,,1
+1827,5991,-1,,13.974609,62.139842,wind,Nordiåsen, ,Wind farm,,1
+1828,4452,275,,15.688477,44.197959,wind,Zelengrad, ,Wind farm,,1
+1829,4431,275,,16.149902,43.612217,wind,Velika Glava, ,Wind farm,,1
+1830,4455,275,,16.842041,43.604262,wind,Voštane, ,Wind farm,,1
+1831,3331,82,,16.66626,54.521081,wind,Marszewo, ,Wind farm,,1
+1832,3261,54,,15.831299,54.20101,wind,Kukinia, ,Wind farm,,1
+1833,3667,70,,21.280518,54.226708,wind,Korsze, ,Wind farm,,1
+1834,3268,54,,21.258545,51.117317,wind,Iłża II,Iłża II,Wind farm,,1
+1835,5911,191,,5.22949200000001,43.34915,fossil_coal_gas,Martigues-Ponteau, ,Fossil gas,,1
+1836,3060,30,2,22.08252,55.279115,wind_cons,Wind farm,,"Wind farm, under construction",,-1
+1837,6010,30,2,21.412354,55.416544,wind_cons,Wind farm,,"Wind farm, under construction",,-1
+1838,3066,30,2,22.730713,56.316537,wind_cons,Wind farm,,"Wind farm, under construction",,-1
+1839,5721,229,,0.670166000000004,53.833081,wind_cons,Humber Gateway, ,"Wind farm, under construction",,1
+1840,6014,-1,,40.770264,56.298253,other_nl,Vladimirskaya CHPP-2,,Other or not listed,,1
+1841,5714,819,,0.263672,52.802761,fossil_coal_gas,King’s Lynn, ,Fossil gas,,1
+1842,5721,229,,0.681152000000009,53.943155,wind_cons,Westermost Rough, ,"Wind farm, under construction",,1
+1843,6020,200.100006,,11.964111,47.294134,hydro_ror,Gerlos II, ,Hydro run of river & pondage,,1
+1844,4345,832,,15.710449,46.897739,fossil_coal_gas,GDK II Mellach, ,Fossil gas,,1
+1845,5700,260,,-1.34033200000001,54.521081,fossil_coal_gas,Wilton, ,Fossil gas,,1
+1846,5719,900,,-0.494385000000006,53.585984,fossil_brown_lignite,Keadby, ,Brown coal/Lignite,,1
+1847,5673,408,,-0.285644999999988,51.815407,fossil_coal_gas,Rye House, ,Fossil gas,,1
+1848,5726,805,,0.703124999999998,51.47454,fossil_coal_gas,Grain, ,Fossil gas,,1
+1849,4020,50,,27.993164,44.715514,wind,Gura lalomitei, ,Wind farm,,1
+1850,3865,-1,,17.391357,62.65901,hydro_ror,Bergeforsen, ,Hydro run of river & pondage,,1
+1851,3809,-1,,14.699707,61.86133,hydro_ror,Krokströmmen, ,Hydro run of river & pondage,,1
+1852,5812,-1,,13.579102,61.459771,hydro_ror,Trängslet, ,Hydro run of river & pondage,,1
+1853,5811,-1,,12.678223,60.973107,hydro_pure_storage,Höljes,,Hydro pure storage,,1
+1854,3823,-1,,17.358398,60.608542,hydro_ror,Älvkarleby, ,Hydro run of river & pondage,,1
+1855,3738,-1,,12.513428,58.297944,hydro_ror,Trollhättan, ,Hydro run of river & pondage,,1
+1856,3748,-1,,13.348389,57.792089,fossil_coal_gas,Ryaverket, ,Fossil gas,,1
+1857,3851,-1,,13.062744,55.689972,fossil_coal_gas,Öresundsverket, ,Fossil gas,,1
+1858,3757,-1,,15.655518,58.418977,biomass,Linköping, ,Biomass,,1
+1859,3757,-1,,16.33667,58.602611,waste_nr,Händelöverket, ,Waste,,1
+1860,3752,-1,,15.3479,59.355596,biomass,Åbyverket, ,Biomass,,1
+1861,3858,-1,,18.28125,59.265881,fossil_oil,Värtaverket, ,Fossil oil,,1
+1862,5853,-1,,17.786865,59.778522,fossil_peat,Uppsala, ,Fossil peat,,1
+1863,3774,-1,,20.731201,64.746017,wind,Högnäs, ,Wind farm,,1
+1864,3777,-1,,19.368896,64.220715,hydro_ror,Harrsele, ,Hydro run of river & pondage,,1
+1865,5967,-1,,21.148682,64.619169,hydro_ror,Kvistforsen, ,Hydro run of river & pondage,,1
+1866,3774,-1,,19.401855,65.19686,hydro_ror,Gallejaur, ,Hydro run of river & pondage,,1
+1867,3774,-1,,18.962402,65.444568,hydro_ror,Bastusel, ,Hydro run of river & pondage,,1
+1868,3771,-1,,19.390869,66.683436,hydro_ror,Akkats, ,Hydro run of river & pondage,,1
+1869,6626,-1,,20.797119,66.280118,hydro_ror,Porsi, ,Hydro run of river & pondage,,1
+1870,3775,-1,,21.060791,66.013552,hydro_ror,Laxede, ,Hydro run of river & pondage,,1
+1871,2781,870,,8.404541,49.346599,fossil_coal_hard,GKM, ,Hard coal,EnBW,1
+1872,2781,870,,8.448486,49.339441,fossil_coal_hard,GKM, ,Hard coal,EnBW,1
+1873,5997,1441,,9.107666,49.016257,fossil_coal_hard,Walheim, ,Hard coal,Amprion,1
+1874,5997,1441,,9.05273399999999,49.030665,fossil_oil,Walheim, ,Fossil oil,Amprion,1
+1875,6046,288,,14.018555,54.642055,wind_cons,Wikinger,,"Wind farm, under construction",50Hertz Transmission GmbH,1
+1876,6047,288,,14.161377,54.572062,wind_cons,Arkona-Becken Südost,,"Wind farm, under construction",50Hertz Transmission GmbH,1
+1877,5988,87,,25.180664,65.58572,wind,unknown, ,Wind farm,,1
+1878,5988,87,,25.367432,65.458261,wind,unknown, ,Wind farm,,1
+1879,2575,87,,24.367676,64.434892,wind,Jylkkä, ,Wind farm,,1
+1880,2560,-1,,22.08252,63.025074,wind,Tuovila, ,Wind farm,,1
+1881,6048,-1,,37.056885,59.321981,other_nl,Cherepovetskaya TPP,,Other or not listed,,1
+1882,6051,-1,,38.95752,55.869147,other_nl,TPP-3,,Other or not listed,,1
+1883,6053,-1,,33.255615,54.946076,fossil_oil,Dorogobuzhskaya CHPP,,Fossil oil,,1
+1884,6037,630,,17.940674,44.676466,fossil_brown_lignite,Stanari,,Brown coal/Lignite,,1
+1885,4433,275,,16.358643,43.651975,wind,Ogorje, ,Wind farm,,1
+1886,3122,250,,5.218506,60.370429,hydro_mixed,Nygard, ,Hydro mixed pump storage,,1
+1887,3229,50,,14.842529,53.061025,wind,Banie, ,Wind farm,,1
+1888,5947,82.5,,21.610107,52.321911,wind,Korytnica, ,Wind farm,,1
+1889,3246,63,,16.831055,51.740636,wind,Krobia, ,Wind farm,,1
+1890,3342,90,,17.918701,54.737308,wind,Osieki, ,Wind farm,,1
+1891,6063,230,,-0.659179999999999,44.621754,solar_pv,Constantin, ,Solar photovoltaic,,1
+1892,6068,88,,2.66967800000001,42.544987,wind_cons,Pezilla-la-Rivière, ,"Wind farm, under construction",,1
+1893,5101,170,,5.66894500000001,43.55651,biomass_cons,Provence, ,"Biomass, under construction",,1
+1894,2547,1346,,27.70752,59.097025,fossil_oil_shale,Auvere EJ, ,Oil shale,,1
+1895,3297,476,,19.050293,52.61639,fossil_coal_gas,Włocławek CHP, ,Fossil gas,,1
+1896,3357,298,,19.962158,50.000678,fossil_coal_hard,Kraków Łęg CHP, ,Hard coal,,1
+1897,6666,-1,,6.932373,53.324312,power_plus_sub,Robbenplaat, ,Substations + Power Plants,,1
+1898,3238,1647,,17.808838,50.63901,fossil_coal_hard_cons,Opole, ,"Hard coal, under construction",,1
+1899,3337,833,,19.226074,50.162824,fossil_coal_hard_cons,Jaworzno III, ,"Hard coal, under construction",,1
+1900,3351,453,,22.192383,50.485474,fossil_coal_gas_cons,Stalowa Wola, ,"Fossil gas, under construction",,1
+1901,3304,578,,19.698486,52.609719,fossil_coal_gas_cons,Płock CHP, ,"Fossil gas, under construction",,1
+1902,3349,984,,21.818848,51.631657,fossil_coal_hard_cons,Kozienice, ,"Hard coal, under construction",,1
+1903,2671,-1,,8.129883,48.806863,hydro_ror,Iffezheim, ,Hydro run of river & pondage,,1
+1904,6627,908,,26.345215,42.261049,fossil_oil,Maritsa Iztok 3,Марица Изток 3,Fossil oil,,1
+1905,6650,654,,28.059082,59.310768,fossil_oil_shale,Balti EJ,Бaлти,Oil shale,,1
+1906,5545,106,,8.05297900000001,47.457809,hydro_ror,Laufenburg, ,Hydro run of river & pondage,,1
+1907,6638,178,,28.718262,61.180329,hydro_ror,Imatra, ,Hydro run of river & pondage,,1
+1908,6679,-1,,29.223633,61.02637,hydro_ror,Svetogorskaya HPP-11,Светогорская ГЭС-11,Hydro run of river & pondage,,1
+1909,6360,-1,,-9.03076200000001,42.811522,wind,Wind Farms, ,Wind farm,,1
+1910,6112,162,,-19.841309,65.353096,hydro_ror,BLA, ,Hydro run of river & pondage,,1
+1911,6126,60,,-16.918945,65.63109,other_nl,KRA, ,Other or not listed,,1
+1912,6120,150,,-19.105225,64.139369,hydro_ror,SIG, ,Hydro run of river & pondage,,1
+1913,6119,210,,-19.193115,64.277992,hydro_ror,HRA, ,Hydro run of river & pondage,,1
+1914,6118,90,,-18.863525,64.258913,hydro_ror,VAF, ,Hydro run of river & pondage,,1
+1915,6122,130,,-19.676514,64.301822,hydro_ror,SUL, ,Hydro run of river & pondage,,1
+1916,6123,288,,-19.643555,64.077003,hydro_ror,BUR, ,Hydro run of river & pondage,,1
+1917,6115,87,,-21.071777,64.163319,hydro_ror,SOG, ,Hydro run of river & pondage,,1
+1918,6115,120,,-21.247559,64.254141,other_nl,NES, ,Other or not listed,,1
+1919,6124,690,,-15.3479,64.909569,hydro_ror,FLJ, ,Hydro run of river & pondage,,1
+1920,6116,213,,-21.357422,64.057785,other_nl,HEL, ,Other or not listed,,1
+1921,6129,100,,-22.70874,63.855195,other_nl,REY, ,Other or not listed,,1
+1922,6128,75,,-22.390137,63.840668,other_nl,SVA, ,Other or not listed,,1
+1923,6130,2660,,-1.724854,49.518076,nuclear,Flamanville, ,Nuclear,,1
+1924,6144,2530,,-1.84570299999999,47.212106,fossil_oil,Cordemais Poste, ,Fossil oil,,1
+1925,6141,304,,-3.702393,48.356249,fossil_oil,Brennilis, ,Fossil oil,,1
+1926,6158,240,,-2.17529300000001,48.618385,hydro_ror,Rance, ,Hydro run of river & pondage,,1
+1927,6172,-1,,-8.07495099999999,51.788232,fossil_coal_gas,Glanagow, ,Fossil gas,,1
+1928,6183,216,,-6.888428,52.328625,fossil_coal_gas,Great Island, ,Fossil gas,,1
+1929,6176,590,,-9.56909199999999,52.542955,fossil_oil,Tarbert, ,Fossil oil,,1
+1930,6178,848,,-9.547119,52.656394,fossil_coal_hard,Moneypoint, ,Hard coal,,1
+1931,6177,86,,-8.55834999999999,52.703019,hydro_ror,Ardnacrusha, ,Hydro run of river & pondage,,1
+1932,6181,292,,-6.317139,52.99495,hydro_pure_ps,Turlough Hill, ,Hydro pure pump storage,,1
+1933,6202,463,,-6.108398,53.258641,fossil_coal_gas,Shellybanks, ,Fossil gas,,1
+1934,6196,8,,-8.77807599999999,51.801822,hydro_ror,Carrigadrohid, ,Hydro run of river & pondage,,1
+1935,6173,19,,-8.624268,51.862924,hydro_ror,Inniscarra, ,Hydro run of river & pondage,,1
+1936,6181,38,,-6.39404299999999,53.074228,hydro_ror,Pollaphuca, ,Hydro run of river & pondage,,1
+1937,6175,137,,-8.19580100000001,53.271783,fossil_peat,Shannonbridge, ,Fossil peat,,1
+1938,6173,85,,-8.55834999999999,51.76104,fossil_coal_gas,Marina, ,Fossil gas,,1
+1939,6199,384,,-8.59130900000001,53.206033,fossil_coal_gas,Tynagh, ,Fossil gas,,1
+1940,6180,161,,-9.14062499999999,52.596375,fossil_coal_gas,Sealrock, ,Fossil gas,,1
+1941,6396,54.599998,,-7.34985400000001,55.14121,wind,Sorne Hill, ,Wind farm,,1
+1942,6204,85,,-7.954102,54.85764,wind,Meentycat, ,Wind farm,,1
+1943,6204,15,,-8.07495099999999,54.730964,wind,Golagh, ,Wind farm,,1
+1944,6556,20,,-8.19580100000001,54.533833,hydro_ror,Cliff, ,Hydro run of river & pondage,,1
+1945,6556,34.799999,,-8.657227,54.072283,wind,Cunghill, ,Wind farm,,1
+1946,6556,104,,-9.327393,54.168866,fossil_oil,Tawnaghmore, ,Fossil oil,,1
+1947,6192,91,,-8.041992,53.683695,fossil_peat,Lanesboro, ,Fossil peat,,1
+1948,6199,59.5,,-8.85498000000001,53.034607,wind,Derrybrien, ,Wind farm,,1
+1949,6180,19.450001,,-9.26147499999999,52.796119,wind,Booltiagh, ,Wind farm,,1
+1950,6196,29.799999,,-9.39331099999999,51.815407,wind,Glanlee, ,Wind farm,,1
+1951,6196,81,,-9.228516,51.890054,wind,Coomagearlahy, ,Wind farm,,1
+1952,6549,42,,-6.328125,52.509535,wind,Ballywater, ,Wind farm,,1
+1953,6200,742,,-6.317139,53.455349,fossil_coal_gas,Huntstown, ,Fossil gas,,1
+1954,6193,78.599998,,-6.95434600000001,54.09806,wind,Rathrussan, ,Wind farm,,1
+1955,6172,437,,-8.261719,51.774638,fossil_coal_gas,Whitegate, ,Fossil gas,,1
+1956,6176,38,,-9.678955,52.180669,wind,Clahane, ,Wind farm,,1
+1957,6175,104,,-7.49267599999999,53.265213,fossil_oil,Derryiron, ,Fossil oil,,1
+1958,6186,228,,-7.30590800000001,53.19287,fossil_peat,Cushaling, ,Fossil peat,,1
+1959,6196,57,,-8.85498000000001,51.978113,wind,Boggeragh, ,Wind farm,,1
+1960,6189,403,,-6.35009799999999,53.212612,fossil_coal_gas,Irishtown, ,Fossil gas,,1
+1961,6556,46,,-8.33862299999999,54.457267,hydro_ror,Cathaleen's Fall, ,Hydro run of river & pondage,,1
+1962,6338,50,,-7.163086,43.213183,hydro_ror,Sanzo, ,Hydro run of river & pondage,,1
+1963,6270,-1,,-3.42773400000001,42.827639,other_nl,G.Barcina, ,Other or not listed,,1
+1964,6276,-1,,-3.933105,43.076913,hydro_ror,Aguayo, ,Hydro run of river & pondage,,1
+1965,6246,-1,,-5.262451,42.875964,hydro_ror,R. Remolina, ,Hydro run of river & pondage,,1
+1966,6228,-1,,-6.33911100000001,42.843751,hydro_ror,Las Ondinas, ,Hydro run of river & pondage,,1
+1967,6242,-1,,-5.91064499999999,42.787339,other_nl,Villameca, ,Other or not listed,,1
+1968,6290,-1,,-4.855957,42.932296,other_nl,Velilla, ,Other or not listed,,1
+1969,6221,-1,,-7.36083999999999,42.130821,hydro_ror,Conso, ,Hydro run of river & pondage,,1
+1970,6232,63,,-7.13012700000001,42.155259,hydro_ror,S.Agustin, ,Hydro run of river & pondage,,1
+1971,6231,72,,-6.943359,42.228517,hydro_ror,Prada, ,Hydro run of river & pondage,,1
+1972,6224,325,,-7.19604499999999,42.220382,hydro_ror,P.Bibey, ,Hydro run of river & pondage,,1
+1973,6231,55,,-7.10815399999999,42.309815,hydro_ror,Santiago, ,Hydro run of river & pondage,,1
+1974,6229,-1,,-6.767578,42.5207,hydro_ror,La Lomba, ,Hydro run of river & pondage,,1
+1975,6219,-1,,-7.69043,42.407235,hydro_ror,S. Esteban, ,Hydro run of river & pondage,,1
+1976,6225,-1,,-7.78930700000001,42.528796,hydro_ror,Belesar, ,Hydro run of river & pondage,,1
+1977,6225,-1,,-7.745361,42.625876,hydro_ror,Belesar, ,Hydro run of river & pondage,,1
+1978,6220,-1,,-7.88818400000001,42.334184,hydro_ror,Velle, ,Hydro run of river & pondage,,1
+1979,6209,-1,,-8.02001999999999,42.252918,hydro_ror,Cartelle, ,Hydro run of river & pondage,,1
+1980,6205,-1,,-8.15185500000001,42.779275,hydro_ror,Portodemouros, ,Hydro run of river & pondage,,1
+1981,6250,595,,-6.635742,43.133061,hydro_ror,La Barca, ,Hydro run of river & pondage,,1
+1982,6318,255,,-6.35009799999999,43.301196,hydro_ror,Salas, ,Hydro run of river & pondage,,1
+1983,6336,-1,,-6.03149400000001,43.34116,other_nl,Grado, ,Other or not listed,,1
+1984,6226,-1,,-8.03100599999999,43.421009,other_nl,P.G. Rodriguez, ,Other or not listed,,1
+1985,6216,-1,,-8.624268,43.317185,other_nl,Sabón, ,Other or not listed,,1
+1986,6330,-1,,-8.67919900000001,43.165123,other_nl,Meirama, ,Other or not listed,,1
+1987,6582,-1,,-8.16284199999999,42.439674,hydro_ror,Albarellos, ,Hydro run of river & pondage,,1
+1988,6362,-1,,-8.29467799999999,42.130821,hydro_ror,Montouto, ,Hydro run of river & pondage,,1
+1989,6226,-1,,-7.93212900000001,43.55651,hydro_ror,Eume, ,Hydro run of river & pondage,,1
+1990,6256,-1,,-4.987793,43.125043,hydro_ror,Tanes, ,Hydro run of river & pondage,,1
+1991,6240,-1,,-6.73461900000001,42.843751,other_nl,Anllares, ,Other or not listed,,1
+1992,6328,-1,,-6.77856400000001,42.698586,other_nl,Compostilla II, ,Other or not listed,,1
+1993,6247,-1,,-5.00976600000001,42.811522,hydro_ror,Guardo, ,Hydro run of river & pondage,,1
+1994,6351,-1,,-6.47094700000001,42.787339,hydro_ror,Peñadrada, ,Hydro run of river & pondage,,1
+1995,6320,-1,,-3.25195299999999,42.835696,hydro_ror,Sobrón, ,Hydro run of river & pondage,,1
+1996,6270,-1,,-3.438721,42.795401,hydro_ror,G.Barcina, ,Hydro run of river & pondage,,1
+1997,6327,604,,-5.67993199999999,43.245203,other_nl,Soto de Ribera, ,Other or not listed,,1
+1998,6251,-1,,-5.99853499999999,43.141078,other_nl,Ferreros, ,Other or not listed,,1
+1999,6228,-1,,-6.405029,42.964463,hydro_ror,Rioscuro, ,Hydro run of river & pondage,,1
+2000,6310,-1,,-8.42651399999999,42.496403,hydro_ror,P.E.S. Cando, ,Hydro run of river & pondage,,1
+2001,6211,-1,,-8.42651399999999,42.342305,hydro_ror,P.e. Suido, ,Hydro run of river & pondage,,1
+2002,6334,799,,-1.96655299999999,42.334184,wind,Arrúbal, ,Wind farm,,1
+2003,6349,-1,,-5.60302699999999,43.397065,wind,Uninsa, ,Wind farm,,1
+2004,6316,-1,,-7.21801800000001,43.436966,wind,Wind Farms, ,Wind farm,,1
+2005,6308,-1,,-8.99780299999999,43.060861,wind,Wind Farms, ,Wind farm,,1
+2006,6337,-1,,-8.140869,42.569264,wind,Wind Farms, ,Wind farm,,1
+2007,6257,-1,,-5.75683600000001,43.596306,other_nl,Carrió, ,Other or not listed,,1
+2008,6305,-1,,-3.28491200000001,43.421009,other_nl,Zierbana, ,Other or not listed,,1
+2009,6361,-1,,-2.252197,43.301196,other_nl,Pasajes, ,Other or not listed,,1
+2010,6363,2284,,-3.438721,56.0475,fossil_brown_lignite,Longannet, ,Brown coal/Lignite,,1
+2011,6498,1261,,-3.317871,51.138001,wind,Hinkley Point, ,Wind farm,,1
+2012,6365,360,,-3.977051,53.008173,hydro_pure_ps,Ffestiniog, ,Hydro pure pump storage,,1
+2013,6366,1644,,-3.96606399999999,53.080827,hydro_pure_ps,Dinorwig, ,Hydro pure pump storage,,1
+2014,6367,960,,-4.40551799999999,53.370221,nuclear,Wylfa, ,Nuclear,,1
+2015,6509,153,,-4.735107,56.200593,hydro_mixed,Sloy, ,Hydro mixed pump storage,,1
+2016,6538,20,,-4.58129899999999,57.124314,hydro_mixed,Invergarry, ,Hydro mixed pump storage,,1
+2017,6371,964,,-2.50488299999999,52.603048,fossil_brown_lignite,Ironbridge, ,Brown coal/Lignite,,1
+2018,6536,1018,,-1.94458,52.729639,fossil_brown_lignite,Rugeley, ,Brown coal/Lignite,,1
+2019,6374,1180,,-1.86767600000001,57.527622,fossil_coal_gas,Peterhead, ,Fossil gas,,1
+2020,6439,1987,,-2.823486,53.350551,fossil_brown_lignite,Fiddlers Ferry, ,Brown coal/Lignite,,1
+2021,6537,363,,-3.043213,51.611195,fossil_brown_lignite,Uskmouth, ,Brown coal/Lignite,,1
+2022,6396,455,,-7.27294899999999,55.015426,fossil_oil,Coolkeeragh, ,Fossil oil,,1
+2023,6401,618,,-5.81176799999999,54.72462,fossil_oil,Kilroot, ,Fossil oil,,1
+2024,6402,1213,,-5.877686,54.826008,fossil_oil,Ballylumford, ,Fossil oil,,1
+2025,6500,1408,,-2.85644499999999,54.040038,nuclear,Heysham, ,Nuclear,,1
+2026,6439,810,,-2.59277299999999,53.330873,fossil_coal_gas,Rocksavage, ,Fossil gas,,1
+2027,6504,1234,,-2.614746,51.481383,fossil_coal_gas,Seabank, ,Fossil gas,,1
+2028,6587,420,,-1.70288099999999,55.347889,biomass,Lynemouth, ,Biomass,,1
+2029,6506,552,,-3.977051,51.604372,fossil_coal_gas,Baglan Bay, ,Fossil gas,,1
+2030,6509,440,,-5.218506,56.36525,hydro_pure_ps,Cruachan, ,Hydro pure pump storage,,1
+2031,6548,29,,-4.42749,58.077876,wind,Beinn Tharsuin, ,Wind farm,,1
+2032,6538,300,,-4.36157199999999,57.237449,hydro_pure_ps,Foyers, ,Hydro pure pump storage,,1
+2033,6476,51,,-3.46069300000001,57.615992,wind,Cairn Uish, ,Wind farm,,1
+2034,6475,12,,-2.735596,57.391704,wind,Dummuies, ,Wind farm,,1
+2035,6493,26,,-2.878418,57.219608,wind,Glens of Foundland, ,Wind farm,,1
+2036,6495,12,,-2.252197,57.076575,fossil_coal_gas,Stoneywood, ,Fossil gas,,1
+2037,6527,63,,-2.39502000000001,55.893796,wind,Crystal Rig, ,Wind farm,,1
+2038,6472,121,,-3.48266599999999,55.590763,wind,Black Law, ,Wind farm,,1
+2039,6509,19,,-4.372559,56.34699,wind,Ardkinglas, ,Wind farm,,1
+2040,6547,19,,-4.44946299999999,57.973157,wind,Novar, ,Wind farm,,1
+2041,6539,905,,-3.96606399999999,50.492463,fossil_coal_gas,Langage, ,Fossil gas,,1
+2042,6538,28,,-6.38305700000001,57.415378,wind,Ben Aketil, ,Wind farm,,1
+2043,6538,50,,-4.866943,57.219608,wind,Millenium, ,Wind farm,,1
+2044,6548,48,,-3.33984399999999,58.516652,wind,Causeymire, ,Wind farm,,1
+2045,6547,70,,-3.69140600000001,57.267164,wind,Paul's Hill, ,Wind farm,,1
+2046,6474,32,,-3.317871,56.607885,wind,Drumderg, ,Wind farm,,1
+2047,6538,37,,-4.61425800000001,57.267164,hydro_mixed,Glen Morisson, ,Hydro mixed pump storage,,1
+2048,6538,18,,-5.20752,57.034752,hydro_mixed,Quoich, ,Hydro mixed pump storage,,1
+2049,6547,20,,-4.779053,57.486309,hydro_mixed,Aigas, ,Hydro mixed pump storage,,1
+2050,6547,19,,-5.09765600000001,57.498117,hydro_mixed,Culligran, ,Hydro mixed pump storage,,1
+2051,6547,38,,-5.37231400000001,57.562995,hydro_mixed,Deanie, ,Hydro mixed pump storage,,1
+2052,6547,22,,-5.08667,57.903174,hydro_mixed,Grudie Bridge, ,Hydro mixed pump storage,,1
+2053,6547,19,,-4.70214800000001,57.914848,hydro_mixed,Mossford, ,Hydro mixed pump storage,,1
+2054,6547,34,,-4.647217,57.786233,hydro_mixed,Luichart, ,Hydro mixed pump storage,,1
+2055,6547,18,,-4.40551799999999,57.850598,hydro_mixed,Orrin, ,Hydro mixed pump storage,,1
+2056,6538,20,,-4.822998,56.909002,hydro_mixed,Kinlochleven, ,Hydro mixed pump storage,,1
+2057,6474,61,,-3.625488,56.619977,hydro_mixed,Clunie, ,Hydro mixed pump storage,,1
+2058,6474,34,,-3.85620100000001,56.626021,hydro_mixed,Tummel Bridge, ,Hydro mixed pump storage,,1
+2059,6474,75,,-3.79028299999999,56.734649,hydro_mixed,Errochty, ,Hydro mixed pump storage,,1
+2060,6538,45,,-4.119873,56.698474,hydro_mixed,Rannoch, ,Hydro mixed pump storage,,1
+2061,6510,47,,-3.845215,56.36525,hydro_mixed,Lochay, ,Hydro mixed pump storage,,1
+2062,6510,17,,-3.61450199999999,56.279961,hydro_mixed,Finlarig, ,Hydro mixed pump storage,,1
+2063,6471,17,,-3.42773400000001,56.322629,hydro_mixed,St. Fillans, ,Hydro mixed pump storage,,1
+2064,6512,35,,-3.38378899999999,56.26166,wind,Earlsbum, ,Wind farm,,1
+2065,6474,74,,-3.361816,56.419978,wind,Braes of Doune, ,Wind farm,,1
+2066,6509,25,,-5.46020499999999,56.273861,hydro_mixed,Inverawe, ,Hydro mixed pump storage,,1
+2067,6509,15,,-5.251465,56.163906,hydro_mixed,Nant, ,Hydro mixed pump storage,,1
+2068,6509,21,,-5.44921900000001,56.065903,wind,An Suidhe, ,Wind farm,,1
+2069,6418,30,,-5.075684,56.010666,wind,Cruach Mhor, ,Wind farm,,1
+2070,6545,30,,-5.53710900000001,55.683779,wind,Beinn an Tuirc, ,Wind farm,,1
+2071,6546,19,,-5.62500000000001,55.559709,wind,Tangy, ,Wind farm,,1
+2072,6507,15,,-5.66894500000001,55.40407,wind,Deucherin, ,Wind farm,,1
+2073,6517,322,,-4.04296900000001,55.702355,wind,Whitelee, ,Wind farm,,1
+2074,6531,33,,-4.064941,54.876607,hydro_mixed,Tongland, ,Hydro mixed pump storage,,1
+2075,6525,48,,-2.735596,55.992237,wind,Aikengall, ,Wind farm,,1
+2076,6413,117,,-4.70214800000001,55.247815,wind,Hadyard Hill, ,Wind farm,,1
+2077,6532,38,,-3.47167999999999,55.040614,wind,Minsca, ,Wind farm,,1
+2078,6548,-1,,-4.30664100000001,58.159112,wind,Strath Brora, ,Wind farm,,1
+2079,6538,41,,-6.229248,57.279043,wind,Edinbane, ,Wind farm,,1
+2080,6474,15,,-3.449707,56.692442,hydro_mixed,Pitlochry, ,Hydro mixed pump storage,,1
+2081,6474,17,,-2.58178700000001,56.662265,wind,Tullo, ,Wind farm,,1
+2082,6525,36,,-2.66967800000001,55.708545,wind,Toddlebum, ,Wind farm,,1
+2083,6494,30,,-2.296143,55.776573,wind,Dun Law Extension, ,Wind farm,,1
+2084,6494,38,,-2.28515599999999,55.553495,wind,Long Park, ,Wind farm,,1
+2085,6548,50,,-4.284668,58.240164,wind,Lairg Achany, ,Wind farm,,1
+2086,6547,15,,-4.515381,57.42721,hydro_mixed,Torr Achilty, ,Hydro mixed pump storage,,1
+2087,6547,20,,-4.460449,57.521723,hydro_mixed,Kilmorack, ,Hydro mixed pump storage,,1
+2088,6470,155,,-3.493652,54.489187,fossil_coal_gas,Fellside Power, ,Fossil gas,,1
+2089,6500,229,,-3.15307600000001,54.156001,fossil_coal_gas,Roosecote, ,Fossil gas,,1
+2090,6555,1380,,-3.24096700000001,53.238921,fossil_coal_gas,Connah's Quay, ,Fossil gas,,1
+2091,6537,850,,-3.06518600000001,51.740636,fossil_coal_gas,Severn Power, ,Fossil gas,,1
+2092,6532,45,,-3.12011699999999,55.160043,biomass,Stevens Croft, ,Biomass,,1
+2093,6546,1074,,-4.822998,55.646599,nuclear,Hunterston, ,Nuclear,,1
+2094,5725,1036,,-1.549072,50.750359,fossil_coal_gas,Fawley Oil & CCGT, ,Fossil gas,,1
+2095,6529,120,,-3.03222699999999,55.930741,fossil_coal_gas,Grangemouth, ,Fossil gas,,1
+2096,6533,1215,,-2.05444300000001,55.813629,nuclear,Torness, ,Nuclear,,1
+2097,6378,140,,-5.06469699999999,50.373496,fossil_coal_gas,Indian Queens, ,Fossil gas,,1
+2098,6384,1665,,-3.47167999999999,51.37178,fossil_brown_lignite,Aberthaw, ,Brown coal/Lignite,,1
+2099,6556,58.200001,,-8.22876,54.239551,wind,Garvagh,,Wind farm,,1
+2100,6549,41,,-6.855469,52.562995,wind,Castledockrell,,Wind farm,,1
+2101,6201,960,,-7.97607400000001,51.862924,fossil_coal_gas,Aghada,,Fossil gas,,1
+2102,6196,59.200001,,-9.31640599999999,52.045734,wind,Garrow,,Wind farm,,1
+2104,6538,15,,-5.06469699999999,57.284981,hydro_mixed,Livishie, ,Hydro mixed pump storage,,1
+2105,6538,100,,-5.174561,57.15412,hydro_mixed,Glendoe, ,Hydro mixed pump storage,,1
+2106,6542,54,,-7.53662100000001,54.220285,wind,Mantlin, ,Wind farm,,1
+2107,6136,170,,-4.39453100000001,48.378145,fossil_oil,Dirinon, ,Fossil oil,,1
+2108,6148,446,,-2.120361,47.294134,fossil_coal_gas,Grandes-Rivières, ,Fossil gas,,1
+2109,6327,432,,-5.73486299999999,43.157109,hydro_ror,Soto de Ribera, ,Hydro run of river & pondage,,1
+2110,6256,513,,-5.18554700000001,43.181147,other_nl,Lada, ,Other or not listed,,1
+2111,6493,-1,,-2.40600600000001,57.486309,wind,Hill of Towie, ,Wind farm,,1
+2112,6476,-1,,-2.59277299999999,57.53352,wind,Gordonstown Hill, ,Wind farm,,1
+2113,6493,-1,,-2.75756800000001,56.968936,wind,Mid Hill, ,Wind farm,,1
+2114,6509,19,,-4.79003900000001,56.389584,wind,Carraig Gheal, ,Wind farm,,1
+2115,6418,19,,-5.15258799999999,56.072035,wind_cons,A'Chruach, ,"Wind farm, under construction",,1
+2116,6531,19,,-3.63647500000001,55.229023,wind,Harestanes, ,Wind farm,,1
+2117,6441,229,,-3.64746099999999,54.027133,wind,Walney II, ,Wind farm,,1
+2118,6500,229,,-3.537598,54.13026,wind,Ormonde, ,Wind farm,,1
+2119,6367,19,,-3.94409200000001,53.376775,wind,Gwynt Y Mor, ,Wind farm,,1
+2120,6541,73.599998,,-7.19604499999999,54.889246,wind,Slieve Kirk, ,Wind farm,,1
+2121,6525,48,,-2.76855499999999,55.936895,wind,Fallago Rig, ,Wind farm,,1
+2122,6441,229,,-3.60351599999999,53.981935,wind,Walney I, ,Wind farm,,1
+2123,6548,48,,-4.372559,58.430482,wind,Baillie, ,Wind farm,,1
+2124,6548,48,,-3.28491200000001,58.309489,wind,Camster, ,Wind farm,,1
+2125,6548,48,,-3.92211899999999,58.245946,wind,Kilbraur, ,Wind farm,,1
+2126,6548,48,,-3.834229,58.066256,wind,Gordonbush, ,Wind farm,,1
+2127,6547,19,,-4.504395,57.914848,wind,Rosehill, ,Wind farm,,1
+2128,6547,19,,-4.559326,57.73935,wind,Lochluichart, ,Wind farm,,1
+2129,6547,19,,-4.75707999999999,57.698277,wind,Fairburn, ,Wind farm,,1
+2130,6476,51,,-2.647705,57.674786,wind,Boyndie, ,Wind farm,,1
+2131,6475,51,,-3.41674800000001,57.474497,wind,Rothes II, ,Wind farm,,1
+2132,6475,51,,-3.60351599999999,57.480403,wind,Rothes I, ,Wind farm,,1
+2133,6547,51,,-3.96606399999999,57.36209,wind,Berry Burn, ,Wind farm,,1
+2134,6475,-1,,-2.922363,57.308724,wind_cons,Clashindarroch, ,"Wind farm, under construction",,1
+2135,6471,2284,,-2.94433599999999,56.231139,biomass,Markinch, ,Biomass,,1
+2136,6521,117,,-4.39453100000001,55.478853,wind,Calde Water, ,Wind farm,,1
+2137,6523,38,,-2.878418,55.509971,wind,Dun Low, ,Wind farm,,1
+2138,6507,117,,-4.63622999999999,55.14121,wind,Arecleoch, ,Wind farm,,1
+2139,6507,117,,-4.822998,55.160043,wind,Mark Hill, ,Wind farm,,1
+2140,6441,229,,-3.76831100000001,53.923751,wind,West of Duddon Sands, ,Wind farm,,1
+2141,6445,810,,-2.50488299999999,53.455349,fossil_coal_gas,Carrington, ,Fossil gas,,1
+2142,6497,552,,-5.03173799999999,51.720223,fossil_coal_gas,Baglan Bay, ,Fossil gas,,1
+2143,6364,1234,,-3.33984399999999,51.37178,fossil_coal_gas,Barry, ,Fossil gas,,1
+2144,6175,,,-7.52563500000001,53.14677,wind,Mount Lucas,,Wind farm,,1
+2145,6182,,,-7.613525,52.749594,wind,Lisheen,,Wind farm,,1
+2146,6182,,,-7.76733399999999,52.61639,wind,Kill Hill,,Wind farm,,1
+2147,6176,,,-9.283447,52.27488,wind,Athea,,Wind farm,,1
+2148,6474,32,,-3.39477499999999,56.529199,wind,Griffin, ,Wind farm,,1
+2149,6531,19,,-3.35082999999999,55.310391,wind,Clyde, ,Wind farm,,1
+2150,6408,1380,,-3.20800799999999,53.140181,fossil_coal_gas,Deeside, ,Fossil gas,,1
+2151,6170,104,,-6.097412,53.435719,fossil_coal_gas,North Wall, ,Fossil gas,,1
+2152,6593,50,,26.542969,70.285411,hydro_pure_storage,Adamselv, ,Hydro pure storage,,1
+2153,6599,150,,23.994141,69.67999,hydro_pure_storage,Alta, ,Hydro pure storage,,1
+2154,6600,44,,22.137451,69.714298,hydro_pure_storage,Kvænangsbotn, ,Hydro pure storage,,1
+2155,6601,80,,21.038818,69.430551,hydro_pure_storage,Guolasjakka, ,Hydro pure storage,,1
+2156,6606,70,,20.379639,69.244472,hydro_pure_storage,Skibotn, ,Hydro pure storage,,1
+2157,6609,300,,15.853271,67.596662,hydro_pure_storage,Kobbelv, ,Hydro pure storage,,1
+2158,6611,205,,29.553223,69.442128,hydro_pure_storage,Skogfoss, ,Hydro pure storage,,1
+2159,6614,-1,,35.584717,68.91891,hydro_ror,Serebryanskaya HPP 15,Серебрянская ГЭС 15,Hydro run of river & pondage,,1
+2160,6616,-1,,32.958984,67.713612,nuclear,Kol'skaya NPP,Кольская АЭС,Nuclear,,1
+2161,6621,-1,,18.369141,67.491751,hydro_ror,Vietas, ,Hydro run of river & pondage,,1
+2162,6612,130,,18.951416,68.804014,hydro_pure_storage,Straumsmo, ,Hydro pure storage,,1
+2163,6622,90,,19.226074,68.668547,hydro_pure_storage,Innset, ,Hydro pure storage,,1
+2164,6623,60,,17.62207,68.407268,hydro_pure_storage,Sildvik, ,Hydro pure storage,,1
+2165,6608,300,,16.853027,68.183807,hydro_pure_ps,Skomen, ,Hydro pure pump storage,,1
+2166,6610,-1,,15.974121,67.339861,hydro_pure_ps,Siso, ,Hydro pure pump storage,,1
+2167,6610,-1,,15.897217,67.114476,hydro_pure_ps,Lomi, ,Hydro pure pump storage,,1
+2168,6625,-1,,17.995605,67.609221,hydro_ror,Ritsem, ,Hydro run of river & pondage,,1
+2169,6690,-1,,30.366211,69.519147,hydro_ror,Borisoglebskaya HPP 8,Борисоглебская ГЭС 8,Hydro run of river & pondage,,1
+2170,6695,-1,,30.124512,69.683804,hydro_pure_ps,Kirkenes, ,Hydro pure pump storage,,1
+2171,6611,-1,,28.99292,68.954446,hydro_ror,Kaitakoski HPP,Кайтакоски ГЭС,Hydro run of river & pondage,,1
+2172,6624,-1,,25.927734,67.646855,wind,Kuolajärvi, ,Wind farm,,1
