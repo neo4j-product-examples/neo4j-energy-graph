@@ -3,3 +3,6 @@ python-dotenv
 neo4j
 jupyter
 pandas
+langchain
+langchain-openai
+tqdm
