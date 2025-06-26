@@ -1,0 +1,1161 @@
+[
+  {
+    "title": "Energy Service Analyst",
+    "key": "Energy Service Analyst",
+    "description": "Analytics for Energy Infrastructure & Customer Installations",
+    "schema": [
+      {
+        "schema": [
+          {
+            "relationship": "LAST",
+            "source": {
+              "label": [
+                "Installation"
+              ],
+              "properties": [
+                "installationDate",
+                "nome",
+                "id",
+                "type"
+              ]
+            },
+            "target": {
+              "label": [
+                "Consumption"
+              ],
+              "properties": [
+                "consumptionValue",
+                "quantity",
+                "newConsumptionValue",
+                "id",
+                "referenceDate",
+                "seqId"
+              ]
+            }
+          },
+          {
+            "relationship": "CUSTOMER_HAS_INSTALLATION",
+            "source": {
+              "label": [
+                "Customer"
+              ],
+              "properties": [
+                "name",
+                "id",
+                "type"
+              ]
+            },
+            "target": {
+              "label": [
+                "Installation"
+              ],
+              "properties": [
+                "installationDate",
+                "nome",
+                "id",
+                "type"
+              ]
+            }
+          },
+          {
+            "relationship": "CONNECTED",
+            "source": {
+              "label": [
+                "Transformer"
+              ],
+              "properties": [
+                "symbol",
+                "dst_voltage",
+                "dst_dc",
+                "src_dc",
+                "geometry",
+                "id",
+                "src_voltage"
+              ]
+            },
+            "target": {
+              "label": [
+                "Bus"
+              ],
+              "properties": [
+                "symbol",
+                "tso",
+                "name_eng",
+                "visible",
+                "name_nat",
+                "geometry",
+                "id",
+                "category",
+                "mb_symbol",
+                "voltage"
+              ]
+            }
+          },
+          {
+            "relationship": "CREATED_TICKET",
+            "source": {
+              "label": [
+                "Customer"
+              ],
+              "properties": [
+                "name",
+                "id",
+                "type"
+              ]
+            },
+            "target": {
+              "label": [
+                "Ticket"
+              ],
+              "properties": [
+                "severity",
+                "ticketNumber",
+                "createdDate",
+                "resolutionDate",
+                "status"
+              ]
+            }
+          },
+          {
+            "relationship": "CONNECTED",
+            "source": {
+              "label": [
+                "Generator"
+              ],
+              "properties": [
+                "symbol",
+                "tso",
+                "name_eng",
+                "visible",
+                "name_nat",
+                "geometry",
+                "id",
+                "category",
+                "mb_symbol",
+                "capacity"
+              ]
+            },
+            "target": {
+              "label": [
+                "Bus"
+              ],
+              "properties": [
+                "symbol",
+                "tso",
+                "name_eng",
+                "visible",
+                "name_nat",
+                "geometry",
+                "id",
+                "category",
+                "mb_symbol",
+                "voltage"
+              ]
+            }
+          },
+          {
+            "relationship": "HAS_MAINTENANCE_RECORD",
+            "source": {
+              "label": [
+                "Bus"
+              ],
+              "properties": [
+                "symbol",
+                "tso",
+                "name_eng",
+                "visible",
+                "name_nat",
+                "geometry",
+                "id",
+                "category",
+                "mb_symbol",
+                "voltage"
+              ]
+            },
+            "target": {
+              "label": [
+                "MaintenanceRecord"
+              ],
+              "properties": [
+                "date",
+                "downtimeInHours",
+                "rootCause",
+                "description",
+                "id",
+                "embedding",
+                "type"
+              ]
+            }
+          },
+          {
+            "relationship": "HAS_MAINTENANCE_RECORD",
+            "source": {
+              "label": [
+                "Link"
+              ],
+              "properties": [
+                "symbol",
+                "visible",
+                "underground",
+                "t9_code",
+                "id",
+                "shape_leng",
+                "circuits",
+                "voltage",
+                "dc",
+                "length_m"
+              ]
+            },
+            "target": {
+              "label": [
+                "MaintenanceRecord"
+              ],
+              "properties": [
+                "date",
+                "downtimeInHours",
+                "rootCause",
+                "description",
+                "id",
+                "embedding",
+                "type"
+              ]
+            }
+          },
+          {
+            "relationship": "HAS_MAINTENANCE_RECORD",
+            "source": {
+              "label": [
+                "Generator"
+              ],
+              "properties": [
+                "symbol",
+                "tso",
+                "name_eng",
+                "visible",
+                "name_nat",
+                "geometry",
+                "id",
+                "category",
+                "mb_symbol",
+                "capacity"
+              ]
+            },
+            "target": {
+              "label": [
+                "MaintenanceRecord"
+              ],
+              "properties": [
+                "date",
+                "downtimeInHours",
+                "rootCause",
+                "description",
+                "id",
+                "embedding",
+                "type"
+              ]
+            }
+          },
+          {
+            "relationship": "LINK_HAS_INSTALLATION",
+            "source": {
+              "label": [
+                "Link"
+              ],
+              "properties": [
+                "symbol",
+                "visible",
+                "underground",
+                "t9_code",
+                "id",
+                "shape_leng",
+                "circuits",
+                "voltage",
+                "dc",
+                "length_m"
+              ]
+            },
+            "target": {
+              "label": [
+                "Installation"
+              ],
+              "properties": [
+                "installationDate",
+                "nome",
+                "id",
+                "type"
+              ]
+            }
+          },
+          {
+            "relationship": "INSTALL_HAS_REGION",
+            "source": {
+              "label": [
+                "Installation"
+              ],
+              "properties": [
+                "installationDate",
+                "nome",
+                "id",
+                "type"
+              ]
+            },
+            "target": {
+              "label": [
+                "Region"
+              ],
+              "properties": [
+                "name",
+                "id"
+              ]
+            }
+          },
+          {
+            "relationship": "NEXT",
+            "source": {
+              "label": [
+                "Consumption"
+              ],
+              "properties": [
+                "consumptionValue",
+                "quantity",
+                "newConsumptionValue",
+                "id",
+                "referenceDate",
+                "seqId"
+              ]
+            },
+            "target": {
+              "label": [
+                "Consumption"
+              ],
+              "properties": [
+                "consumptionValue",
+                "quantity",
+                "newConsumptionValue",
+                "id",
+                "referenceDate",
+                "seqId"
+              ]
+            }
+          },
+          {
+            "relationship": "IN_STATION",
+            "source": {
+              "label": [
+                "Bus"
+              ],
+              "properties": [
+                "symbol",
+                "tso",
+                "name_eng",
+                "visible",
+                "name_nat",
+                "geometry",
+                "id",
+                "category",
+                "mb_symbol",
+                "voltage"
+              ]
+            },
+            "target": {
+              "label": [
+                "Station"
+              ],
+              "properties": [
+                "geometry",
+                "name_eng",
+                "id"
+              ]
+            }
+          },
+          {
+            "relationship": "HAS_ALERT",
+            "source": {
+              "label": [
+                "Generator"
+              ],
+              "properties": [
+                "symbol",
+                "tso",
+                "name_eng",
+                "visible",
+                "name_nat",
+                "geometry",
+                "id",
+                "category",
+                "mb_symbol",
+                "capacity"
+              ]
+            },
+            "target": {
+              "label": [
+                "Alert"
+              ],
+              "properties": [
+                "type",
+                "id",
+                "date"
+              ]
+            }
+          },
+          {
+            "relationship": "FIRST",
+            "source": {
+              "label": [
+                "Installation"
+              ],
+              "properties": [
+                "installationDate",
+                "nome",
+                "id",
+                "type"
+              ]
+            },
+            "target": {
+              "label": [
+                "Consumption"
+              ],
+              "properties": [
+                "consumptionValue",
+                "quantity",
+                "newConsumptionValue",
+                "id",
+                "referenceDate",
+                "seqId"
+              ]
+            }
+          },
+          {
+            "relationship": "INSTALL_HAS_CONSUMPTION",
+            "source": {
+              "label": [
+                "Installation"
+              ],
+              "properties": [
+                "installationDate",
+                "nome",
+                "id",
+                "type"
+              ]
+            },
+            "target": {
+              "label": [
+                "Consumption"
+              ],
+              "properties": [
+                "consumptionValue",
+                "quantity",
+                "newConsumptionValue",
+                "id",
+                "referenceDate",
+                "seqId"
+              ]
+            }
+          },
+          {
+            "relationship": "CONNECTED",
+            "source": {
+              "label": [
+                "Link"
+              ],
+              "properties": [
+                "symbol",
+                "visible",
+                "underground",
+                "t9_code",
+                "id",
+                "shape_leng",
+                "circuits",
+                "voltage",
+                "dc",
+                "length_m"
+              ]
+            },
+            "target": {
+              "label": [
+                "Bus"
+              ],
+              "properties": [
+                "symbol",
+                "tso",
+                "name_eng",
+                "visible",
+                "name_nat",
+                "geometry",
+                "id",
+                "category",
+                "mb_symbol",
+                "voltage"
+              ]
+            }
+          },
+          {
+            "relationship": "HAS_ALERT",
+            "source": {
+              "label": [
+                "Bus"
+              ],
+              "properties": [
+                "symbol",
+                "tso",
+                "name_eng",
+                "visible",
+                "name_nat",
+                "geometry",
+                "id",
+                "category",
+                "mb_symbol",
+                "voltage"
+              ]
+            },
+            "target": {
+              "label": [
+                "Alert"
+              ],
+              "properties": [
+                "type",
+                "id",
+                "date"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "fewshot": [],
+    "connection": {
+      "port": "7687",
+      "database": "neo4j",
+      "host": "xxxxxx.databases.neo4j.io",
+      "password": "<password>",
+      "protocol": "neo4j+s",
+      "username": "neo4j"
+    },
+    "icon": "/favicon.ico",
+    "userDefined": true,
+    "schemaDiagram": "",
+    "promptParts": {
+      "dataModel": [
+        {
+          "schema": [
+            {
+              "relationship": "LAST",
+              "source": {
+                "label": [
+                  "Installation"
+                ],
+                "properties": [
+                  "installationDate",
+                  "nome",
+                  "id",
+                  "type"
+                ]
+              },
+              "target": {
+                "label": [
+                  "Consumption"
+                ],
+                "properties": [
+                  "consumptionValue",
+                  "quantity",
+                  "newConsumptionValue",
+                  "id",
+                  "referenceDate",
+                  "seqId"
+                ]
+              }
+            },
+            {
+              "relationship": "CUSTOMER_HAS_INSTALLATION",
+              "source": {
+                "label": [
+                  "Customer"
+                ],
+                "properties": [
+                  "name",
+                  "id",
+                  "type"
+                ]
+              },
+              "target": {
+                "label": [
+                  "Installation"
+                ],
+                "properties": [
+                  "installationDate",
+                  "nome",
+                  "id",
+                  "type"
+                ]
+              }
+            },
+            {
+              "relationship": "CONNECTED",
+              "source": {
+                "label": [
+                  "Transformer"
+                ],
+                "properties": [
+                  "symbol",
+                  "dst_voltage",
+                  "dst_dc",
+                  "src_dc",
+                  "geometry",
+                  "id",
+                  "src_voltage"
+                ]
+              },
+              "target": {
+                "label": [
+                  "Bus"
+                ],
+                "properties": [
+                  "symbol",
+                  "tso",
+                  "name_eng",
+                  "visible",
+                  "name_nat",
+                  "geometry",
+                  "id",
+                  "category",
+                  "mb_symbol",
+                  "voltage"
+                ]
+              }
+            },
+            {
+              "relationship": "CREATED_TICKET",
+              "source": {
+                "label": [
+                  "Customer"
+                ],
+                "properties": [
+                  "name",
+                  "id",
+                  "type"
+                ]
+              },
+              "target": {
+                "label": [
+                  "Ticket"
+                ],
+                "properties": [
+                  "severity",
+                  "ticketNumber",
+                  "createdDate",
+                  "resolutionDate",
+                  "status"
+                ]
+              }
+            },
+            {
+              "relationship": "CONNECTED",
+              "source": {
+                "label": [
+                  "Generator"
+                ],
+                "properties": [
+                  "symbol",
+                  "tso",
+                  "name_eng",
+                  "visible",
+                  "name_nat",
+                  "geometry",
+                  "id",
+                  "category",
+                  "mb_symbol",
+                  "capacity"
+                ]
+              },
+              "target": {
+                "label": [
+                  "Bus"
+                ],
+                "properties": [
+                  "symbol",
+                  "tso",
+                  "name_eng",
+                  "visible",
+                  "name_nat",
+                  "geometry",
+                  "id",
+                  "category",
+                  "mb_symbol",
+                  "voltage"
+                ]
+              }
+            },
+            {
+              "relationship": "HAS_MAINTENANCE_RECORD",
+              "source": {
+                "label": [
+                  "Bus"
+                ],
+                "properties": [
+                  "symbol",
+                  "tso",
+                  "name_eng",
+                  "visible",
+                  "name_nat",
+                  "geometry",
+                  "id",
+                  "category",
+                  "mb_symbol",
+                  "voltage"
+                ]
+              },
+              "target": {
+                "label": [
+                  "MaintenanceRecord"
+                ],
+                "properties": [
+                  "date",
+                  "downtimeInHours",
+                  "rootCause",
+                  "description",
+                  "id",
+                  "embedding",
+                  "type"
+                ]
+              }
+            },
+            {
+              "relationship": "HAS_MAINTENANCE_RECORD",
+              "source": {
+                "label": [
+                  "Link"
+                ],
+                "properties": [
+                  "symbol",
+                  "visible",
+                  "underground",
+                  "t9_code",
+                  "id",
+                  "shape_leng",
+                  "circuits",
+                  "voltage",
+                  "dc",
+                  "length_m"
+                ]
+              },
+              "target": {
+                "label": [
+                  "MaintenanceRecord"
+                ],
+                "properties": [
+                  "date",
+                  "downtimeInHours",
+                  "rootCause",
+                  "description",
+                  "id",
+                  "embedding",
+                  "type"
+                ]
+              }
+            },
+            {
+              "relationship": "HAS_MAINTENANCE_RECORD",
+              "source": {
+                "label": [
+                  "Generator"
+                ],
+                "properties": [
+                  "symbol",
+                  "tso",
+                  "name_eng",
+                  "visible",
+                  "name_nat",
+                  "geometry",
+                  "id",
+                  "category",
+                  "mb_symbol",
+                  "capacity"
+                ]
+              },
+              "target": {
+                "label": [
+                  "MaintenanceRecord"
+                ],
+                "properties": [
+                  "date",
+                  "downtimeInHours",
+                  "rootCause",
+                  "description",
+                  "id",
+                  "embedding",
+                  "type"
+                ]
+              }
+            },
+            {
+              "relationship": "LINK_HAS_INSTALLATION",
+              "source": {
+                "label": [
+                  "Link"
+                ],
+                "properties": [
+                  "symbol",
+                  "visible",
+                  "underground",
+                  "t9_code",
+                  "id",
+                  "shape_leng",
+                  "circuits",
+                  "voltage",
+                  "dc",
+                  "length_m"
+                ]
+              },
+              "target": {
+                "label": [
+                  "Installation"
+                ],
+                "properties": [
+                  "installationDate",
+                  "nome",
+                  "id",
+                  "type"
+                ]
+              }
+            },
+            {
+              "relationship": "INSTALL_HAS_REGION",
+              "source": {
+                "label": [
+                  "Installation"
+                ],
+                "properties": [
+                  "installationDate",
+                  "nome",
+                  "id",
+                  "type"
+                ]
+              },
+              "target": {
+                "label": [
+                  "Region"
+                ],
+                "properties": [
+                  "name",
+                  "id"
+                ]
+              }
+            },
+            {
+              "relationship": "NEXT",
+              "source": {
+                "label": [
+                  "Consumption"
+                ],
+                "properties": [
+                  "consumptionValue",
+                  "quantity",
+                  "newConsumptionValue",
+                  "id",
+                  "referenceDate",
+                  "seqId"
+                ]
+              },
+              "target": {
+                "label": [
+                  "Consumption"
+                ],
+                "properties": [
+                  "consumptionValue",
+                  "quantity",
+                  "newConsumptionValue",
+                  "id",
+                  "referenceDate",
+                  "seqId"
+                ]
+              }
+            },
+            {
+              "relationship": "IN_STATION",
+              "source": {
+                "label": [
+                  "Bus"
+                ],
+                "properties": [
+                  "symbol",
+                  "tso",
+                  "name_eng",
+                  "visible",
+                  "name_nat",
+                  "geometry",
+                  "id",
+                  "category",
+                  "mb_symbol",
+                  "voltage"
+                ]
+              },
+              "target": {
+                "label": [
+                  "Station"
+                ],
+                "properties": [
+                  "geometry",
+                  "name_eng",
+                  "id"
+                ]
+              }
+            },
+            {
+              "relationship": "HAS_ALERT",
+              "source": {
+                "label": [
+                  "Generator"
+                ],
+                "properties": [
+                  "symbol",
+                  "tso",
+                  "name_eng",
+                  "visible",
+                  "name_nat",
+                  "geometry",
+                  "id",
+                  "category",
+                  "mb_symbol",
+                  "capacity"
+                ]
+              },
+              "target": {
+                "label": [
+                  "Alert"
+                ],
+                "properties": [
+                  "type",
+                  "id",
+                  "date"
+                ]
+              }
+            },
+            {
+              "relationship": "FIRST",
+              "source": {
+                "label": [
+                  "Installation"
+                ],
+                "properties": [
+                  "installationDate",
+                  "nome",
+                  "id",
+                  "type"
+                ]
+              },
+              "target": {
+                "label": [
+                  "Consumption"
+                ],
+                "properties": [
+                  "consumptionValue",
+                  "quantity",
+                  "newConsumptionValue",
+                  "id",
+                  "referenceDate",
+                  "seqId"
+                ]
+              }
+            },
+            {
+              "relationship": "INSTALL_HAS_CONSUMPTION",
+              "source": {
+                "label": [
+                  "Installation"
+                ],
+                "properties": [
+                  "installationDate",
+                  "nome",
+                  "id",
+                  "type"
+                ]
+              },
+              "target": {
+                "label": [
+                  "Consumption"
+                ],
+                "properties": [
+                  "consumptionValue",
+                  "quantity",
+                  "newConsumptionValue",
+                  "id",
+                  "referenceDate",
+                  "seqId"
+                ]
+              }
+            },
+            {
+              "relationship": "CONNECTED",
+              "source": {
+                "label": [
+                  "Link"
+                ],
+                "properties": [
+                  "symbol",
+                  "visible",
+                  "underground",
+                  "t9_code",
+                  "id",
+                  "shape_leng",
+                  "circuits",
+                  "voltage",
+                  "dc",
+                  "length_m"
+                ]
+              },
+              "target": {
+                "label": [
+                  "Bus"
+                ],
+                "properties": [
+                  "symbol",
+                  "tso",
+                  "name_eng",
+                  "visible",
+                  "name_nat",
+                  "geometry",
+                  "id",
+                  "category",
+                  "mb_symbol",
+                  "voltage"
+                ]
+              }
+            },
+            {
+              "relationship": "HAS_ALERT",
+              "source": {
+                "label": [
+                  "Bus"
+                ],
+                "properties": [
+                  "symbol",
+                  "tso",
+                  "name_eng",
+                  "visible",
+                  "name_nat",
+                  "geometry",
+                  "id",
+                  "category",
+                  "mb_symbol",
+                  "voltage"
+                ]
+              },
+              "target": {
+                "label": [
+                  "Alert"
+                ],
+                "properties": [
+                  "type",
+                  "id",
+                  "date"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "fewshot": []
+    },
+    "toolsData": [
+      {
+        "name": "get_risky_equipment",
+        "description": "Get Maintenance Records that indicate potential risk on energy equipment",
+        "category": "Cypher Execution",
+        "cypherQuery": "",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "from_date": {
+              "type": "string",
+              "description": "The earliest date of maintenance records to consider (default: '2024-01-01') - should ideally look back 1 year from today's date"
+            }
+          },
+          "required": [
+            "from_date"
+          ]
+        },
+        "categorical_input": "MATCH(eq:Generator|Link|Bus)-[:HAS_MAINTENANCE_RECORD]->(mr:MaintenanceRecord)\nWHERE mr.type = \"Corrective\" AND mr.date > date('${from_date}')\nWITH eq, mr ORDER BY mr.date DESC\nWITH eq, collect({maint_id:mr.id, descriptionOfPreviousMaintenance: mr.description, date: mr.date, downtimeInHours: mr.downtimeInHours}) AS previousMaintenanceIssues\nRETURN eq{assetType:labels(eq), previousMaintenanceIssues:previousMaintenanceIssues, .*}",
+        "tagName": [
+          "Graph Traversal"
+        ]
+      },
+      {
+        "name": "get_installation_equipment_dependency",
+        "description": "This tool provides customer installation usage data for equipment, useful for impact analysis when scheduling maintenance.",
+        "category": "Cypher Execution",
+        "cypherQuery": "",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "equipment_type": {
+              "type": "string",
+              "description": "Type of the equipment. Can be Generator, Bus, or Link"
+            },
+            "equipment_id": {
+              "type": "string",
+              "description": "equipment id"
+            }
+          },
+          "required": [
+            "id_list",
+            "equipment_type",
+            "equipment_id"
+          ]
+        },
+        "categorical_input": "MATCH (eq:${equipment_type} {id: ${equipment_id} })(()-[:CONNECTED]-(:Bus|Link)){0,4}(:Link)-[:LINK_HAS_INSTALLATION]->(i:Installation)-[:LAST]->(c:Consumption)\nMATCH (eqAll)(()-[:CONNECTED]-(:Bus|Link)){0,4}(:Link)-[:LINK_HAS_INSTALLATION]-(i)\nRETURN i.id AS customer_installation_id, collect(DISTINCT labels(eqAll)[0] + \": \" + eq.id) AS dependent_on_equipement, c.newConsumptionValue AS consuption_units",
+        "tagName": [
+          "Graph Traversal"
+        ]
+      },
+      {
+        "name": "get_installation_customers",
+        "description": "This tool gets customer details for an installation. There are potentially multiple customers per installation. ",
+        "category": "Cypher Execution",
+        "cypherQuery": "",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "installation_id": {
+              "type": "integer",
+              "description": "installation id"
+            }
+          },
+          "required": [
+            "installation_ids",
+            "installation_id"
+          ]
+        },
+        "categorical_input": "MATCH (installation:Installation)<-[:CUSTOMER_HAS_INSTALLATION]-(customer:Customer) \nWHERE installation.id = ${installation_id}\nRETURN customer",
+        "tagName": [
+          "Graph Traversal"
+        ]
+      },
+      {
+        "name": "search_equipment_maintenance_records",
+        "description": "Searches equipment maintenance records based on user search prompt and provides information about equipment, maintenance, and alerts. When returned, do not list equipment with missing ids. ",
+        "category": "Cypher Execution",
+        "cypherQuery": "",
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "search_prompt": {
+              "type": "string",
+              "description": "Search prompt for user inquiry. Semantic search will be used to pull relevant records"
+            }
+          },
+          "required": [
+            "asked_query",
+            "search_prompt"
+          ]
+        },
+        "categorical_input": "WITH genai.vector.encode('${search_prompt}', 'OpenAI', {model: 'text-embedding-ada-002', token:'<YOUR OPENAI API KEY>'}) as queryVector\nCALL db.index.vector.queryNodes(\"text_embeddings\", 3, queryVector) yield node, score\nwith node, score\nOPTIONAL MATCH (g:Generator|Bus|Link)-[r:HAS_MAINTENANCE_RECORD]->(node)\nOPTIONAL MATCH (g)-[r3:HAS_ALERT]->(a:Alert)\nOPTIONAL MATCH (g)-[:HAS_MAINTENANCE_RECORD]->(mr:MaintenanceRecord)\nWITH score,\n  node,\n  g,\n  a,\n  collect(distinct mr.id+' Date: '+ mr.date) as maintenanceHistory, \n  collect(distinct a.type + ' raised on '+ a.date) as alertHistory\nRETURN\nnode.description + '- EquipmentId:' + coalesce(toString(g.id),'no equipmentId found') + '- HasAlert: ' + coalesce(apoc.text.join(alertHistory, ', '),'no alerts')+  ' - History: ' + coalesce(apoc.text.join(maintenanceHistory, ', '),'no maintenance history') AS text,\nscore,\n\t  {\n\t\tmaintenanceRecordID: node.id,\n\t\tequipmentId: [ (g:Generator|Bus|Link)-[r:HAS_MAINTENANCE_RECORD]->(node) | g.id ],\n\t\totherMaintenanceRecords: [(m1:MaintenanceRecord)<-[r2:HAS_MAINTENANCE_RECORD]- (g:Generator|Bus|Link)-[r:HAS_MAINTENANCE_RECORD]->(node)  | m1.id],\n\t\talerts: [(a:Alert)<-[r3:HAS_ALERT]-(g:Generator|Bus|Link)-[r:HAS_MAINTENANCE_RECORD]->(node) | a.type]\n\t  } AS metadata",
+        "tagName": [
+          "Vector Search"
+        ]
+      }
+    ],
+    "aiService": "Open AI",
+    "openAIKey": "<YOUR OPENAI API KEY>",
+    "openAIModel": "gpt-4o"
+  }
+]
